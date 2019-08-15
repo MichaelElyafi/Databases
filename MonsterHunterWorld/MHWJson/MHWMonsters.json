@@ -1,0 +1,6881 @@
+﻿{
+  "Monster": [
+    {
+      "id": 1,
+      "name": "Aptonoth",
+      "Key": "aptonoth",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-aptonoth_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/aptonoth_weaknesses-mhw.png",
+      "type": "small",
+      "species": "herbivore",
+      "description": "Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jagras",
+      "Key": "jagras",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-jagras_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/jagras_weaknesses-mhw.png",
+      "type": "small",
+      "species": "fanged wyvern",
+      "description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing larger monsters at a moment's notice.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mernos",
+      "Key": "mernos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-mernos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/mernos_weaknesses-mhw.png",
+      "type": "small",
+      "species": "wingdrake",
+      "description": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Vespoid",
+      "Key": "vespoid",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-vespoid_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/vespoid_weaknesses-mhw.png",
+      "type": "small",
+      "species": "neopteron",
+      "description": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 7,
+          "name": "Paralysis",
+          "description": "Paralysis renders the hunter or monster immobilized and susceptible to increased damage for the duration. Hunters can unparalyzed if they are hit.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 2,
+                "name": "Paralysis Resistance",
+                "description": "Reduces the duration of paralysis."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        },
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        },
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mosswine",
+      "Key": "mosswine",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-mosswine_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/mosswine_weaknesses-mhw.png",
+      "type": "small",
+      "species": "herbivore",
+      "description": "Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting for mushrooms, follow the Mosswine to the motherlode.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        },
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Apceros",
+      "Key": "apceros",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-apceros_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/apceros_weaknesses-mhw.png",
+      "type": "small",
+      "species": "herbivore",
+      "description": "Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Kestodon",
+      "Key": "kestodon",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kestodon_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kestodon_weaknesses-mhw.png",
+      "type": "small",
+      "species": "herbivore",
+      "description": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Noios",
+      "Key": "noios",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-noios_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/noios_weaknesses-mhw.png",
+      "type": "small",
+      "species": "wingdrake",
+      "description": "Wingdrakes that produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them for transportation.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Gajau",
+      "Key": "gajau",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-gajau_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/gajau_weaknesses-mhw.png",
+      "type": "small",
+      "species": "fish",
+      "description": "Vicious piscine that form groups to defend their territory from intruders. Be sure not to venture too closely to their habitat!",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Kelbi",
+      "Key": "kelbi",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kelbi_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kelbi_weaknesses-mhw.png",
+      "type": "small",
+      "species": "herbivore",
+      "description": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Raphinos",
+      "Key": "raphinos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-raphinos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/raphinos_weaknesses-mhw.png",
+      "type": "small",
+      "species": "wingdrake",
+      "description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Shamos",
+      "Key": "shamos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-shamos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/shamos_weaknesses-mhw.png",
+      "type": "small",
+      "species": "fanged wyvern",
+      "description": "Small nocturnal monsters. They're particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Girros",
+      "Key": "girros",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-girros_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/girros_weaknesses-mhw.png",
+      "type": "small",
+      "species": "fanged wyvern",
+      "description": "Monsters known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They're known for crippling targets with paralyzing fangs.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 7,
+          "name": "Paralysis",
+          "description": "Paralysis renders the hunter or monster immobilized and susceptible to increased damage for the duration. Hunters can unparalyzed if they are hit.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 2,
+                "name": "Paralysis Resistance",
+                "description": "Reduces the duration of paralysis."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hornetaur",
+      "Key": "hornetaur",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-hornetaur_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/hornetaur_weaknesses-mhw.png",
+      "type": "small",
+      "species": "neopteron",
+      "description": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Gastodon",
+      "Key": "gastodon",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-gastodon_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/gastodon_weaknesses-mhw.png",
+      "type": "small",
+      "species": "herbivore",
+      "description": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Barnos",
+      "Key": "barnos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-barnos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/barnos_weaknesses-mhw.png",
+      "type": "small",
+      "species": "wingdrake",
+      "description": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 14,
+          "name": "Defense Down",
+          "description": "Some monsters may inflict a status that lowers a hunter's defense. Lasts for a certain period of time but can also be cured with defense-increasing items.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 25,
+                "name": "Armorskin",
+                "description": "",
+                "rarity": 4,
+                "value": 58,
+                "carryLimit": 5
+              },
+              {
+                "id": 26,
+                "name": "Mega Armorskin",
+                "description": "",
+                "rarity": 5,
+                "value": 269,
+                "carryLimit": 5
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        },
+        {
+          "id": 6,
+          "name": "Great Ravine",
+          "zoneCount": 1
+        },
+        {
+          "id": 8,
+          "name": "Everstream",
+          "zoneCount": 1
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "None",
+          "partbreak": "None",
+          "rarity": 0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Great Jagras",
+      "Key": "great_jagras",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-great_jagras_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/great_jagras_weaknesses-mhw.png",
+      "type": "large",
+      "species": "fanged wyvern",
+      "description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        }
+      ],
+      "resistances": [
+        {
+          "element": "water",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 3,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Great Jagras Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Great Jagras Hide",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Great Jagras Mane",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Great Jagras Claw",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Great Jagras Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Great Jagras Hide+",
+          "partbreak": "(Break Chest)",
+          "rarity": 4
+        },
+        {
+          "name": "Great Jagras Claw+",
+          "partbreak": "(Dropped, Break ForeLegs)",
+          "rarity": 4
+        },
+        {
+          "name": "Iron Ore",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Bone S",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Kulu-Ya-Ku",
+      "Key": "kulu-ya-ku",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kulu-ya-ku_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kulu-ya-ku_weaknesses-mhw.png",
+      "type": "large",
+      "species": "bird wyvern",
+      "description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Kulu-Ya-Ku Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Kulu-Ya-Ku Hide",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Kulu-Ya-Ku Plume",
+          "partbreak": "(Dropped, Break ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Kulu-Ya-Ku Beak",
+          "partbreak": "(Break Head)",
+          "rarity": 4
+        },
+        {
+          "name": "Kulu-Ya-Ku Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Kulu-Ya-Ku Hide+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Kulu-Ya-Ku Plume+",
+          "partbreak": "(Dropped, Break ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Kulu-Ya-Ku Beak+",
+          "partbreak": "(Break Head)",
+          "rarity": 4
+        },
+        {
+          "name": "Bird Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone S",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Pukei-Pukei",
+      "Key": "pukei-pukei",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-pukei-pukei_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/pukei-pukei_weaknesses-mhw.png",
+      "type": "large",
+      "species": "bird wyvern",
+      "description": "A bird wyvern known to possess poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 8,
+          "name": "Poison",
+          "description": "Poison slowly drains the target's health.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 5,
+                "name": "Antidote",
+                "description": "A cure for poison.",
+                "rarity": 1,
+                "value": 6,
+                "carryLimit": 10
+              },
+              {
+                "id": 6,
+                "name": "Herbal Medicine",
+                "description": "Removes all traces of poison and restores a slight amount of health.",
+                "rarity": 2,
+                "value": 25,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 1,
+                "name": "Poison Resistance",
+                "description": "Grants protection against the effects of poison."
+              }
+            ],
+            "items": []
+          }
+        },
+        {
+          "id": 10,
+          "name": "Stun",
+          "description": "Stun renders the target inactive, and sometimes causes them to fall over.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 4,
+                "name": "Stun Resistance",
+                "description": "Reduces stun duration."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "water",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Pukei-Pukei Shell",
+          "partbreak": "(Break Back)",
+          "rarity": 4
+        },
+        {
+          "name": "Pukei-Pukei Quill",
+          "partbreak": "(Dropped, Break Wings)",
+          "rarity": 3
+        },
+        {
+          "name": "Pukei-Pukei Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Pukei-Pukei Tail Pukei-Pukei Sac",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Pukei-Pukei Carapace",
+          "partbreak": "(BreakBack)",
+          "rarity": 4
+        },
+        {
+          "name": "Pukei-Pukei Wing",
+          "partbreak": "(BreakWings)",
+          "rarity": 3
+        },
+        {
+          "name": "Pukei-Pukei Scale+",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Pukei-Pukei Sac+",
+          "partbreak": "(BreakHead)",
+          "rarity": 3
+        },
+        {
+          "name": "Bird Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Pukei-Pukei Sac",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Monster Bone M",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Poison Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Toxin Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Barroth",
+      "Key": "barroth",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-barroth_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/barroth_weaknesses-mhw.png",
+      "type": "large",
+      "species": "brute wyvern",
+      "description": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 12,
+          "name": "Waterblight",
+          "description": "Waterblight slows down stamina recovery rate.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 15,
+          "name": "Muddy",
+          "description": "A status effect inflicted when mud thrown by a monster covers the Hunter and makes movement more difficult. Slows all actions until the hunter leaves the mud.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": "covered in mud"
+        },
+        {
+          "element": "water",
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": "covered in mud"
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Barroth Ridge",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Barroth Claw",
+          "partbreak": "(Break ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Barroth Tail",
+          "partbreak": "(Carve Severed Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Barroth Shell",
+          "partbreak": "(Break Legs)",
+          "rarity": 3
+        },
+        {
+          "name": "Barroth Scalp",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Fertile Mud",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Barroth Ridge+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Barroth Claw+",
+          "partbreak": "(Break ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Barroth Carapace",
+          "partbreak": "(Dropped, Break Legs)",
+          "rarity": 5
+        },
+        {
+          "name": "Barroth Scalp",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone M",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Jyuratodus",
+      "Key": "jyuratodus",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-jyuratodus_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/jyuratodus_weaknesses-mhw.png",
+      "type": "large",
+      "species": "piscine wyvern",
+      "description": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
+      "elements": [
+        "water"
+      ],
+      "ailments": [
+        {
+          "id": 12,
+          "name": "Waterblight",
+          "description": "Waterblight slows down stamina recovery rate.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 15,
+          "name": "Muddy",
+          "description": "A status effect inflicted when mud thrown by a monster covers the Hunter and makes movement more difficult. Slows all actions until the hunter leaves the mud.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": "covered in mud"
+        },
+        {
+          "element": "thunder",
+          "condition": "covered in mud"
+        },
+        {
+          "element": "water",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": "covered in mud"
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 3,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Jyuratodus Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Jyuratodus Shell",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Jyuratodus Fang",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Jyuratodus Fin",
+          "partbreak": "(Dropped, Break Chest)",
+          "rarity": 4
+        },
+        {
+          "name": "Jyuratodus Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Jyuratodus Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Jyuratodus Fang+",
+          "partbreak": "(BreakHead)",
+          "rarity": 3
+        },
+        {
+          "name": "Jyuratodus Fin+",
+          "partbreak": "(DroppedBreak Chest)",
+          "rarity": 4
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone M",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Aqua Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Torrent Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Tobi-Kadachi",
+      "Key": "tobi-kadachi",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-tobi-kadachi_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/tobi-kadachi_weaknesses-mhw.png",
+      "type": "large",
+      "species": "fanged wyvern",
+      "description": "A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.",
+      "elements": [
+        "thunder"
+      ],
+      "ailments": [
+        {
+          "id": 11,
+          "name": "Thunderblight",
+          "description": "Thunderblight increases the chance of being stunned.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        }
+      ],
+      "resistances": [
+        {
+          "element": "thunder",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Tobi-Kadachi Pelt",
+          "partbreak": "(BreakBack)",
+          "rarity": 4
+        },
+        {
+          "name": "Tobi-Kadachi Electrode",
+          "partbreak": "(BreakHead, Break Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Tobi-Kadachi MembraneTobi-Kadachi Claw",
+          "partbreak": "(DroppedBreak ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Tobi-Kadachi Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Tobi-Kadachi Pelt+",
+          "partbreak": "(BreakBack)",
+          "rarity": 4
+        },
+        {
+          "name": "Tobi-Kadachi Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Tobi-Kadachi Electrode+",
+          "partbreak": "(BreakHead, Break Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Tobi-Kadachi Claw+",
+          "partbreak": "(DroppedBreak ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Tobi-Kadachi Membrane",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Tobi-Kadachi Claw",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Monster Bone M",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Electro Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Thunder Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Anjanath",
+      "Key": "anjanath",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-anjanath_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/anjanath_weaknesses-mhw.png",
+      "type": "large",
+      "species": "brute wyvern",
+      "description": "The Anjanath patrols the Ancient Forest, looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without hesitation.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Anjanath Pelt",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Anjanath Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Anjanath Fang",
+          "partbreak": "(Dropped, Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Anjanath Nosebone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Anjanath Plate Anjanath Tail",
+          "partbreak": "(Carve Severed Tail, Any Rank)",
+          "rarity": 2
+        },
+        {
+          "name": "Anjanath Pelt+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Anjanath Scale+",
+          "partbreak": "(Break Legs)",
+          "rarity": 5
+        },
+        {
+          "name": "Anjanath Fang+",
+          "partbreak": "(Dropped, Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Anjanath Nosebone+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Anjanath Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Anjanath Tail",
+          "partbreak": "(Any Rank)",
+          "rarity": 2
+        },
+        {
+          "name": "Anjanath Plate",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone L",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Flame Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Inferno Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Azure Rathalos",
+      "Key": "azure_rathalos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-azure_rathalos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/azure_rathalos_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 8,
+          "name": "Poison",
+          "description": "Poison slowly drains the target's health.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 5,
+                "name": "Antidote",
+                "description": "A cure for poison.",
+                "rarity": 1,
+                "value": 6,
+                "carryLimit": 10
+              },
+              {
+                "id": 6,
+                "name": "Herbal Medicine",
+                "description": "Removes all traces of poison and restores a slight amount of health.",
+                "rarity": 2,
+                "value": 25,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 1,
+                "name": "Poison Resistance",
+                "description": "Grants protection against the effects of poison."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Material",
+          "partbreak": "(No Break)",
+          "rarity": 0
+        },
+        {
+          "name": "Azure Rathalos Scale+Azure Rathalos CarapaceAzure Rathalos WingRathalos MedullaRathalos PlateRathalos RubyAzure Rathalos Tail",
+          "partbreak": "()",
+          "rarity": 2
+        },
+        {
+          "name": "Azure Rathalos Carapace    Azure Rathalos Scale+   Azure Rathalos Wing   Azure Rathalos Tail Rathalos Plate Monster HardboneInferno Sac Rathalos Medulla   Rathalos Ruby",
+          "partbreak": "(Investigation Gold)",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Bazelgeuse",
+      "Key": "bazelgeuse",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-bazelgeuse_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/bazelgeuse_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 1,
+          "name": "Blastblight",
+          "description": "Blastblight will cause a damaging explosion after a certain amount of time has passed, or upon sustaining a heavy impact.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 6,
+                "name": "Blast Resistance",
+                "description": "Grants protection against blastblight."
+              }
+            ],
+            "items": []
+          }
+        },
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        },
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        },
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Bazelgeuse Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Bazelgeuse Carapace",
+          "partbreak": "(Break Back)",
+          "rarity": 4
+        },
+        {
+          "name": "Bazelgeuse Talon",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Bazelgeuse Fuse",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Bazelgeuse Wing",
+          "partbreak": "(Break Wings)",
+          "rarity": 3
+        },
+        {
+          "name": "Bazelgeuse Gem",
+          "partbreak": "(Break Head, Tail, orLegs)",
+          "rarity": 1
+        },
+        {
+          "name": "Bazelgeuse Tail",
+          "partbreak": "(CutTail)",
+          "rarity": 0
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Behemoth",
+      "Key": "behemoth",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-behemoth_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/behemoth_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
+      "elements": [
+        "fire",
+        "thunder"
+      ],
+      "ailments": [
+        {
+          "id": 2,
+          "name": "Bleeding",
+          "description": "Bleeding causes damage when performing certain actions, such as running, dodging, or attacking.",
+          "recovery": {
+            "actions": [
+              "crouch"
+            ],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 7,
+                "name": "Bleeding Resistance",
+                "description": "Grants protection against bleeding."
+              }
+            ],
+            "items": [
+              {
+                "id": 11,
+                "name": "Well-done Steak",
+                "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
+                "rarity": 2,
+                "value": 48,
+                "carryLimit": 10
+              },
+              {
+                "id": 17,
+                "name": "Astera Jerky",
+                "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
+                "rarity": 2,
+                "value": 20,
+                "carryLimit": 5
+              },
+              {
+                "id": 107,
+                "name": "Sushifish Scale",
+                "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
+                "rarity": 2,
+                "value": 45,
+                "carryLimit": 10
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 11,
+          "name": "Thunderblight",
+          "description": "Thunderblight increases the chance of being stunned.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Behemoth Mane",
+          "partbreak": "(Dropped, Carve d)",
+          "rarity": 5
+        },
+        {
+          "name": "Behemoth Bone",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Behemoth Tail",
+          "partbreak": "(Cut Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Behemoth Shearclaw",
+          "partbreak": "(ForeLegs, Broken)",
+          "rarity": 3
+        },
+        {
+          "name": "Behemoth Great Horn",
+          "partbreak": "(Horn Broken)",
+          "rarity": 2
+        },
+        {
+          "name": "Aetheryte Shard",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Deviljho",
+      "Key": "deviljho",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-deviljho_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/deviljho_weaknesses-mhw.png",
+      "type": "large",
+      "species": "brute wyvern",
+      "description": "A monster that must feed constantly and will devour anything in its path, even feeding on the largest of monsters with its massive jowls.",
+      "elements": [
+        "dragon"
+      ],
+      "ailments": [
+        {
+          "id": 3,
+          "name": "Dragonblight",
+          "description": "Dragonblight causes your weapon's elemental properties are nullified.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 14,
+          "name": "Defense Down",
+          "description": "Some monsters may inflict a status that lowers a hunter's defense. Lasts for a certain period of time but can also be cured with defense-increasing items.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 25,
+                "name": "Armorskin",
+                "description": "",
+                "rarity": 4,
+                "value": 58,
+                "carryLimit": 5
+              },
+              {
+                "id": 26,
+                "name": "Mega Armorskin",
+                "description": "",
+                "rarity": 5,
+                "value": 269,
+                "carryLimit": 5
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        },
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        },
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        },
+        {
+          "id": 6,
+          "name": "Great Ravine",
+          "zoneCount": 1
+        },
+        {
+          "id": 7,
+          "name": "Confluence of Fates",
+          "zoneCount": 3
+        },
+        {
+          "id": 8,
+          "name": "Everstream",
+          "zoneCount": 1
+        },
+        {
+          "id": 9,
+          "name": "Caverns of El Dorado",
+          "zoneCount": 4
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Deviljho Hide",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Deviljho Scale",
+          "partbreak": "(Break Chest)",
+          "rarity": 4
+        },
+        {
+          "name": "Deviljho Talon",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Deviljho Tallfang",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Deviljho Scalp",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Deviljho Saliva",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Deviljho Tail",
+          "partbreak": "(Cut Tail)",
+          "rarity": 2
+        },
+        {
+          "name": "Deviljho Gem",
+          "partbreak": "(Break Head, Chest, orTail)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Diablos",
+      "Key": "diablos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-diablos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/diablos_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "The apex monster of the Wildspire Waste.\nA menacing, territorial beast that lurks underground.\nLoud noises will cause it to lunge out of the sand in search of prey.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 10,
+          "name": "Stun",
+          "description": "Stun renders the target inactive, and sometimes causes them to fall over.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 4,
+                "name": "Stun Resistance",
+                "description": "Reduces stun duration."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Diablos Ridge",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Diablos Fang",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Diablos Shell",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Diablos Tailcase",
+          "partbreak": "(Carve Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Diablos Marrow",
+          "partbreak": "(Break Back)",
+          "rarity": 3
+        },
+        {
+          "name": "Twisted Horn",
+          "partbreak": "(Break Horns)",
+          "rarity": 1
+        },
+        {
+          "name": "Diablos Ridge+",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Diablos Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Diablos Tailcase",
+          "partbreak": "(Carve Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Blos Medulla",
+          "partbreak": "(Break Back)",
+          "rarity": 3
+        },
+        {
+          "name": "Majestic Horn",
+          "partbreak": "(Break bothHorns)",
+          "rarity": 1
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(Cut Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Dash Extract",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Black Diablos",
+      "Key": "black_diablos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-black_diablos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/black_diablos_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Black Diablos Ridge+",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Diablos Fang",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Black Diablos Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Diablos Tailcase",
+          "partbreak": "(Cut Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Blos Medulla",
+          "partbreak": "(Break Back)",
+          "rarity": 3
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(Cut Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Black Spiral Horn+",
+          "partbreak": "(Break Horns)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Dash Extract",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Dodogama",
+      "Key": "dodogama",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-dodogama_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/dodogama_weaknesses-mhw.png",
+      "type": "large",
+      "species": "fanged wyvern",
+      "description": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 1,
+          "name": "Blastblight",
+          "description": "Blastblight will cause a damaging explosion after a certain amount of time has passed, or upon sustaining a heavy impact.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 6,
+                "name": "Blast Resistance",
+                "description": "Grants protection against blastblight."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Dodogama Hide+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Dodogama Jaw",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Dodogama Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Dodogama Tail",
+          "partbreak": "(Carve Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Dodogama Talon",
+          "partbreak": "(Dropped, Break ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Nourishing Extract",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Great Girros",
+      "Key": "great_girros",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-great_girros_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/great_girros_weaknesses-mhw.png",
+      "type": "large",
+      "species": "fanged wyvern",
+      "description": "A monster that scavenges for meals dropped from the Coral Highlands.\nIt acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 7,
+          "name": "Paralysis",
+          "description": "Paralysis renders the hunter or monster immobilized and susceptible to increased damage for the duration. Hunters can unparalyzed if they are hit.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 2,
+                "name": "Paralysis Resistance",
+                "description": "Reduces the duration of paralysis."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "thunder",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Great Girros Hide",
+          "partbreak": "(Break ForeLegs)",
+          "rarity": 4
+        },
+        {
+          "name": "Great Girros Hood",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Great Girros Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Great Girros Tail",
+          "partbreak": "(Carve Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Great Girros Fang",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Great Girros Hide+",
+          "partbreak": "(Break ForeLegs)",
+          "rarity": 4
+        },
+        {
+          "name": "Great Girros Hood+",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Great Girros Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Great Girros Tail",
+          "partbreak": "(Carve Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Great Girros Fang+",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Bone L",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Paralysis Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Omniplegia Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Kirin",
+      "Key": "kirin",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kirin_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kirin_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.\nThe lightning a Kirin cloaks itself with has been confirmed to toughen its skin. The key to hunting a Kirin lies in staggering it, using Elderseal weapons, and protecting yourself from and avoiding its lightning attacks.",
+      "elements": [
+        "thunder"
+      ],
+      "ailments": [
+        {
+          "id": 7,
+          "name": "Paralysis",
+          "description": "Paralysis renders the hunter or monster immobilized and susceptible to increased damage for the duration. Hunters can unparalyzed if they are hit.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 2,
+                "name": "Paralysis Resistance",
+                "description": "Reduces the duration of paralysis."
+              }
+            ],
+            "items": []
+          }
+        },
+        {
+          "id": 11,
+          "name": "Thunderblight",
+          "description": "Thunderblight increases the chance of being stunned.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "thunder",
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Kirin ThunderHorn",
+          "partbreak": "(Break Horn)",
+          "rarity": 3
+        },
+        {
+          "name": "Kirin Hide",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Kirin Mane",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Kirin Tail",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Kirin Azure Horn",
+          "partbreak": "(Break Horn)",
+          "rarity": 3
+        },
+        {
+          "name": "Kirin Hide+",
+          "partbreak": "(Dropped)",
+          "rarity": 5
+        },
+        {
+          "name": "Kirin ThunderTail",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Lightcrystal",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Novacrystal",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Kulve Taroth",
+      "Key": "kulve_taroth",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kulve_taroth_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kulve_taroth_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "An Elder Dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation. An exhaustive investigation is required in order to break Kulve Taroth's giant gold plated horns. Pursue the monster to learn more about it. Gather tracks and recruit hunters to help you further your investigation.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 9,
+          "name": "Caverns of El Dorado",
+          "zoneCount": 4
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "condition": "covered in gold"
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": "covered in gold"
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": "covered in gold"
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": "covered in gold"
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Kulve Taroth Golden SpiralHorn",
+          "partbreak": "(Break Horns)",
+          "rarity": 4
+        },
+        {
+          "name": "Kulve Taroth Golden Shell",
+          "partbreak": "(Carve Gold Plating)",
+          "rarity": 5
+        },
+        {
+          "name": "Melded Weapon",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Dissolved Weapon",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Sublimated Weapon",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Kulve Taroth Golden Scale",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Kulve Taroth Golden Tailshell",
+          "partbreak": "(Break Tail)",
+          "rarity": 4
+        },
+        {
+          "name": "Kulve Taroth Golden Nugget",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Kulve Taroth Golden Glimstone",
+          "partbreak": "(Carve Gold Plating, Break Horns, Break Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Kulve Taroth Emperor Nugget",
+          "partbreak": "(Arch-TemperedFuryMode)",
+          "rarity": 3
+        },
+        {
+          "name": "Kulve Taroth Emperor Nugget",
+          "partbreak": "(Arch-TemperedFuryMode)",
+          "rarity": 3
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Kushala Daora",
+      "Key": "kushala_daora",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kushala_daora_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kushala_daora_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skin consists of hard, metallic scales.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 10,
+          "name": "Stun",
+          "description": "Stun renders the target inactive, and sometimes causes them to fall over.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 4,
+                "name": "Stun Resistance",
+                "description": "Reduces stun duration."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "water",
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Daora Dragon Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Daora Carapace",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Daora Claw+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Daora Horn+",
+          "partbreak": "(Break Head)",
+          "rarity": 2
+        },
+        {
+          "name": "Daora Webbing",
+          "partbreak": "(Break Wings)",
+          "rarity": 3
+        },
+        {
+          "name": "Daora Gem",
+          "partbreak": "(Break Head, Break Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Daora Tail",
+          "partbreak": "(Carve Tail)",
+          "rarity": 2
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Daora Gem",
+          "partbreak": "(Break Head, Break Tail)",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Lavasioth",
+      "Key": "lavasioth",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-lavasioth_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/lavasioth_weaknesses-mhw.png",
+      "type": "large",
+      "species": "piscine wyvern",
+      "description": "Lavasioth utilizes molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "condition": "hardened"
+        },
+        {
+          "element": "ice",
+          "condition": "hardened"
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": "hardened"
+        },
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": "hardened"
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Lavasioth Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Lavasioth Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Lavasioth Fang+",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Lavasioth Fin+",
+          "partbreak": "(Dropped, Break Chest)",
+          "rarity": 4
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Inferno Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Legiana",
+      "Key": "legiana",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-legiana_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/legiana_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape.",
+      "elements": [
+        "ice"
+      ],
+      "ailments": [
+        {
+          "id": 6,
+          "name": "Iceblight",
+          "description": "Iceblight causes stamina usage to increase when performing actions.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "ice",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Legiana Hide",
+          "partbreak": "(Break Head, orBack)",
+          "rarity": 4
+        },
+        {
+          "name": "Legiana Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Legiana Claw",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Legiana Webbing",
+          "partbreak": "(Break Wings)",
+          "rarity": 3
+        },
+        {
+          "name": "Legiana Tail Webbing",
+          "partbreak": "(Break Tail, Any Rank)",
+          "rarity": 1
+        },
+        {
+          "name": "Legiana Plate",
+          "partbreak": "(Break Tail, Back, orHead)",
+          "rarity": 1
+        },
+        {
+          "name": "Legiana Hide+",
+          "partbreak": "(Break Head, Break Back)",
+          "rarity": 4
+        },
+        {
+          "name": "Legiana Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Legiana Claw+",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Legiana Wing",
+          "partbreak": "(Break Wings)",
+          "rarity": 3
+        },
+        {
+          "name": "Legiana Gem",
+          "partbreak": "(Break Head, Back, orTail)",
+          "rarity": 1
+        },
+        {
+          "name": "Tail Break",
+          "partbreak": "(No Break)",
+          "rarity": 0
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Frost Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Freezer Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Lunastra",
+      "Key": "lunastra",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-lunastra_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/lunastra_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "A rare female Elder Dragon that litters the air with hot blue dust. Reports of it traveling with her mate, Teostra, are still unconfirmed.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Lunastra Scale+",
+          "partbreak": "(Dropped)",
+          "rarity": 5
+        },
+        {
+          "name": "Lunastra Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Lunastra Tail",
+          "partbreak": "(Carve Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Lunastra Wing",
+          "partbreak": "(Break wing)",
+          "rarity": 2
+        },
+        {
+          "name": "Lunastra Mane",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Lunastra Gem",
+          "partbreak": "(Break Head, Break Tail, Dropped)",
+          "rarity": 1
+        },
+        {
+          "name": "Lunastra Horn",
+          "partbreak": "(Break Head)",
+          "rarity": 1
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Nergigante",
+      "Key": "nergigante",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-nergigante_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/nergigante_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.",
+      "elements": [],
+      "ailments": [],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        },
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Immortal Dragonscale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Nergigante Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Nergigante TalonBody Carves",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Nergigante Horn+",
+          "partbreak": "(Break Horns)",
+          "rarity": 2
+        },
+        {
+          "name": "Nergigante Regrowth Plate",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Nergigante Gem",
+          "partbreak": "(Break Horns, Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Nergigante Tail",
+          "partbreak": "(Cut Tail)",
+          "rarity": 0
+        },
+        {
+          "name": "Nergigante Tail",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Nergigante Talon",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Odogaron",
+      "Key": "odogaron",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-odogaron_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/odogaron_weaknesses-mhw.png",
+      "type": "large",
+      "species": "fanged wyvern",
+      "description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 2,
+          "name": "Bleeding",
+          "description": "Bleeding causes damage when performing certain actions, such as running, dodging, or attacking.",
+          "recovery": {
+            "actions": [
+              "crouch"
+            ],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 7,
+                "name": "Bleeding Resistance",
+                "description": "Grants protection against bleeding."
+              }
+            ],
+            "items": [
+              {
+                "id": 11,
+                "name": "Well-done Steak",
+                "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
+                "rarity": 2,
+                "value": 48,
+                "carryLimit": 10
+              },
+              {
+                "id": 17,
+                "name": "Astera Jerky",
+                "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
+                "rarity": 2,
+                "value": 20,
+                "carryLimit": 5
+              },
+              {
+                "id": 107,
+                "name": "Sushifish Scale",
+                "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
+                "rarity": 2,
+                "value": 45,
+                "carryLimit": 10
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "dragon",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Odogaron Sinew",
+          "partbreak": "(Break Legs)",
+          "rarity": 4
+        },
+        {
+          "name": "Odogaron Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Odogaron Claw",
+          "partbreak": "(Break ForeLegs)",
+          "rarity": 4
+        },
+        {
+          "name": "Odogaron Fang",
+          "partbreak": "(Dropped, Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Odogaron Tail",
+          "partbreak": "(Carve Tail)",
+          "rarity": 2
+        },
+        {
+          "name": "Odogaron Sinew+",
+          "partbreak": "(Legs Broken)",
+          "rarity": 4
+        },
+        {
+          "name": "Odogaron Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Odogaron Claw+",
+          "partbreak": "(Break ForeLegs)",
+          "rarity": 4
+        },
+        {
+          "name": "Odogaron Fang+",
+          "partbreak": "(Dropped, Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Odogaron Gem",
+          "partbreak": "(Head BrokenCarve Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Odogaron Plate (Carves",
+          "partbreak": "(No Break)",
+          "rarity": 0
+        },
+        {
+          "name": "Tail)",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Nourishing Extract",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Odogaron Plate",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Paolumu",
+      "Key": "paolumu",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-paolumu_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/paolumu_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 13,
+          "name": "Wind Pressure",
+          "description": "Wind pressure causes the hunter to brace against powerful winds, causing temporarily imobility.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 10,
+                "name": "Windproof",
+                "description": "Grants protection against wind pressure."
+              },
+              {
+                "id": 122,
+                "name": "Nullify Wind Pressure",
+                "description": "Negates all wind pressure."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "water",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 3,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Paolumu Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Paolumu Shell",
+          "partbreak": "(DroppedBreak Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Paolumu Pelt",
+          "partbreak": "(BreakBack, Break neckpouch)",
+          "rarity": 4
+        },
+        {
+          "name": "Paolumu Webbing",
+          "partbreak": "(BreakWings)",
+          "rarity": 4
+        },
+        {
+          "name": "Paolumu Pelt+",
+          "partbreak": "(BreakBack, Break neckpouch)",
+          "rarity": 4
+        },
+        {
+          "name": "Paolumu Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Paolumu Carapace+",
+          "partbreak": "(DroppedBreak Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Paolumu Wing",
+          "partbreak": "(BreakWings)",
+          "rarity": 4
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone L",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Nourishing ExtractPaolumu Scale+",
+          "partbreak": "()",
+          "rarity": 4
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Radobaan",
+      "Key": "radobaan",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-radobaan_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/radobaan_weaknesses-mhw.png",
+      "type": "large",
+      "species": "brute wyvern",
+      "description": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 9,
+          "name": "Sleep",
+          "description": "Sleep renders the hunter or monster inactive and susceptible to increased damage, but only for the first hit, as it will then wake them up.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 3,
+                "name": "Sleep Resistance",
+                "description": "Reduces the duration of sleep."
+              }
+            ],
+            "items": [
+              {
+                "id": 8,
+                "name": "Energy Drink",
+                "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
+                "rarity": 2,
+                "value": 6,
+                "carryLimit": 10
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Radobaan Shell",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Radobaan Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Radobaan Oilshell",
+          "partbreak": "(Break Head, lowRankTailhighRank)",
+          "rarity": 4
+        },
+        {
+          "name": "Radobaan Marrow",
+          "partbreak": "(Carve Tail, lowRank)",
+          "rarity": 3
+        },
+        {
+          "name": "Wyvern Gem",
+          "partbreak": "(Dropped, Break Legs, Break Back)",
+          "rarity": 1
+        },
+        {
+          "name": "Radobaan Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Radobaan Scale+",
+          "partbreak": "(Dropped)",
+          "rarity": 5
+        },
+        {
+          "name": "Radobaan Medulla",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Bone L",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Sleep Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Coma Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Rathalos",
+      "Key": "rathalos",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-rathalos_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/rathalos_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "The apex monster of the Ancient Forest, also known as the \"King of the Skies\". A fierce wyvern that descends upon invaders, attacking with its venomous claws and fiery breath.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 8,
+          "name": "Poison",
+          "description": "Poison slowly drains the target's health.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 5,
+                "name": "Antidote",
+                "description": "A cure for poison.",
+                "rarity": 1,
+                "value": 6,
+                "carryLimit": 10
+              },
+              {
+                "id": 6,
+                "name": "Herbal Medicine",
+                "description": "Removes all traces of poison and restores a slight amount of health.",
+                "rarity": 2,
+                "value": 25,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 1,
+                "name": "Poison Resistance",
+                "description": "Grants protection against the effects of poison."
+              }
+            ],
+            "items": []
+          }
+        },
+        {
+          "id": 10,
+          "name": "Stun",
+          "description": "Stun renders the target inactive, and sometimes causes them to fall over.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 4,
+                "name": "Stun Resistance",
+                "description": "Reduces stun duration."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Rathalos Scale",
+          "partbreak": "(Break Head)",
+          "rarity": 5
+        },
+        {
+          "name": "Rathalos Marrow",
+          "partbreak": "(Break Back)",
+          "rarity": 2
+        },
+        {
+          "name": "Rathalos Shell",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathalos Webbing",
+          "partbreak": "(Break Wings)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathalos Plate",
+          "partbreak": "(Break Back, Break Head, Break Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Rathalos Tail",
+          "partbreak": "(Cut Tail, Any Rank)",
+          "rarity": 1
+        },
+        {
+          "name": "Rathalos Scale+",
+          "partbreak": "(Break Head)",
+          "rarity": 5
+        },
+        {
+          "name": "Rathalos Carapace",
+          "partbreak": "(Dropped)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathalos Wing",
+          "partbreak": "(Break Wings)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathalos Medulla",
+          "partbreak": "(Break Back)",
+          "rarity": 3
+        },
+        {
+          "name": "Rathalos Ruby",
+          "partbreak": "(Break Back, Head, orTail)",
+          "rarity": 1
+        },
+        {
+          "name": "Rath Wingtalon",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Rathalos TailRathalos Plate",
+          "partbreak": "()",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Flame Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Inferno Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Rathian",
+      "Key": "rathian",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-rathian_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/rathian_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "A wyvern known as the \"Queen of the Land.\" Terrestrial predator, it overpowers its prey with a venomous tail and powerful legs.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 8,
+          "name": "Poison",
+          "description": "Poison slowly drains the target's health.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 5,
+                "name": "Antidote",
+                "description": "A cure for poison.",
+                "rarity": 1,
+                "value": 6,
+                "carryLimit": 10
+              },
+              {
+                "id": 6,
+                "name": "Herbal Medicine",
+                "description": "Removes all traces of poison and restores a slight amount of health.",
+                "rarity": 2,
+                "value": 25,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 1,
+                "name": "Poison Resistance",
+                "description": "Grants protection against the effects of poison."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 3,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Rathian Plate",
+          "partbreak": "(Break Head, Back, orTail)",
+          "rarity": 1
+        },
+        {
+          "name": "Rathian Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Rathian Shell",
+          "partbreak": "(Dropped, Break Head)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathian Spike",
+          "partbreak": "(Break Back, Carve Tail)",
+          "rarity": 2
+        },
+        {
+          "name": "Rathian Webbing",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Rath Wingtalon",
+          "partbreak": "(Break Wings)",
+          "rarity": 3
+        },
+        {
+          "name": "Rathian Carapace",
+          "partbreak": "(Dropped, Break Head)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathian Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Rathian Webbing",
+          "partbreak": "(Break Wings)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathian Spike+",
+          "partbreak": "(Break Back, Break Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Rathian Ruby",
+          "partbreak": "(Break Head, Tail, Back)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone L",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Flame Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Keenbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Inferno Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Pink Rathian",
+      "Key": "pink_rathian",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-pink_rathian_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/pink_rathian_weaknesses-mhw.png",
+      "type": "large",
+      "species": "flying wyvern",
+      "description": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 8,
+          "name": "Poison",
+          "description": "Poison slowly drains the target's health.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 5,
+                "name": "Antidote",
+                "description": "A cure for poison.",
+                "rarity": 1,
+                "value": 6,
+                "carryLimit": 10
+              },
+              {
+                "id": 6,
+                "name": "Herbal Medicine",
+                "description": "Removes all traces of poison and restores a slight amount of health.",
+                "rarity": 2,
+                "value": 25,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 1,
+                "name": "Poison Resistance",
+                "description": "Grants protection against the effects of poison."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        },
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 3,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Pink Rathian Carapace",
+          "partbreak": "(Dropped, Break Head, Break Back)",
+          "rarity": 4
+        },
+        {
+          "name": "Pink Rathian Scale+",
+          "partbreak": "(Dropped, Break Head, Carve Tail)",
+          "rarity": 5
+        },
+        {
+          "name": "Rath Wingtalon",
+          "partbreak": "(Break Wings)",
+          "rarity": 4
+        },
+        {
+          "name": "Rathian Webbing",
+          "partbreak": "(Break Wings)",
+          "rarity": 3
+        },
+        {
+          "name": "Rathian Plate",
+          "partbreak": "(Carve Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Rathian Ruby",
+          "partbreak": "(Break Back, Carve Tail, Break Head)",
+          "rarity": 1
+        },
+        {
+          "name": "Rathian Spike+",
+          "partbreak": "(Break Back, Carve Tail)",
+          "rarity": 2
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Inferno Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Teostra",
+      "Key": "teostra",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-teostra_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/teostra_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "A brutal elder dragon wreathed in flames that spits blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 1,
+          "name": "Blastblight",
+          "description": "Blastblight will cause a damaging explosion after a certain amount of time has passed, or upon sustaining a heavy impact.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 6,
+                "name": "Blast Resistance",
+                "description": "Grants protection against blastblight."
+              }
+            ],
+            "items": []
+          }
+        },
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 3,
+          "name": "Wildspire Waste",
+          "zoneCount": 15
+        },
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Fire Dragon Scale+",
+          "partbreak": "(Dropped)",
+          "rarity": 5
+        },
+        {
+          "name": "Teostra Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Teostra Claw+",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Teostra Horn+",
+          "partbreak": "(Break Head)",
+          "rarity": 2
+        },
+        {
+          "name": "Teostra Mane",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Teostra Gem",
+          "partbreak": "(Break Head, Break Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Teostra Tail",
+          "partbreak": "(Break Tail)",
+          "rarity": 3
+        },
+        {
+          "name": "Teostra Webbing",
+          "partbreak": "(Break Wings)",
+          "rarity": 2
+        },
+        {
+          "name": "Teostra Powder",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Tzitzi-Ya-Ku",
+      "Key": "tzitzi-ya-ku",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-tzitzi-ya-ku_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/tzitzi-ya-ku_weaknesses-mhw.png",
+      "type": "large",
+      "species": "bird wyvern",
+      "description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 10,
+          "name": "Stun",
+          "description": "Stun renders the target inactive, and sometimes causes them to fall over.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 4,
+                "name": "Stun Resistance",
+                "description": "Reduces stun duration."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 2,
+          "name": "Coral Highlands",
+          "zoneCount": 15
+        }
+      ],
+      "resistances": [],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Tzitzi-Ya-Ku Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Tzitzi-Ya-Ku Hide",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Tzitzi-Ya-Ku Claw",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Tzitzi-Ya-Ku Photophore",
+          "partbreak": "(Break Head)",
+          "rarity": 4
+        },
+        {
+          "name": "Tzitzi-Ya-Ku Scale+",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Tzitzi-Ya-Ku Hide+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Tzitzi-Ya-Ku Claw+",
+          "partbreak": "(Dropped)",
+          "rarity": 3
+        },
+        {
+          "name": "Tzitzi-Ya-Ku Photophore+",
+          "partbreak": "(Break Head)",
+          "rarity": 4
+        },
+        {
+          "name": "Bird Wyvern Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Monster Bone L",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Dash Extract",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Monster Bone+",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Uragaan",
+      "Key": "uragaan",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-uragaan_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/uragaan_weaknesses-mhw.png",
+      "type": "large",
+      "species": "brute wyvern",
+      "description": "Large Brute Wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 9,
+          "name": "Sleep",
+          "description": "Sleep renders the hunter or monster inactive and susceptible to increased damage, but only for the first hit, as it will then wake them up.",
+          "recovery": {
+            "actions": [],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 3,
+                "name": "Sleep Resistance",
+                "description": "Reduces the duration of sleep."
+              }
+            ],
+            "items": [
+              {
+                "id": 8,
+                "name": "Energy Drink",
+                "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
+                "rarity": 2,
+                "value": 6,
+                "carryLimit": 10
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 5,
+          "name": "Elder's Recess",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 3,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Uragaan Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Uragaan Scale+",
+          "partbreak": "(Dropped)",
+          "rarity": 5
+        },
+        {
+          "name": "Uragaan Scute",
+          "partbreak": "(Break Back, Carve Tail)",
+          "rarity": 4
+        },
+        {
+          "name": "Uragaan Marrow",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Uragaan Ruby",
+          "partbreak": "(Break Back, Cut Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Uragaan Jaw",
+          "partbreak": "(Break Head)",
+          "rarity": 2
+        },
+        {
+          "name": "Monster Hardbone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Inferno Sac",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Firecell Stone",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Vaal Hazak",
+      "Key": "vaal_hazak",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-vaal_hazak_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/vaal_hazak_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 4,
+          "name": "Effluvial Buildup",
+          "description": "Effluvial buildup causes damage over time, and eventually cuts your maximum health in half if ignored for too long.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 13,
+                "name": "Effluvial Expert",
+                "description": "Nullifies or reduces environmental damage in the Rotten Vale."
+              },
+              {
+                "id": 101,
+                "name": "Effluvia Resistance",
+                "description": "Gain a resistance to effluvial buildup."
+              }
+            ],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 4,
+          "name": "Rotten Vale",
+          "zoneCount": 16
+        }
+      ],
+      "resistances": [
+        {
+          "element": "water",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Vaal Hazak Carapace",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Deceased Scale",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Vaal Hazak Talon",
+          "partbreak": "(Break ForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Vaal Hazak Fang+",
+          "partbreak": "(Break Head)",
+          "rarity": 2
+        },
+        {
+          "name": "Vaal Hazak Wing",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Vaal Hazak Gem",
+          "partbreak": "(Break Head, orTail)",
+          "rarity": 1
+        },
+        {
+          "name": "Vaal Hazak Membrane",
+          "partbreak": "(Dropped, Break Chest)",
+          "rarity": 1
+        },
+        {
+          "name": "Vaal Hazak Tail",
+          "partbreak": "(Cut Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 2
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Xeno'jiiva",
+      "Key": "xeno'jiiva",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-xeno'jiiva_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/xeno'jiiva_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "RESEARCHING. Threat level unknown.",
+      "elements": [
+        "dragon"
+      ],
+      "ailments": [
+        {
+          "id": 3,
+          "name": "Dragonblight",
+          "description": "Dragonblight causes your weapon's elemental properties are nullified.",
+          "recovery": {
+            "actions": [],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        },
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 7,
+          "name": "Confluence of Fates",
+          "zoneCount": 3
+        }
+      ],
+      "resistances": [
+        {
+          "element": "sleep",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Xenojiiva Shell",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Xenojiiva Soulscale",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Xenojiiva Claw",
+          "partbreak": "(BreakForeLegs)",
+          "rarity": 3
+        },
+        {
+          "name": "Xenojiiva Horn",
+          "partbreak": "(BreakHead)",
+          "rarity": 2
+        },
+        {
+          "name": "Xenojiiva Wing",
+          "partbreak": "(Breakwing)",
+          "rarity": 3
+        },
+        {
+          "name": "Xenojiiva Gem",
+          "partbreak": "(Break Head, Cut Tail)",
+          "rarity": 1
+        },
+        {
+          "name": "Xenojiiva Veil",
+          "partbreak": "(DroppedMaterial)",
+          "rarity": 3
+        },
+        {
+          "name": "Elder Dragon Bone",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        },
+        {
+          "name": "Elder Dragon Blood",
+          "partbreak": "(No Break)",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Zorah Magdaros",
+      "Key": "zorah_magdaros",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-zorah_magdaros_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/zorah_magdaros_weaknesses-mhw.png",
+      "type": "large",
+      "species": "elder dragon",
+      "description": "An elder dragon that rises from the earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out.",
+      "elements": [
+        "fire"
+      ],
+      "ailments": [
+        {
+          "id": 5,
+          "name": "Fireblight",
+          "description": "Fireblight causes damage over time, and negates regular health recovery.",
+          "recovery": {
+            "actions": [
+              "dodge"
+            ],
+            "items": [
+              {
+                "id": 7,
+                "name": "Nulberry",
+                "description": "A mysterious berry that cures various blights.",
+                "rarity": 2,
+                "value": 120,
+                "carryLimit": 10
+              }
+            ]
+          },
+          "protection": {
+            "skills": [],
+            "items": []
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 6,
+          "name": "Great Ravine",
+          "zoneCount": 1
+        },
+        {
+          "id": 8,
+          "name": "Everstream",
+          "zoneCount": 1
+        }
+      ],
+      "resistances": [
+        {
+          "element": "fire",
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "water",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 3,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Zorah Magdaros Heat Scale",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Zorah Magdaros Ridge",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Zorah Magdaros Pleura",
+          "partbreak": "(Break Chest)",
+          "rarity": 3
+        },
+        {
+          "name": "Zorah Magdaros Magma",
+          "partbreak": "(Break Head)",
+          "rarity": 3
+        },
+        {
+          "name": "Zorah Magdaros Carapace",
+          "partbreak": "(Dropped, Break Magmacore)",
+          "rarity": 3
+        },
+        {
+          "name": "Zorah Magdaros Gem",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Leshen",
+      "Key": "leshen",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-leshen_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/leshen_weaknesses-mhw.png",
+      "type": "large",
+      "species": "relict",
+      "description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 2,
+          "name": "Bleeding",
+          "description": "Bleeding causes damage when performing certain actions, such as running, dodging, or attacking.",
+          "recovery": {
+            "actions": [
+              "crouch"
+            ],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 7,
+                "name": "Bleeding Resistance",
+                "description": "Grants protection against bleeding."
+              }
+            ],
+            "items": [
+              {
+                "id": 11,
+                "name": "Well-done Steak",
+                "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
+                "rarity": 2,
+                "value": 48,
+                "carryLimit": 10
+              },
+              {
+                "id": 17,
+                "name": "Astera Jerky",
+                "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
+                "rarity": 2,
+                "value": 20,
+                "carryLimit": 5
+              },
+              {
+                "id": 107,
+                "name": "Sushifish Scale",
+                "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
+                "rarity": 2,
+                "value": 45,
+                "carryLimit": 10
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        }
+      ],
+      "resistances": [
+        {
+          "element": "water",
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Leshen Skull",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Leshen Claw",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Cursed Bone",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Leshen Resin",
+          "partbreak": "(Break Body&Legs)",
+          "rarity": 3
+        },
+        {
+          "name": "Leshen Antlers",
+          "partbreak": "(Break Antlers)",
+          "rarity": 2
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Ancient Leshen",
+      "Key": "ancient_leshen",
+      "Image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-ancient_leshen_icon.png",
+      "WeakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/ancient_leshen_weaknesses-mhw.png",
+      "type": "large",
+      "species": "relict",
+      "description": "An old leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
+      "elements": [],
+      "ailments": [
+        {
+          "id": 2,
+          "name": "Bleeding",
+          "description": "Bleeding causes damage when performing certain actions, such as running, dodging, or attacking.",
+          "recovery": {
+            "actions": [
+              "crouch"
+            ],
+            "items": []
+          },
+          "protection": {
+            "skills": [
+              {
+                "id": 7,
+                "name": "Bleeding Resistance",
+                "description": "Grants protection against bleeding."
+              }
+            ],
+            "items": [
+              {
+                "id": 11,
+                "name": "Well-done Steak",
+                "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
+                "rarity": 2,
+                "value": 48,
+                "carryLimit": 10
+              },
+              {
+                "id": 17,
+                "name": "Astera Jerky",
+                "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
+                "rarity": 2,
+                "value": 20,
+                "carryLimit": 5
+              },
+              {
+                "id": 107,
+                "name": "Sushifish Scale",
+                "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
+                "rarity": 2,
+                "value": 45,
+                "carryLimit": 10
+              }
+            ]
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": 1,
+          "name": "Ancient Forest",
+          "zoneCount": 17
+        }
+      ],
+      "resistances": [
+        {
+          "element": "water",
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "condition": null
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "stun",
+          "stars": 1,
+          "condition": null
+        }
+      ],
+      "reward": [
+        {
+          "name": "Ancient Cursed Bone",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Ancient Leshen Claw",
+          "partbreak": "(No Break)",
+          "rarity": 5
+        },
+        {
+          "name": "Leshen Resin",
+          "partbreak": "(No Break)",
+          "rarity": 4
+        },
+        {
+          "name": "Mutagen",
+          "partbreak": "(No Break)",
+          "rarity": 1
+        },
+        {
+          "name": "Leshen Resin",
+          "partbreak": "(Break Body&Legs)",
+          "rarity": 4
+        },
+        {
+          "name": "Ancient Leshen Antlers",
+          "partbreak": "(Break Antlers)",
+          "rarity": 3
+        }
+      ]
+    }
+  ]
+}
