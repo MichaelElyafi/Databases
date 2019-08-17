@@ -4,7 +4,7 @@
       "name": "Aptonoth",
       "key": "aptonoth",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-aptonoth_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/aptonoth_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/aptonoth_weaknesses-mhw.png",
       "type": "small",
       "species": "herbivore",
       "description": "Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately.",
@@ -20,19 +20,23 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -47,7 +51,7 @@
       "name": "Jagras",
       "key": "jagras",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-jagras_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/jagras_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/jagras_weaknesses-mhw.png",
       "type": "small",
       "species": "fanged wyvern",
       "description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing larger monsters at a moment's notice.",
@@ -63,11 +67,13 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -82,7 +88,7 @@
       "name": "Mernos",
       "key": "mernos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-mernos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/mernos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/mernos_weaknesses-mhw.png",
       "type": "small",
       "species": "wingdrake",
       "description": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
@@ -102,19 +108,23 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -129,7 +139,7 @@
       "name": "Vespoid",
       "key": "vespoid",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-vespoid_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/vespoid_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/vespoid_weaknesses-mhw.png",
       "type": "small",
       "species": "neopteron",
       "description": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",
@@ -179,11 +189,13 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -198,7 +210,7 @@
       "name": "Mosswine",
       "key": "mosswine",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-mosswine_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/mosswine_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/mosswine_weaknesses-mhw.png",
       "type": "small",
       "species": "herbivore",
       "description": "Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting for mushrooms, follow the Mosswine to the motherlode.",
@@ -222,19 +234,23 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -249,7 +265,7 @@
       "name": "Apceros",
       "key": "apceros",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-apceros_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/apceros_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/apceros_weaknesses-mhw.png",
       "type": "small",
       "species": "herbivore",
       "description": "Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",
@@ -265,11 +281,13 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -284,7 +302,7 @@
       "name": "Kestodon",
       "key": "kestodon",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kestodon_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kestodon_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kestodon_weaknesses-mhw.png",
       "type": "small",
       "species": "herbivore",
       "description": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks.",
@@ -304,11 +322,13 @@
       "weaknesses": [
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -323,7 +343,7 @@
       "name": "Noios",
       "key": "noios",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-noios_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/noios_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/noios_weaknesses-mhw.png",
       "type": "small",
       "species": "wingdrake",
       "description": "Wingdrakes that produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them for transportation.",
@@ -339,15 +359,18 @@
       "weaknesses": [
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -362,7 +385,7 @@
       "name": "Gajau",
       "key": "gajau",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-gajau_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/gajau_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/gajau_weaknesses-mhw.png",
       "type": "small",
       "species": "fish",
       "description": "Vicious piscine that form groups to defend their territory from intruders. Be sure not to venture too closely to their habitat!",
@@ -382,11 +405,13 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -401,7 +426,7 @@
       "name": "Kelbi",
       "key": "kelbi",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kelbi_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kelbi_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kelbi_weaknesses-mhw.png",
       "type": "small",
       "species": "herbivore",
       "description": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.",
@@ -421,19 +446,23 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -448,7 +477,7 @@
       "name": "Raphinos",
       "key": "raphinos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-raphinos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/raphinos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/raphinos_weaknesses-mhw.png",
       "type": "small",
       "species": "wingdrake",
       "description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",
@@ -468,7 +497,8 @@
       "weaknesses": [
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -483,7 +513,7 @@
       "name": "Shamos",
       "key": "shamos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-shamos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/shamos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/shamos_weaknesses-mhw.png",
       "type": "small",
       "species": "fanged wyvern",
       "description": "Small nocturnal monsters. They're particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",
@@ -499,11 +529,13 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -518,7 +550,7 @@
       "name": "Girros",
       "key": "girros",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-girros_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/girros_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/girros_weaknesses-mhw.png",
       "type": "small",
       "species": "fanged wyvern",
       "description": "Monsters known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They're known for crippling targets with paralyzing fangs.",
@@ -552,7 +584,8 @@
       "weaknesses": [
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -567,7 +600,7 @@
       "name": "Hornetaur",
       "key": "hornetaur",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-hornetaur_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/hornetaur_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/hornetaur_weaknesses-mhw.png",
       "type": "small",
       "species": "neopteron",
       "description": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
@@ -583,11 +616,13 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -602,7 +637,7 @@
       "name": "Gastodon",
       "key": "gastodon",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-gastodon_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/gastodon_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/gastodon_weaknesses-mhw.png",
       "type": "small",
       "species": "herbivore",
       "description": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
@@ -618,7 +653,8 @@
       "weaknesses": [
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -633,7 +669,7 @@
       "name": "Barnos",
       "key": "barnos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-barnos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/barnos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/barnos_weaknesses-mhw.png",
       "type": "small",
       "species": "wingdrake",
       "description": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
@@ -685,7 +721,8 @@
       "weaknesses": [
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -700,7 +737,7 @@
       "name": "Great Jagras",
       "key": "great_jagras",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-great_jagras_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/great_jagras_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/great_jagras_weaknesses-mhw.png",
       "type": "large",
       "species": "fanged wyvern",
       "description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
@@ -714,45 +751,55 @@
       ],
       "resistances": [
         {
-          "element": "water"
+          "element": "water",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         }
       ],
       "reward": [
@@ -812,7 +859,7 @@
       "name": "Kulu-Ya-Ku",
       "key": "kulu-ya-ku",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kulu-ya-ku_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kulu-ya-ku_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kulu-ya-ku_weaknesses-mhw.png",
       "type": "large",
       "species": "bird wyvern",
       "description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
@@ -832,43 +879,53 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -933,7 +990,7 @@
       "name": "Pukei-Pukei",
       "key": "pukei-pukei",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-pukei-pukei_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/pukei-pukei_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/pukei-pukei_weaknesses-mhw.png",
       "type": "large",
       "species": "bird wyvern",
       "description": "A bird wyvern known to possess poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
@@ -1001,45 +1058,55 @@
       ],
       "resistances": [
         {
-          "element": "water"
+          "element": "water",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -1119,7 +1186,7 @@
       "name": "Barroth",
       "key": "barroth",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-barroth_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/barroth_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/barroth_weaknesses-mhw.png",
       "type": "large",
       "species": "brute wyvern",
       "description": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
@@ -1166,44 +1233,63 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": "covered in mud"
         },
         {
-          "element": "thunder"
+          "element": "water",
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": "covered in mud"
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -1278,7 +1364,7 @@
       "name": "Jyuratodus",
       "key": "jyuratodus",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-jyuratodus_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/jyuratodus_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/jyuratodus_weaknesses-mhw.png",
       "type": "large",
       "species": "piscine wyvern",
       "description": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
@@ -1327,45 +1413,68 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": "covered in mud"
+        },
+        {
+          "element": "thunder",
+          "condition": "covered in mud"
+        },
+        {
+          "element": "water",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": "covered in mud"
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         }
       ],
       "reward": [
@@ -1440,7 +1549,7 @@
       "name": "Tobi-Kadachi",
       "key": "tobi-kadachi",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-tobi-kadachi_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/tobi-kadachi_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/tobi-kadachi_weaknesses-mhw.png",
       "type": "large",
       "species": "fanged wyvern",
       "description": "A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.",
@@ -1479,45 +1588,55 @@
       ],
       "resistances": [
         {
-          "element": "thunder"
+          "element": "thunder",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -1602,7 +1721,7 @@
       "name": "Anjanath",
       "key": "anjanath",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-anjanath_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/anjanath_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/anjanath_weaknesses-mhw.png",
       "type": "large",
       "species": "brute wyvern",
       "description": "The Anjanath patrols the Ancient Forest, looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without hesitation.",
@@ -1645,45 +1764,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -1773,7 +1902,7 @@
       "name": "Azure Rathalos",
       "key": "azure_rathalos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-azure_rathalos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/azure_rathalos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/azure_rathalos_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",
@@ -1848,45 +1977,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -1911,7 +2050,7 @@
       "name": "Bazelgeuse",
       "key": "bazelgeuse",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-bazelgeuse_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/bazelgeuse_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/bazelgeuse_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.",
@@ -1985,45 +2124,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -2073,7 +2222,7 @@
       "name": "Behemoth",
       "key": "behemoth",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-behemoth_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/behemoth_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/behemoth_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
@@ -2178,43 +2327,53 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -2254,7 +2413,7 @@
       "name": "Deviljho",
       "key": "deviljho",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-deviljho_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/deviljho_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/deviljho_weaknesses-mhw.png",
       "type": "large",
       "species": "brute wyvern",
       "description": "A monster that must feed constantly and will devour anything in its path, even feeding on the largest of monsters with its massive jowls.",
@@ -2352,43 +2511,53 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -2443,7 +2612,7 @@
       "name": "Diablos",
       "key": "diablos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-diablos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/diablos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/diablos_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "The apex monster of the Wildspire Waste.\nA menacing, territorial beast that lurks underground.\nLoud noises will cause it to lunge out of the sand in search of prey.",
@@ -2475,45 +2644,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -2598,7 +2777,7 @@
       "name": "Black Diablos",
       "key": "black_diablos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-black_diablos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/black_diablos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/black_diablos_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat.",
@@ -2612,44 +2791,54 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         },
         {
-          "element": "dragon"
+          "element": "dragon",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -2704,7 +2893,7 @@
       "name": "Dodogama",
       "key": "dodogama",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-dodogama_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/dodogama_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/dodogama_weaknesses-mhw.png",
       "type": "large",
       "species": "fanged wyvern",
       "description": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.",
@@ -2740,45 +2929,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -2823,7 +3022,7 @@
       "name": "Great Girros",
       "key": "great_girros",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-great_girros_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/great_girros_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/great_girros_weaknesses-mhw.png",
       "type": "large",
       "species": "fanged wyvern",
       "description": "A monster that scavenges for meals dropped from the Coral Highlands.\nIt acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
@@ -2855,45 +3054,55 @@
       ],
       "resistances": [
         {
-          "element": "thunder"
+          "element": "thunder",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -2973,7 +3182,7 @@
       "name": "Kirin",
       "key": "kirin",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kirin_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kirin_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kirin_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.\nThe lightning a Kirin cloaks itself with has been confirmed to toughen its skin. The key to hunting a Kirin lies in staggering it, using Elderseal weapons, and protecting yourself from and avoiding its lightning attacks.",
@@ -3029,44 +3238,54 @@
       ],
       "resistances": [
         {
-          "element": "thunder"
+          "element": "thunder",
+          "condition": null
         },
         {
-          "element": "paralysis"
+          "element": "paralysis",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -3131,7 +3350,7 @@
       "name": "Kulve Taroth",
       "key": "kulve_taroth",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kulve_taroth_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kulve_taroth_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kulve_taroth_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "An Elder Dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation. An exhaustive investigation is required in order to break Kulve Taroth's giant gold plated horns. Pursue the monster to learn more about it. Gather tracks and recruit hunters to help you further your investigation.",
@@ -3170,41 +3389,73 @@
       ],
       "resistances": [
         {
-          "element": "fire"
-        },
-        {
-          "element": "thunder"
-        },
-        {
-          "element": "ice"
+          "element": "fire",
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "condition": "covered in gold"
+        }
+      ],
+      "weaknesses": [
+        {
+          "element": "fire",
+          "stars": 1,
+          "condition": "covered in gold"
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 3,
+          "condition": "covered in gold"
+        },
+        {
+          "element": "ice",
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": "covered in gold"
+        },
+        {
+          "element": "poison",
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -3279,7 +3530,7 @@
       "name": "Kushala Daora",
       "key": "kushala_daora",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kushala_daora_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kushala_daora_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/kushala_daora_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skin consists of hard, metallic scales.",
@@ -3315,44 +3566,54 @@
       ],
       "resistances": [
         {
-          "element": "water"
+          "element": "water",
+          "condition": null
         },
         {
-          "element": "ice"
+          "element": "ice",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -3412,7 +3673,7 @@
       "name": "Lavasioth",
       "key": "lavasioth",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-lavasioth_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/lavasioth_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/lavasioth_weaknesses-mhw.png",
       "type": "large",
       "species": "piscine wyvern",
       "description": "Lavasioth utilizes molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.",
@@ -3451,42 +3712,73 @@
       ],
       "resistances": [
         {
-          "element": "fire"
-        },
-        {
-          "element": "thunder"
+          "element": "fire",
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "condition": "hardened"
         },
         {
           "element": "ice",
-          "stars": 2
-        },
+          "condition": "hardened"
+        }
+      ],
+      "weaknesses": [
         {
-          "element": "dragon",
-          "stars": 1
-        },
-        {
-          "element": "poison",
-          "stars": 3
-        },
-        {
-          "element": "sleep",
-          "stars": 1
-        },
-        {
-          "element": "paralysis",
-          "stars": 2
-        },
-        {
-          "element": "blast",
-          "stars": 1
+          "element": "fire",
+          "stars": 1,
+          "condition": "hardened"
         },
         {
           "element": "water",
-          "stars": 2
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "thunder",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "ice",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "dragon",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "poison",
+          "stars": 3,
+          "condition": null
+        },
+        {
+          "element": "sleep",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "paralysis",
+          "stars": 2,
+          "condition": null
+        },
+        {
+          "element": "blast",
+          "stars": 1,
+          "condition": null
+        },
+        {
+          "element": "water",
+          "stars": 2,
+          "condition": "hardened"
+        },
+        {
+          "element": "stun",
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -3531,7 +3823,7 @@
       "name": "Legiana",
       "key": "legiana",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-legiana_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/legiana_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/legiana_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape.",
@@ -3572,45 +3864,55 @@
       ],
       "resistances": [
         {
-          "element": "ice"
+          "element": "ice",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -3700,7 +4002,7 @@
       "name": "Lunastra",
       "key": "lunastra",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-lunastra_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/lunastra_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/lunastra_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "A rare female Elder Dragon that litters the air with hot blue dust. Reports of it traveling with her mate, Teostra, are still unconfirmed.",
@@ -3739,45 +4041,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -3832,7 +4144,7 @@
       "name": "Nergigante",
       "key": "nergigante",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-nergigante_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/nergigante_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/nergigante_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.",
@@ -3852,43 +4164,53 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -3953,7 +4275,7 @@
       "name": "Odogaron",
       "key": "odogaron",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-odogaron_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/odogaron_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/odogaron_weaknesses-mhw.png",
       "type": "large",
       "species": "fanged wyvern",
       "description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
@@ -4013,45 +4335,55 @@
       ],
       "resistances": [
         {
-          "element": "dragon"
+          "element": "dragon",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -4141,7 +4473,7 @@
       "name": "Paolumu",
       "key": "paolumu",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-paolumu_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/paolumu_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/paolumu_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
@@ -4177,45 +4509,55 @@
       ],
       "resistances": [
         {
-          "element": "water"
+          "element": "water",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         }
       ],
       "reward": [
@@ -4285,7 +4627,7 @@
       "name": "Radobaan",
       "key": "radobaan",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-radobaan_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/radobaan_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/radobaan_weaknesses-mhw.png",
       "type": "large",
       "species": "brute wyvern",
       "description": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
@@ -4327,43 +4669,53 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -4433,7 +4785,7 @@
       "name": "Rathalos",
       "key": "rathalos",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-rathalos_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/rathalos_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/rathalos_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "The apex monster of the Ancient Forest, also known as the \"King of the Skies\". A fierce wyvern that descends upon invaders, attacking with its venomous claws and fiery breath.",
@@ -4521,45 +4873,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -4654,7 +5016,7 @@
       "name": "Rathian",
       "key": "rathian",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-rathian_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/rathian_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/rathian_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "A wyvern known as the \"Queen of the Land.\" Terrestrial predator, it overpowers its prey with a venomous tail and powerful legs.",
@@ -4729,45 +5091,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         }
       ],
       "reward": [
@@ -4852,7 +5224,7 @@
       "name": "Pink Rathian",
       "key": "pink_rathian",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-pink_rathian_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/pink_rathian_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/pink_rathian_weaknesses-mhw.png",
       "type": "large",
       "species": "flying wyvern",
       "description": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill.",
@@ -4927,45 +5299,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         }
       ],
       "reward": [
@@ -5020,7 +5402,7 @@
       "name": "Teostra",
       "key": "teostra",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-teostra_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/teostra_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/teostra_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "A brutal elder dragon wreathed in flames that spits blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
@@ -5082,45 +5464,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -5185,7 +5577,7 @@
       "name": "Tzitzi-Ya-Ku",
       "key": "tzitzi-ya-ku",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-tzitzi-ya-ku_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/tzitzi-ya-ku_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/tzitzi-ya-ku_weaknesses-mhw.png",
       "type": "large",
       "species": "bird wyvern",
       "description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
@@ -5219,43 +5611,53 @@
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -5325,7 +5727,7 @@
       "name": "Uragaan",
       "key": "uragaan",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-uragaan_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/uragaan_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/uragaan_weaknesses-mhw.png",
       "type": "large",
       "species": "brute wyvern",
       "description": "Large Brute Wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes.",
@@ -5389,45 +5791,55 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         }
       ],
       "reward": [
@@ -5482,7 +5894,7 @@
       "name": "Vaal Hazak",
       "key": "vaal_hazak",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-vaal_hazak_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/vaal_hazak_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/vaal_hazak_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
@@ -5526,45 +5938,55 @@
       ],
       "resistances": [
         {
-          "element": "water"
+          "element": "water",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "sleep",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         }
       ],
       "reward": [
@@ -5624,7 +6046,7 @@
       "name": "Xeno'jiiva",
       "key": "xeno'jiiva",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-xeno'jiiva_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/xeno'jiiva_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/xeno'jiiva_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "RESEARCHING. Threat level unknown.",
@@ -5683,45 +6105,55 @@
       ],
       "resistances": [
         {
-          "element": "sleep"
+          "element": "sleep",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "water",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -5776,7 +6208,7 @@
       "name": "Zorah Magdaros",
       "key": "zorah_magdaros",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-zorah_magdaros_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/zorah_magdaros_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/zorah_magdaros_weaknesses-mhw.png",
       "type": "large",
       "species": "elder dragon",
       "description": "An elder dragon that rises from the earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out.",
@@ -5819,37 +6251,46 @@
       ],
       "resistances": [
         {
-          "element": "fire"
+          "element": "fire",
+          "condition": null
         },
         {
-          "element": "poison"
+          "element": "poison",
+          "condition": null
         },
         {
-          "element": "sleep"
+          "element": "sleep",
+          "condition": null
         },
         {
-          "element": "paralysis"
+          "element": "paralysis",
+          "condition": null
         },
         {
-          "element": "blast"
+          "element": "blast",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "water",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         }
       ],
       "reward": [
@@ -5889,7 +6330,7 @@
       "name": "Leshen",
       "key": "leshen",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-leshen_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/leshen_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/leshen_weaknesses-mhw.png",
       "type": "large",
       "species": "relict",
       "description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
@@ -5945,44 +6386,54 @@
       ],
       "resistances": [
         {
-          "element": "water"
+          "element": "water",
+          "condition": null
         },
         {
-          "element": "sleep"
+          "element": "sleep",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
@@ -6017,7 +6468,7 @@
       "name": "Ancient Leshen",
       "key": "ancient_leshen",
       "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-ancient_leshen_icon.png",
-      "weakpointimage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/ancient_leshen_weaknesses-mhw.png",
+      "weakpointImage": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWWeakpoints/ancient_leshen_weaknesses-mhw.png",
       "type": "large",
       "species": "relict",
       "description": "An old leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
@@ -6073,44 +6524,54 @@
       ],
       "resistances": [
         {
-          "element": "water"
+          "element": "water",
+          "condition": null
         },
         {
-          "element": "sleep"
+          "element": "sleep",
+          "condition": null
         }
       ],
       "weaknesses": [
         {
           "element": "fire",
-          "stars": 3
+          "stars": 3,
+          "condition": null
         },
         {
           "element": "thunder",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "ice",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "dragon",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "poison",
-          "stars": 2
+          "stars": 2,
+          "condition": null
         },
         {
           "element": "paralysis",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "blast",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         },
         {
           "element": "stun",
-          "stars": 1
+          "stars": 1,
+          "condition": null
         }
       ],
       "reward": [
