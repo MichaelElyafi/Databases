@@ -14583,6 +14583,34 @@
           "quantity": 1,
           "difficulty": 0,
           "rate": "21%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "12%"
         }
       ]
     },
@@ -15488,6 +15516,34 @@
           "quantity": 1,
           "difficulty": 9,
           "rate": "23%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "22%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "19%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "22%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "22%"
         },
         {
           "type": "Assigned",
@@ -21425,6 +21481,34 @@
           "difficulty": 0,
           "rate": "12%"
         },
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "12%"
+        },
         {
           "type": "High Rank",
           "name": "Xeno'jiiva from Quest Reward",
@@ -22906,6 +22990,34 @@
           "type": "High Rank",
           "name": "Vaal Hazak from Quest Reward",
           "quantity": 1,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "12%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 2,
           "difficulty": 0,
           "rate": "12%"
         },
@@ -35949,6 +36061,13 @@
           "quantity": 1,
           "difficulty": 0,
           "rate": "13%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin from Body Carve",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "4%"
         }
       ]
     },
@@ -35986,6 +36105,13 @@
           "quantity": 1,
           "difficulty": 0,
           "rate": "15%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin from Body Carve",
+          "quantity": 2,
+          "difficulty": 0,
+          "rate": "4%"
         }
       ]
     },
@@ -38518,6 +38644,13 @@
           "difficulty": 0,
           "rate": "6%"
         },
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "5%"
+        },
         {
           "type": "High Rank",
           "name": "Vaal Hazak from Tail Carve",
@@ -38921,6 +39054,13 @@
           "difficulty": 0,
           "rate": "6%"
         },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "5%"
+        },
         {
           "type": "High Rank",
           "name": "Teostra from Tail Carve",
@@ -39270,6 +39410,13 @@
           "quantity": 1,
           "difficulty": 0,
           "rate": "6%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "5%"
         },
         {
           "type": "High Rank",
@@ -40189,7 +40336,36 @@
       "rarity": 7,
       "value": 25,
       "carryLimit": 10,
-      "drop": []
+      "drop": [
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "11%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "11%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "11%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "11%"
+        }
+      ]
     },
     {
       "name": "Shining Streamstone",
@@ -40197,7 +40373,36 @@
       "rarity": 8,
       "value": 25,
       "carryLimit": 10,
-      "drop": []
+      "drop": [
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "7%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "7%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "7%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "7%"
+        }
+      ]
     },
     {
       "name": "Streamstone Shard",
@@ -40235,6 +40440,34 @@
           "name": "A Summons from Below",
           "quantity": 1,
           "difficulty": 9,
+          "rate": "7%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Vaal Hazak",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "7%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kirin",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "7%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Teostra",
+          "quantity": 1,
+          "difficulty": 0,
+          "rate": "7%"
+        },
+		{
+          "type": "Arch Tempered",
+          "name": "Kushala Daora",
+          "quantity": 1,
+          "difficulty": 0,
           "rate": "7%"
         }
       ]

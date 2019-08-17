@@ -3311,7 +3311,7 @@
         },
         {
           "name": "Kirin Azure Horn",
-          "partbreak": "(Break Horn)",
+          "partbreak": "(Arch-Tempered & Break Horn)",
           "rarity": 3
         },
         {
@@ -3506,12 +3506,7 @@
         },
         {
           "name": "Kulve Taroth Emperor Nugget",
-          "partbreak": "(Arch-TemperedFuryMode)",
-          "rarity": 3
-        },
-        {
-          "name": "Kulve Taroth Emperor Nugget",
-          "partbreak": "(Arch-TemperedFuryMode)",
+          "partbreak": "(Arch-Tempered)",
           "rarity": 3
         },
         {

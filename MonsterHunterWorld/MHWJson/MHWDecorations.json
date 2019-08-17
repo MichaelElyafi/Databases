@@ -11,7 +11,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Antidote Jewel",
@@ -24,7 +40,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Antipara Jewel",
@@ -37,7 +69,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Artillery Jewel",
@@ -50,7 +98,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Attack Jewel",
@@ -63,7 +127,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Blast Jewel",
@@ -76,7 +156,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Blastcoat Jewel",
@@ -89,7 +185,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Blaze Jewel",
@@ -102,7 +214,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Bolt Jewel",
@@ -115,7 +243,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Bomber Jewel",
@@ -128,7 +272,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Botany Jewel",
@@ -141,7 +301,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Brace Jewel",
@@ -154,7 +330,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Challenger Jewel",
@@ -167,7 +359,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Charger Jewel",
@@ -180,7 +388,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Crisis Jewel",
@@ -193,7 +417,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Critical Jewel",
@@ -206,7 +446,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Def Lock Jewel",
@@ -219,7 +475,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Defense Jewel",
@@ -232,7 +504,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Destroyer Jewel",
@@ -245,7 +533,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Dragon Jewel",
@@ -258,7 +562,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Dragon Res Jewel",
@@ -271,7 +591,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Dragonseal Jewel",
@@ -284,7 +620,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Drain Jewel",
@@ -297,7 +649,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Draw Jewel",
@@ -310,7 +678,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Earplug Jewel",
@@ -323,7 +707,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Elementless Jewel",
@@ -336,7 +736,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Enduring Jewel",
@@ -349,7 +765,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Enhancer Jewel",
@@ -362,7 +794,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Evasion Jewel",
@@ -375,7 +823,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Expert Jewel",
@@ -388,7 +852,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Fire Res Jewel",
@@ -401,7 +881,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Flawless Jewel",
@@ -414,7 +910,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Flight Jewel",
@@ -427,7 +939,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Footing Jewel",
@@ -440,7 +968,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Forceshot Jewel",
@@ -453,7 +997,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Fortitude Jewel",
@@ -466,7 +1026,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Friendship Jewel",
@@ -479,7 +1055,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Frost Jewel",
@@ -492,7 +1084,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Fungiform Jewel",
@@ -505,7 +1113,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Furor Jewel",
@@ -518,7 +1142,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Geology Jewel",
@@ -531,7 +1171,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Gobbler Jewel",
@@ -544,7 +1200,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Grinder Jewel",
@@ -557,7 +1229,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Handicraft Jewel",
@@ -570,7 +1258,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Heavy Artillery Jewel",
@@ -583,7 +1287,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Hungerless Jewel",
@@ -596,7 +1316,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Ice Res Jewel",
@@ -609,7 +1345,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Intimidator Jewel",
@@ -622,7 +1374,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Ironwall Jewel",
@@ -635,7 +1403,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Jumping Jewel",
@@ -648,7 +1432,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "KO Jewel",
@@ -661,7 +1461,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Magazine Jewel",
@@ -674,7 +1490,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Maintenance Jewel",
@@ -687,7 +1519,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Medicine Jewel",
@@ -700,7 +1548,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Meowster Jewel",
@@ -713,7 +1577,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Miasma Jewel",
@@ -726,7 +1606,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Mighty Bow Jewel",
@@ -739,7 +1635,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Mighty Jewel",
@@ -752,7 +1664,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Mind's Eye Jewel",
@@ -765,7 +1693,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Mirewalker Jewel",
@@ -778,7 +1722,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Paracoat Jewel",
@@ -791,7 +1751,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Paralyzer Jewel",
@@ -804,7 +1780,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Pep Jewel",
@@ -817,7 +1809,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Physique Jewel",
@@ -830,7 +1838,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Pierce Jewel",
@@ -843,7 +1867,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Poisoncoat Jewel",
@@ -856,7 +1896,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Potential Jewel",
@@ -869,7 +1925,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Protection Jewel",
@@ -882,7 +1954,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Recovery Jewel",
@@ -895,7 +1983,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Refresh Jewel",
@@ -908,7 +2012,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Release Jewel",
@@ -921,7 +2041,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Resistor Jewel",
@@ -934,7 +2070,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Satiated Jewel",
@@ -947,7 +2099,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Scent Jewel",
@@ -960,7 +2128,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Sharp Jewel",
@@ -973,7 +2157,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Sheath Jewel",
@@ -986,7 +2186,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Shield Jewel",
@@ -999,7 +2215,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Sleep Jewel",
@@ -1012,7 +2244,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Sleepcoat Jewel",
@@ -1025,7 +2273,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Slider Jewel",
@@ -1038,7 +2302,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Smoke Jewel",
@@ -1051,7 +2331,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Sonorous Jewel",
@@ -1064,7 +2360,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Specimen Jewel",
@@ -1077,7 +2389,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Spread Jewel",
@@ -1090,7 +2418,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Sprinter Jewel",
@@ -1103,7 +2447,23 @@
       "mysterious": 0.0,
       "glowing": 0.0,
       "worn": 0.0017,
-      "warped": 0.0042
+      "warped": 0.0042,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.0017,
+          "warped": 0.0042
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0,
+          "worn": 0.02,
+          "warped": 0.05
+        }
+      ]
     },
     {
       "name": "Steadfast Jewel",
@@ -1116,7 +2476,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Stonethrower Jewel",
@@ -1129,7 +2505,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Stream Jewel",
@@ -1142,7 +2534,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Suture Jewel",
@@ -1155,7 +2563,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Tenderizer Jewel",
@@ -1168,7 +2592,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Throttle Jewel",
@@ -1181,7 +2621,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Thunder Res Jewel",
@@ -1194,7 +2650,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Tip Toe Jewel",
@@ -1207,7 +2679,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Trueshot Jewel",
@@ -1220,7 +2708,23 @@
       "mysterious": 0.0,
       "glowing": 0.0005,
       "worn": 0.0027,
-      "warped": 0.0081
+      "warped": 0.0081,
+      "Feystones": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.0005,
+          "worn": 0.0027,
+          "warped": 0.0081
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.0,
+          "glowing": 0.01,
+          "worn": 0.06,
+          "warped": 0.18
+        }
+      ]
     },
     {
       "name": "Venom Jewel",
@@ -1233,7 +2737,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Vitality Jewel",
@@ -1246,7 +2766,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     },
     {
       "name": "Water Res Jewel",
@@ -1259,7 +2795,23 @@
       "mysterious": 0.0293,
       "glowing": 0.0224,
       "worn": 0.0035,
-      "warped": 0.0
+      "warped": 0.0,
+      "Feystones": [
+        {
+          "mysterious": 0.0293,
+          "glowing": 0.0224,
+          "worn": 0.0035,
+          "warped": 0.0
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.85,
+          "glowing": 0.65,
+          "worn": 0.1,
+          "warped": 0.0
+        }
+      ]
     },
     {
       "name": "Wind Resist Jewel",
@@ -1272,7 +2824,23 @@
       "mysterious": 0.0043,
       "glowing": 0.0097,
       "worn": 0.0234,
-      "warped": 0.0234
+      "warped": 0.0234,
+      "Feystones": [
+        {
+          "mysterious": 0.0043,
+          "glowing": 0.0097,
+          "worn": 0.0234,
+          "warped": 0.0234
+        }
+      ],
+      "Group": [
+        {
+          "mysterious": 0.15,
+          "glowing": 0.34,
+          "worn": 0.82,
+          "warped": 0.77
+        }
+      ]
     }
   ]
 }
