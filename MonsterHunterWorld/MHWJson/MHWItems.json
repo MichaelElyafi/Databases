@@ -1,7 +1,6 @@
 ﻿{
   "Item": [
     {
-      "id": 1,
       "name": "Potion",
       "description": "Restores a small amount of health.",
       "rarity": 1,
@@ -18,7 +17,6 @@
       ]
     },
     {
-      "id": 2,
       "name": "Mega Potion",
       "description": "Restores a moderate amount of health.",
       "rarity": 2,
@@ -35,7 +33,6 @@
       ]
     },
     {
-      "id": 3,
       "name": "Max Potion",
       "description": "Fully restores health and maximizes the size of your Health Gauge.",
       "rarity": 3,
@@ -52,7 +49,6 @@
       ]
     },
     {
-      "id": 4,
       "name": "Ancient Potion",
       "description": "Fully restores health and maximizes the size of your Health and Stamina Gauges.",
       "rarity": 5,
@@ -76,7 +72,6 @@
       ]
     },
     {
-      "id": 5,
       "name": "Antidote",
       "description": "A cure for poison.",
       "rarity": 1,
@@ -93,7 +88,6 @@
       ]
     },
     {
-      "id": 6,
       "name": "Herbal Medicine",
       "description": "Removes all traces of poison and restores a slight amount of health.",
       "rarity": 2,
@@ -110,7 +104,6 @@
       ]
     },
     {
-      "id": 7,
       "name": "Nulberry",
       "description": "A mysterious berry that cures various blights.",
       "rarity": 2,
@@ -372,7 +365,6 @@
       ]
     },
     {
-      "id": 8,
       "name": "Energy Drink",
       "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
       "rarity": 2,
@@ -389,7 +381,6 @@
       ]
     },
     {
-      "id": 9,
       "name": "Ration",
       "description": "Food that restores a bit of stamina.",
       "rarity": 1,
@@ -539,7 +530,6 @@
       ]
     },
     {
-      "id": 10,
       "name": "Rare Steak",
       "description": "Provides a moderate boost to your stamina. This one's still red in the middle.",
       "rarity": 1,
@@ -556,7 +546,6 @@
       ]
     },
     {
-      "id": 11,
       "name": "Well-done Steak",
       "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
       "rarity": 2,
@@ -622,7 +611,6 @@
       ]
     },
     {
-      "id": 12,
       "name": "Burnt Meat",
       "description": "Provides a small boost to your stamina. Can be eaten quickly.",
       "rarity": 1,
@@ -639,7 +627,6 @@
       ]
     },
     {
-      "id": 13,
       "name": "Cool Drink",
       "description": "Provides temporary relief from extreme heat.",
       "rarity": 1,
@@ -656,7 +643,6 @@
       ]
     },
     {
-      "id": 14,
       "name": "Nutrients",
       "description": "Very slightly increases your maximum health level.",
       "rarity": 2,
@@ -673,7 +659,6 @@
       ]
     },
     {
-      "id": 15,
       "name": "Mega Nutrients",
       "description": "Slightly increases your maximum health level.",
       "rarity": 3,
@@ -690,7 +675,6 @@
       ]
     },
     {
-      "id": 16,
       "name": "Immunizer",
       "description": "Boosts your natural ability to heal.",
       "rarity": 3,
@@ -707,7 +691,6 @@
       ]
     },
     {
-      "id": 17,
       "name": "Astera Jerky",
       "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
       "rarity": 2,
@@ -724,7 +707,6 @@
       ]
     },
     {
-      "id": 18,
       "name": "Dash Juice",
       "description": "Dulls one's sense of exhaustion. Reduces stamina depletion for a time.",
       "rarity": 2,
@@ -741,7 +723,6 @@
       ]
     },
     {
-      "id": 19,
       "name": "Mega Dash Juice",
       "description": "Lets you dash without tiring for longer than regular dash juice does.",
       "rarity": 3,
@@ -758,7 +739,6 @@
       ]
     },
     {
-      "id": 20,
       "name": "Might Seed",
       "description": "Temporarily strengthens your attacks when ingested by improving energy flow.",
       "rarity": 2,
@@ -943,7 +923,6 @@
       ]
     },
     {
-      "id": 21,
       "name": "Demondrug",
       "description": "",
       "rarity": 4,
@@ -960,7 +939,6 @@
       ]
     },
     {
-      "id": 22,
       "name": "Mega Demondrug",
       "description": "",
       "rarity": 5,
@@ -977,7 +955,6 @@
       ]
     },
     {
-      "id": 23,
       "name": "Might Pill",
       "description": "",
       "rarity": 4,
@@ -994,7 +971,6 @@
       ]
     },
     {
-      "id": 24,
       "name": "Adamant Seed",
       "description": "",
       "rarity": 2,
@@ -1109,7 +1085,6 @@
       ]
     },
     {
-      "id": 25,
       "name": "Armorskin",
       "description": "",
       "rarity": 4,
@@ -1126,7 +1101,6 @@
       ]
     },
     {
-      "id": 26,
       "name": "Mega Armorskin",
       "description": "",
       "rarity": 5,
@@ -1143,7 +1117,6 @@
       ]
     },
     {
-      "id": 27,
       "name": "Adamant Pill",
       "description": "",
       "rarity": 4,
@@ -1160,7 +1133,6 @@
       ]
     },
     {
-      "id": 28,
       "name": "Lifepowder",
       "description": "",
       "rarity": 4,
@@ -1177,7 +1149,6 @@
       ]
     },
     {
-      "id": 29,
       "name": "Herbal Powder",
       "description": "",
       "rarity": 4,
@@ -1194,7 +1165,6 @@
       ]
     },
     {
-      "id": 30,
       "name": "Demon Powder",
       "description": "",
       "rarity": 4,
@@ -1211,7 +1181,6 @@
       ]
     },
     {
-      "id": 31,
       "name": "Hardshell Powder",
       "description": "A mysterious powder that produces a cloud around the Area that temporarily strengthens defense.",
       "rarity": 4,
@@ -1228,7 +1197,6 @@
       ]
     },
     {
-      "id": 32,
       "name": "Honey",
       "description": "Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.",
       "rarity": 2,
@@ -1763,7 +1731,6 @@
       ]
     },
     {
-      "id": 33,
       "name": "Herb",
       "description": "A primary ingredient in potions.",
       "rarity": 1,
@@ -2375,7 +2342,6 @@
       ]
     },
     {
-      "id": 34,
       "name": "Antidote Herb",
       "description": "A primary ingredient in antidotes.",
       "rarity": 1,
@@ -2539,7 +2505,6 @@
       ]
     },
     {
-      "id": 35,
       "name": "Fire Herb",
       "description": "A wondrous, flammable plant. Useful for crafting explosives.",
       "rarity": 2,
@@ -2696,7 +2661,6 @@
       ]
     },
     {
-      "id": 36,
       "name": "Flowfern",
       "description": "This plant's leaves store a great amount of water. A component for making Water Ammo.",
       "rarity": 2,
@@ -2804,7 +2768,6 @@
       ]
     },
     {
-      "id": 37,
       "name": "Snow Herb",
       "description": "A plant that radiates ice-cold air. Use in combinations to create freeze ammo.",
       "rarity": 2,
@@ -2863,7 +2826,6 @@
       ]
     },
     {
-      "id": 38,
       "name": "Sleep Herb",
       "description": "A plant containing sleeping agents. Used to craft tranquilizers.",
       "rarity": 1,
@@ -2999,7 +2961,6 @@
       ]
     },
     {
-      "id": 39,
       "name": "Ivy",
       "description": "A lightweight and extremely strong plant. Used to make nets for pitfall traps.",
       "rarity": 1,
@@ -3121,7 +3082,6 @@
       ]
     },
     {
-      "id": 40,
       "name": "Smokenut",
       "description": "A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.",
       "rarity": 1,
@@ -3215,7 +3175,6 @@
       ]
     },
     {
-      "id": 41,
       "name": "Dragonfell Berry",
       "description": "A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",
       "rarity": 4,
@@ -3372,7 +3331,6 @@
       ]
     },
     {
-      "id": 42,
       "name": "Blue Musoom",
       "description": "A musoom infused with power-enhancing effects. Used in restorative items.",
       "rarity": 2,
@@ -3711,7 +3669,6 @@
       ]
     },
     {
-      "id": 43,
       "name": "Mandragora",
       "description": "A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.",
       "rarity": 3,
@@ -3868,7 +3825,6 @@
       ]
     },
     {
-      "id": 44,
       "name": "Nitrosoom",
       "description": "A hard-to-find musoom with the power to generate blazing heat. Required to craft Gunpowder.",
       "rarity": 2,
@@ -4095,7 +4051,6 @@
       ]
     },
     {
-      "id": 45,
       "name": "Devil's Blight",
       "description": "A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.",
       "rarity": 2,
@@ -4259,7 +4214,6 @@
       ]
     },
     {
-      "id": 46,
       "name": "Parasoom",
       "description": "A musoom that induces paralysis. Required to craft Tranq Bombs.",
       "rarity": 3,
@@ -4472,7 +4426,6 @@
       ]
     },
     {
-      "id": 47,
       "name": "Toadstool",
       "description": "A poisonous fungus. Can be used as a toxin for knives.",
       "rarity": 2,
@@ -4643,7 +4596,6 @@
       ]
     },
     {
-      "id": 48,
       "name": "Excitesoom",
       "description": "This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.",
       "rarity": 3,
@@ -4751,7 +4703,6 @@
       ]
     },
     {
-      "id": 49,
       "name": "Chillsoom",
       "description": "This musoom is a primary ingredient in cool drinks.",
       "rarity": 3,
@@ -4824,7 +4775,6 @@
       ]
     },
     {
-      "id": 50,
       "name": "Bitterbug",
       "description": "A sharp-tasting bug with innate healing abilities. Used as an ingredient in many medicines.",
       "rarity": 1,
@@ -5254,7 +5204,6 @@
       ]
     },
     {
-      "id": 51,
       "name": "Flashbug",
       "description": "An insect that emits a powerful flash when it dies. Required to craft Flash Pods.",
       "rarity": 2,
@@ -5453,7 +5402,6 @@
       ]
     },
     {
-      "id": 52,
       "name": "Godbug",
       "description": "An insect said to live a millennium. Combine it with other items to add their properties to the powder.",
       "rarity": 4,
@@ -5736,7 +5684,6 @@
       ]
     },
     {
-      "id": 53,
       "name": "Thunderbug",
       "description": "An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.",
       "rarity": 4,
@@ -6061,7 +6008,6 @@
       ]
     },
     {
-      "id": 54,
       "name": "Baitbug",
       "description": "An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",
       "rarity": 3,
@@ -6246,7 +6192,6 @@
       ]
     },
     {
-      "id": 55,
       "name": "Kelbi Horn",
       "description": "While not practical for forging purposes, Kelbi horns are a vital component of many items.",
       "rarity": 4,
@@ -6284,7 +6229,6 @@
       ]
     },
     {
-      "id": 56,
       "name": "Dash Extract",
       "description": "A mysterious substance culled from certain monsters that increases endurance.",
       "rarity": 4,
@@ -6406,7 +6350,6 @@
       ]
     },
     {
-      "id": 57,
       "name": "Nourishing Extract",
       "description": "Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.",
       "rarity": 4,
@@ -6528,7 +6471,6 @@
       ]
     },
     {
-      "id": 58,
       "name": "Screamer Sac",
       "description": "A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.",
       "rarity": 4,
@@ -6566,7 +6508,6 @@
       ]
     },
     {
-      "id": 59,
       "name": "Catalyst",
       "description": "Works with other materials to enhance their effects. Cannot be used by itself.",
       "rarity": 2,
@@ -6583,7 +6524,6 @@
       ]
     },
     {
-      "id": 60,
       "name": "Tranq Bomb",
       "description": "A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.",
       "rarity": 4,
@@ -6600,7 +6540,6 @@
       ]
     },
     {
-      "id": 61,
       "name": "Flash Pod",
       "description": "Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.",
       "rarity": 2,
@@ -6617,7 +6556,6 @@
       ]
     },
     {
-      "id": 62,
       "name": "Screamer Pod",
       "description": "Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters.",
       "rarity": 2,
@@ -6634,7 +6572,6 @@
       ]
     },
     {
-      "id": 63,
       "name": "Dung Pod",
       "description": "Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.",
       "rarity": 2,
@@ -6658,7 +6595,6 @@
       ]
     },
     {
-      "id": 64,
       "name": "Smoke Bomb",
       "description": "Creates a large cloud of smoke wherever it lands.",
       "rarity": 2,
@@ -6675,7 +6611,6 @@
       ]
     },
     {
-      "id": 65,
       "name": "Poison Smoke Bomb",
       "description": "Releases a toxic cloud of mist when used. Also popular as a household bug bomb.",
       "rarity": 2,
@@ -6692,7 +6627,6 @@
       ]
     },
     {
-      "id": 66,
       "name": "Farcaster",
       "description": "Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.",
       "rarity": 3,
@@ -6709,7 +6643,6 @@
       ]
     },
     {
-      "id": 67,
       "name": "Raw Meat",
       "description": "Meat carved from a monster. Can be cooked, combined, or used to set a trap.",
       "rarity": 1,
@@ -6824,7 +6757,6 @@
       ]
     },
     {
-      "id": 68,
       "name": "Poisoned Meat",
       "description": "Raw meat that poisons whatever eats it. Makes great bait for traps.",
       "rarity": 1,
@@ -6841,7 +6773,6 @@
       ]
     },
     {
-      "id": 69,
       "name": "Tinged Meat",
       "description": "Raw meat that paralyzes whatever eats it. Makes great bait for traps.",
       "rarity": 2,
@@ -6858,7 +6789,6 @@
       ]
     },
     {
-      "id": 70,
       "name": "Drugged Meat",
       "description": "Raw meat that puts whatever eats it to sleep. Makes great bait for traps.",
       "rarity": 1,
@@ -6875,7 +6805,6 @@
       ]
     },
     {
-      "id": 71,
       "name": "Gunpowder",
       "description": "A dangerous substance that explodes when struct or heated.",
       "rarity": 2,
@@ -6892,7 +6821,6 @@
       ]
     },
     {
-      "id": 72,
       "name": "Small Barrel",
       "description": "",
       "rarity": 1,
@@ -6923,7 +6851,6 @@
       ]
     },
     {
-      "id": 73,
       "name": "Barrel Bomb",
       "description": "",
       "rarity": 2,
@@ -6940,7 +6867,6 @@
       ]
     },
     {
-      "id": 74,
       "name": "Bounce Bomb",
       "description": "",
       "rarity": 2,
@@ -6957,7 +6883,6 @@
       ]
     },
     {
-      "id": 75,
       "name": "Mega Bounce Bomb",
       "description": "",
       "rarity": 4,
@@ -6974,7 +6899,6 @@
       ]
     },
     {
-      "id": 76,
       "name": "Large Barrel",
       "description": "A large, empty barrel. Combine with gunpowser to make it into a bomb.",
       "rarity": 2,
@@ -7068,7 +6992,6 @@
       ]
     },
     {
-      "id": 77,
       "name": "Large Barrel Bomb",
       "description": "",
       "rarity": 3,
@@ -7267,7 +7190,6 @@
       ]
     },
     {
-      "id": 78,
       "name": "Mega Barrel Bomb",
       "description": "An upgraded large barrel bomb. Effective against large monsters.",
       "rarity": 4,
@@ -7333,7 +7255,6 @@
       ]
     },
     {
-      "id": 79,
       "name": "Spider Web",
       "description": "A very sticky web. Used to craft pitfall traps.",
       "rarity": 1,
@@ -7497,7 +7418,6 @@
       ]
     },
     {
-      "id": 80,
       "name": "Net",
       "description": "A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.",
       "rarity": 2,
@@ -7514,7 +7434,6 @@
       ]
     },
     {
-      "id": 81,
       "name": "Trap Tool",
       "description": "A must-have item for putting together pitfall traps and other kinds of traps.",
       "rarity": 3,
@@ -7608,7 +7527,6 @@
       ]
     },
     {
-      "id": 82,
       "name": "Pitfall Trap",
       "description": "A trap for catching certain large monsters. It is tripped by a heavy weight.",
       "rarity": 3,
@@ -7625,7 +7543,6 @@
       ]
     },
     {
-      "id": 83,
       "name": "Shock Trap",
       "description": "A trap that immobilizes a target. Use it to capture monsters.",
       "rarity": 3,
@@ -7642,7 +7559,6 @@
       ]
     },
     {
-      "id": 84,
       "name": "Rolled-up Dung",
       "description": "A ball of condensed monster dung. Used to make dung pods for your slinger.",
       "rarity": 1,
@@ -7651,7 +7567,6 @@
       "drop": []
     },
     {
-      "id": 85,
       "name": "Dung",
       "description": "Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.",
       "rarity": 1,
@@ -7660,7 +7575,6 @@
       "drop": []
     },
     {
-      "id": 86,
       "name": "Arowana Bait",
       "description": "A ball of bait favored by fish of the Arowana family.",
       "rarity": 2,
@@ -7669,7 +7583,6 @@
       "drop": []
     },
     {
-      "id": 87,
       "name": "Gunpowderfish Bait",
       "description": "A ball of bait favored by fish of the Gunpowderfish family.",
       "rarity": 2,
@@ -7678,7 +7591,6 @@
       "drop": []
     },
     {
-      "id": 88,
       "name": "Goldenfish Bait",
       "description": "A ball of bait favored by fish of the Goldenfish family.",
       "rarity": 4,
@@ -7687,7 +7599,6 @@
       "drop": []
     },
     {
-      "id": 89,
       "name": "Boomerang",
       "description": "An unusually-shaped weapon from abroad that returns to its user when town.",
       "rarity": 4,
@@ -7696,7 +7607,6 @@
       "drop": []
     },
     {
-      "id": 90,
       "name": "Binoculars",
       "description": "Allows you to see farther and observe from a distance.",
       "rarity": 1,
@@ -7705,7 +7615,6 @@
       "drop": []
     },
     {
-      "id": 91,
       "name": "Powercharm",
       "description": "An amulet that strengthens attacks. Just carrying this gives you demonic strength.",
       "rarity": 5,
@@ -7714,7 +7623,6 @@
       "drop": []
     },
     {
-      "id": 92,
       "name": "Powertalon",
       "description": "A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.",
       "rarity": 5,
@@ -7723,7 +7631,6 @@
       "drop": []
     },
     {
-      "id": 93,
       "name": "Armorcharm",
       "description": "An amulet that increases defense. Just carrying this hardens your skin like stone.",
       "rarity": 5,
@@ -7732,7 +7639,6 @@
       "drop": []
     },
     {
-      "id": 94,
       "name": "Armortalon",
       "description": "A charm that increases defense. Its effects are amplified by the dragon parts it contains.",
       "rarity": 5,
@@ -7741,7 +7647,6 @@
       "drop": []
     },
     {
-      "id": 95,
       "name": "Needleberry",
       "description": "A nut covered in needle-like spines. Used to make spread ammo.",
       "rarity": 1,
@@ -7975,7 +7880,6 @@
       ]
     },
     {
-      "id": 96,
       "name": "Blastnut",
       "description": "A nut used to make sticky ammo.",
       "rarity": 1,
@@ -8181,7 +8085,6 @@
       ]
     },
     {
-      "id": 97,
       "name": "Dragonstrike nut",
       "description": "A nut that explodes on impact. Used to make wyvern ammo.",
       "rarity": 2,
@@ -8303,7 +8206,6 @@
       ]
     },
     {
-      "id": 98,
       "name": "Slashberry",
       "description": "Used to make slicing ammo.",
       "rarity": 1,
@@ -8509,7 +8411,6 @@
       ]
     },
     {
-      "id": 99,
       "name": "Latchberry",
       "description": "A nut that bears a spiral groove. Used to make pierce ammo.",
       "rarity": 1,
@@ -8841,7 +8742,6 @@
       ]
     },
     {
-      "id": 100,
       "name": "Bomberry",
       "description": "A nut that ruptures on impact. Used to make cluster bombs.",
       "rarity": 2,
@@ -8949,7 +8849,6 @@
       ]
     },
     {
-      "id": 101,
       "name": "Flamenut",
       "description": "Used to make gunpowder that increases ammo firepower.",
       "rarity": 2,
@@ -9239,7 +9138,6 @@
       ]
     },
     {
-      "id": 102,
       "name": "Blazenut",
       "description": "Used to make gunpowder that greatly increases ammo firepower.",
       "rarity": 2,
@@ -9333,7 +9231,6 @@
       ]
     },
     {
-      "id": 103,
       "name": "Gunpowder Level 2",
       "description": "Combustible powser. Combine with level 1 ammo to raise its level.",
       "rarity": 2,
@@ -9364,7 +9261,6 @@
       ]
     },
     {
-      "id": 104,
       "name": "Gunpowser Level 3",
       "description": "Highly combustible powser. Combine with level 1 ammo to raise its level.",
       "rarity": 2,
@@ -9395,7 +9291,6 @@
       ]
     },
     {
-      "id": 105,
       "name": "Whetfish Fin",
       "description": "A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone.",
       "rarity": 2,
@@ -9404,7 +9299,6 @@
       "drop": []
     },
     {
-      "id": 106,
       "name": "Whetfish Fin+",
       "description": "A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky.",
       "rarity": 4,
@@ -9413,7 +9307,6 @@
       "drop": []
     },
     {
-      "id": 107,
       "name": "Sushifish Scale",
       "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
       "rarity": 2,
@@ -9422,7 +9315,6 @@
       "drop": []
     },
     {
-      "id": 108,
       "name": "Great Sushifish Scale",
       "description": "Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding.",
       "rarity": 0,
@@ -9431,7 +9323,6 @@
       "drop": []
     },
     {
-      "id": 109,
       "name": "Gunpowderfish Scale",
       "description": "The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.",
       "rarity": 3,
@@ -9440,7 +9331,6 @@
       "drop": []
     },
     {
-      "id": 110,
       "name": "Great Gunpowderfish Scale",
       "description": "The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.",
       "rarity": 0,
@@ -9449,7 +9339,6 @@
       "drop": []
     },
     {
-      "id": 111,
       "name": "Burst Arowana Scale",
       "description": "The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.",
       "rarity": 2,
@@ -9458,7 +9347,6 @@
       "drop": []
     },
     {
-      "id": 112,
       "name": "Great Burst Arowana Scale",
       "description": "The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.",
       "rarity": 0,
@@ -9467,7 +9355,6 @@
       "drop": []
     },
     {
-      "id": 113,
       "name": "Bomb Arowana Scale",
       "description": "The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.",
       "rarity": 2,
@@ -9476,7 +9363,6 @@
       "drop": []
     },
     {
-      "id": 114,
       "name": "Great Bomb Arowana Scale",
       "description": "The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.",
       "rarity": 0,
@@ -9485,7 +9371,6 @@
       "drop": []
     },
     {
-      "id": 115,
       "name": "Empty Phial",
       "description": "A regularly old empty phial. Nothing more, nothing less.",
       "rarity": 1,
@@ -9494,7 +9379,6 @@
       "drop": []
     },
     {
-      "id": 116,
       "name": "Iron Ore",
       "description": "Ore that can be smelted into metal and used for many different purposes.",
       "rarity": 4,
@@ -9896,7 +9780,6 @@
       ]
     },
     {
-      "id": 117,
       "name": "Machalite Ore",
       "description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
       "rarity": 4,
@@ -10452,7 +10335,6 @@
       ]
     },
     {
-      "id": 118,
       "name": "Dragonite Ore",
       "description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
       "rarity": 4,
@@ -11169,7 +11051,6 @@
       ]
     },
     {
-      "id": 119,
       "name": "Carbalite Ore",
       "description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
       "rarity": 6,
@@ -11718,7 +11599,6 @@
       ]
     },
     {
-      "id": 120,
       "name": "Fucium Ore",
       "description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
       "rarity": 6,
@@ -11903,7 +11783,6 @@
       ]
     },
     {
-      "id": 121,
       "name": "Earth Crystal",
       "description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
       "rarity": 4,
@@ -12158,7 +12037,6 @@
       ]
     },
     {
-      "id": 122,
       "name": "Coral Crystal",
       "description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
       "rarity": 4,
@@ -12350,7 +12228,6 @@
       ]
     },
     {
-      "id": 123,
       "name": "Dragonvein Crystal",
       "description": "Mined from high rank Area s. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
       "rarity": 6,
@@ -12759,7 +12636,6 @@
       ]
     },
     {
-      "id": 124,
       "name": "Lightcrystal",
       "description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
       "rarity": 4,
@@ -13252,7 +13128,6 @@
       ]
     },
     {
-      "id": 125,
       "name": "Novacrystal",
       "description": "High quality Lightcrystal. Highly coveted for its rarity, It's used for only the finest of metalworking.",
       "rarity": 6,
@@ -13822,7 +13697,6 @@
       ]
     },
     {
-      "id": 126,
       "name": "Firecell Stone",
       "description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
       "rarity": 6,
@@ -14035,7 +13909,6 @@
       ]
     },
     {
-      "id": 127,
       "name": "Aquacore Ore",
       "description": "A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.",
       "rarity": 4,
@@ -14164,7 +14037,6 @@
       ]
     },
     {
-      "id": 128,
       "name": "Spiritcore Ore",
       "description": "A valuable mineral used to create charms. Gives off a warm, sunny glow.",
       "rarity": 6,
@@ -14496,7 +14368,6 @@
       ]
     },
     {
-      "id": 129,
       "name": "Dreamcore Ore",
       "description": "A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.",
       "rarity": 5,
@@ -14716,7 +14587,6 @@
       ]
     },
     {
-      "id": 130,
       "name": "Dragoncore Ore",
       "description": "A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.",
       "rarity": 6,
@@ -14725,7 +14595,6 @@
       "drop": []
     },
     {
-      "id": 131,
       "name": "Armor Sphere",
       "description": "Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.",
       "rarity": 4,
@@ -14910,7 +14779,6 @@
       ]
     },
     {
-      "id": 132,
       "name": "Armor Sphere+",
       "description": "Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.",
       "rarity": 5,
@@ -15347,7 +15215,6 @@
       ]
     },
     {
-      "id": 133,
       "name": "Advanced Armor Sphere",
       "description": "Reacts uniquely to heat. Fuse this to armor to improve it.",
       "rarity": 0,
@@ -15609,7 +15476,6 @@
       ]
     },
     {
-      "id": 134,
       "name": "Hard Armor Sphere",
       "description": "Reacts uniquely to heat. Fuse this to armor to significantly improve it.",
       "rarity": 7,
@@ -15689,7 +15555,6 @@
       ]
     },
     {
-      "id": 135,
       "name": "Heavy Armor Sphere",
       "description": "Reacts uniquely to heat. Fuse this to armor to greatly improve it.",
       "rarity": 8,
@@ -15698,7 +15563,6 @@
       "drop": []
     },
     {
-      "id": 136,
       "name": "Sturdy Bone",
       "description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
       "rarity": 4,
@@ -16282,7 +16146,6 @@
       ]
     },
     {
-      "id": 137,
       "name": "Quality Bone",
       "description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
       "rarity": 6,
@@ -17013,7 +16876,6 @@
       ]
     },
     {
-      "id": 138,
       "name": "Ancient Bone",
       "description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
       "rarity": 4,
@@ -17387,7 +17249,6 @@
       ]
     },
     {
-      "id": 139,
       "name": "Boulder Bone",
       "description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
       "rarity": 4,
@@ -17726,7 +17587,6 @@
       ]
     },
     {
-      "id": 140,
       "name": "Coral Bone",
       "description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
       "rarity": 4,
@@ -17974,7 +17834,6 @@
       ]
     },
     {
-      "id": 141,
       "name": "Warped Bone",
       "description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
       "rarity": 4,
@@ -18271,7 +18130,6 @@
       ]
     },
     {
-      "id": 142,
       "name": "Brutal Bone",
       "description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
       "rarity": 6,
@@ -18393,7 +18251,6 @@
       ]
     },
     {
-      "id": 143,
       "name": "Dragonbone Relic",
       "description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
       "rarity": 7,
@@ -18928,7 +18785,6 @@
       ]
     },
     {
-      "id": 144,
       "name": "Unknown Skull",
       "description": "A rare material found in bonepiles in the Elder's Recess. It appears to be some kind of animal skull.",
       "rarity": 7,
@@ -18994,7 +18850,6 @@
       ]
     },
     {
-      "id": 145,
       "name": "Great Hornfly",
       "description": "Discovered by Botanical Research. An insect with a giant horn, massive shell, and butterfly-like wings.",
       "rarity": 4,
@@ -19003,7 +18858,6 @@
       "drop": []
     },
     {
-      "id": 146,
       "name": "Sinister Cloth",
       "description": "Suspect cloth the Tailraider Safari dug up from who-knows-where. Drips with an aura of pure evil.",
       "rarity": 0,
@@ -19012,7 +18866,6 @@
       "drop": []
     },
     {
-      "id": 147,
       "name": "Monster Bone S",
       "description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
       "rarity": 3,
@@ -20044,7 +19897,6 @@
       ]
     },
     {
-      "id": 148,
       "name": "Monster Bone M",
       "description": "Bone obtained from large monsters. Strong yet flexible, It's as reliable as steel or wood.",
       "rarity": 4,
@@ -20222,7 +20074,6 @@
       ]
     },
     {
-      "id": 149,
       "name": "Monster Bone L",
       "description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
       "rarity": 4,
@@ -20484,7 +20335,6 @@
       ]
     },
     {
-      "id": 150,
       "name": "Monster Bone+",
       "description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
       "rarity": 4,
@@ -20830,7 +20680,6 @@
       ]
     },
     {
-      "id": 151,
       "name": "Monster Keenbone",
       "description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
       "rarity": 6,
@@ -21190,7 +21039,6 @@
       ]
     },
     {
-      "id": 152,
       "name": "Monster Hardbone",
       "description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
       "rarity": 6,
@@ -21466,7 +21314,6 @@
       ]
     },
     {
-      "id": 153,
       "name": "Elder Dragon Bone",
       "description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
       "rarity": 6,
@@ -21623,7 +21470,6 @@
       ]
     },
     {
-      "id": 154,
       "name": "Sharp Claw",
       "description": "Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",
       "rarity": 4,
@@ -21668,7 +21514,6 @@
       ]
     },
     {
-      "id": 155,
       "name": "Piercing Claw",
       "description": "Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.",
       "rarity": 6,
@@ -21713,7 +21558,6 @@
       ]
     },
     {
-      "id": 156,
       "name": "Monster Fluid",
       "description": "Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.",
       "rarity": 4,
@@ -21758,7 +21602,6 @@
       ]
     },
     {
-      "id": 157,
       "name": "Monster Broth",
       "description": "Material from high rank insects. A rich broth made from only the thickest of monster juices.",
       "rarity": 6,
@@ -21796,7 +21639,6 @@
       ]
     },
     {
-      "id": 158,
       "name": "Poison Sac",
       "description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
       "rarity": 4,
@@ -21827,7 +21669,6 @@
       ]
     },
     {
-      "id": 159,
       "name": "Toxin Sac",
       "description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
       "rarity": 6,
@@ -21858,7 +21699,6 @@
       ]
     },
     {
-      "id": 160,
       "name": "Paralysis Sac",
       "description": "A monster organ that contains paralyzing neurotoxins.",
       "rarity": 4,
@@ -21889,7 +21729,6 @@
       ]
     },
     {
-      "id": 161,
       "name": "Omniplegia Sac",
       "description": "A monster organ filled with potent neurotoxins. A single touch can cause paralysis.",
       "rarity": 6,
@@ -21920,7 +21759,6 @@
       ]
     },
     {
-      "id": 162,
       "name": "Sleep Sac",
       "description": "A monster organ that contains a knockout powder capable of inducing sleep.",
       "rarity": 4,
@@ -21951,7 +21789,6 @@
       ]
     },
     {
-      "id": 163,
       "name": "Coma Sac",
       "description": "A monster organ that contains dangerous powder. One whiff can induce a coma.",
       "rarity": 6,
@@ -21982,7 +21819,6 @@
       ]
     },
     {
-      "id": 164,
       "name": "Flame Sac",
       "description": "A monster organ filled with flammable powder. Handle with extreme care.",
       "rarity": 4,
@@ -22062,7 +21898,6 @@
       ]
     },
     {
-      "id": 165,
       "name": "Inferno Sac",
       "description": "A monster organ filled with powder that ignites if it so much as touches air. Danger!",
       "rarity": 6,
@@ -22226,7 +22061,6 @@
       ]
     },
     {
-      "id": 166,
       "name": "Aqua Sac",
       "description": "A monster organ designed to hold and preserve water.",
       "rarity": 4,
@@ -22257,7 +22091,6 @@
       ]
     },
     {
-      "id": 167,
       "name": "Torrent Sac",
       "description": "A monster organ designed to hold and preserve copious amounts of water.",
       "rarity": 6,
@@ -22288,7 +22121,6 @@
       ]
     },
     {
-      "id": 168,
       "name": "Frost Sac",
       "description": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
       "rarity": 4,
@@ -22305,7 +22137,6 @@
       ]
     },
     {
-      "id": 169,
       "name": "Freezer Sac",
       "description": "A monster organ with tremendous freezing power. Turns its surroundings to ice.",
       "rarity": 6,
@@ -22364,7 +22195,6 @@
       ]
     },
     {
-      "id": 170,
       "name": "Electro Sac",
       "description": "A monster organ that can store up electricity, which is released on impact.",
       "rarity": 4,
@@ -22395,7 +22225,6 @@
       ]
     },
     {
-      "id": 171,
       "name": "Thunder Sac",
       "description": "A monster organ that can store up large amounts of high voltage electricity.",
       "rarity": 6,
@@ -22426,7 +22255,6 @@
       ]
     },
     {
-      "id": 172,
       "name": "Bird Wyvern Gem",
       "description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
       "rarity": 7,
@@ -22562,7 +22390,6 @@
       ]
     },
     {
-      "id": 173,
       "name": "Wyvern Gem",
       "description": "Toughout a wyvern's life, impurities gather and form this peculiar gem.",
       "rarity": 7,
@@ -22943,7 +22770,6 @@
       ]
     },
     {
-      "id": 174,
       "name": "Elder Dragon Blood",
       "description": "Contains an unknown compound. The object of much scholarly research.",
       "rarity": 7,
@@ -23107,7 +22933,6 @@
       ]
     },
     {
-      "id": 175,
       "name": "Mosswine Hide",
       "description": "A musty hide covered in moss.",
       "rarity": 4,
@@ -23131,7 +22956,6 @@
       ]
     },
     {
-      "id": 176,
       "name": "Warm Pelt",
       "description": "A pelt from a small animal. Used for many things, but mostly just regular clothes.",
       "rarity": 4,
@@ -23162,7 +22986,6 @@
       ]
     },
     {
-      "id": 177,
       "name": "High-quality Pelt",
       "description": "Rare pelt from a small animal. Feels wonderful to the touch and valued highly by the Commission.",
       "rarity": 6,
@@ -23193,7 +23016,6 @@
       ]
     },
     {
-      "id": 178,
       "name": "Vespoid Shell",
       "description": "Vespoid material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
@@ -23217,7 +23039,6 @@
       ]
     },
     {
-      "id": 179,
       "name": "Vespoid Carapace",
       "description": "Rare Vespoid material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
@@ -23241,7 +23062,6 @@
       ]
     },
     {
-      "id": 180,
       "name": "Vespoid Wing",
       "description": "Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
       "rarity": 4,
@@ -23265,7 +23085,6 @@
       ]
     },
     {
-      "id": 181,
       "name": "Vespoid Innerwing",
       "description": "Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
       "rarity": 6,
@@ -23289,7 +23108,6 @@
       ]
     },
     {
-      "id": 182,
       "name": "Hornetaur Shell",
       "description": "Hornetaur material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
@@ -23313,7 +23131,6 @@
       ]
     },
     {
-      "id": 183,
       "name": "Hornetaur Wing",
       "description": "Hornetaur material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
@@ -23337,7 +23154,6 @@
       ]
     },
     {
-      "id": 184,
       "name": "Hornetaur Head",
       "description": "Hornetaur material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 4,
@@ -23375,7 +23191,6 @@
       ]
     },
     {
-      "id": 185,
       "name": "Hornetaur Carapace",
       "description": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
@@ -23399,7 +23214,6 @@
       ]
     },
     {
-      "id": 186,
       "name": "Hornetaur Innerwing",
       "description": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
       "rarity": 6,
@@ -23423,7 +23237,6 @@
       ]
     },
     {
-      "id": 187,
       "name": "Gajau Skin",
       "description": "Gajau material. Obtained by carving. Water-resistant, used to craft gear.",
       "rarity": 4,
@@ -23447,7 +23260,6 @@
       ]
     },
     {
-      "id": 188,
       "name": "Gajau Whisker",
       "description": "Gajau material. Obtained by carving. Hardy, used to craft gear.",
       "rarity": 4,
@@ -23471,7 +23283,6 @@
       ]
     },
     {
-      "id": 189,
       "name": "Gajau Scale",
       "description": "Rare Gajau material. Obtained by carving. Water-resistant, used to craft gear.",
       "rarity": 6,
@@ -23495,7 +23306,6 @@
       ]
     },
     {
-      "id": 190,
       "name": "Grand Gajau Whisker",
       "description": "Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",
       "rarity": 6,
@@ -23519,7 +23329,6 @@
       ]
     },
     {
-      "id": 191,
       "name": "Wingdrake Hide",
       "description": "A material carved from wingdrakes. Lightweight and often used when crafting armor.",
       "rarity": 4,
@@ -23592,7 +23401,6 @@
       ]
     },
     {
-      "id": 192,
       "name": "Wingdrake Hide+",
       "description": "A rare material carved from wingdrakes. Lightweight and often used when crafting armor.",
       "rarity": 6,
@@ -23637,7 +23445,6 @@
       ]
     },
     {
-      "id": 193,
       "name": "Barnos Hide+",
       "description": "Rare Barnos material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
@@ -23654,7 +23461,6 @@
       ]
     },
     {
-      "id": 194,
       "name": "Barnos Talon",
       "description": "Rare Barnos material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 6,
@@ -23671,7 +23477,6 @@
       ]
     },
     {
-      "id": 195,
       "name": "Kestodon Shell",
       "description": "Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
       "rarity": 4,
@@ -23709,7 +23514,6 @@
       ]
     },
     {
-      "id": 196,
       "name": "Kestodon Scalp",
       "description": "Kestodon material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 4,
@@ -23761,7 +23565,6 @@
       ]
     },
     {
-      "id": 197,
       "name": "Kestodon Carapace",
       "description": "Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
       "rarity": 6,
@@ -23785,7 +23588,6 @@
       ]
     },
     {
-      "id": 198,
       "name": "Gastodon Carapace",
       "description": "Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear.",
       "rarity": 6,
@@ -23802,7 +23604,6 @@
       ]
     },
     {
-      "id": 199,
       "name": "Gastodon Horn",
       "description": "Rare Gastodon material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 6,
@@ -23819,7 +23620,6 @@
       ]
     },
     {
-      "id": 200,
       "name": "Jagras Scale",
       "description": "Jagras material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
@@ -23857,7 +23657,6 @@
       ]
     },
     {
-      "id": 201,
       "name": "Jagras Hide",
       "description": "Jagras material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
@@ -23881,7 +23680,6 @@
       ]
     },
     {
-      "id": 202,
       "name": "Jagras Scale+",
       "description": "Rare Jagras material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
@@ -23890,7 +23688,6 @@
       "drop": []
     },
     {
-      "id": 203,
       "name": "Jagras Hide+",
       "description": "Rare Jagras material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
@@ -23914,7 +23711,6 @@
       ]
     },
     {
-      "id": 204,
       "name": "Shamos Scale",
       "description": "Shamos material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
@@ -23938,7 +23734,6 @@
       ]
     },
     {
-      "id": 205,
       "name": "Shamos Hide",
       "description": "Shamos material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
@@ -23962,7 +23757,6 @@
       ]
     },
     {
-      "id": 206,
       "name": "Shamos Scale+",
       "description": "Rare Shamos material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
@@ -23986,7 +23780,6 @@
       ]
     },
     {
-      "id": 207,
       "name": "Shamos Hide+",
       "description": "Rare Shamos material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
@@ -24010,7 +23803,6 @@
       ]
     },
     {
-      "id": 208,
       "name": "Girros Scale",
       "description": "Girros material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
@@ -24034,7 +23826,6 @@
       ]
     },
     {
-      "id": 209,
       "name": "Girros Hide",
       "description": "Girros material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
@@ -24058,7 +23849,6 @@
       ]
     },
     {
-      "id": 210,
       "name": "Girros Fang",
       "description": "Girros material. Obtained by carving. Grants paralytic properties.",
       "rarity": 4,
@@ -24096,7 +23886,6 @@
       ]
     },
     {
-      "id": 211,
       "name": "Girros Scale+",
       "description": "Rare Girros material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
@@ -24120,7 +23909,6 @@
       ]
     },
     {
-      "id": 212,
       "name": "Girros Hide+",
       "description": "Rare Girros material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
@@ -24144,7 +23932,6 @@
       ]
     },
     {
-      "id": 213,
       "name": "Great Jagras Scale",
       "description": "Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -24217,7 +24004,6 @@
       ]
     },
     {
-      "id": 214,
       "name": "Great Jagras Hide",
       "description": "Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 4,
@@ -24297,7 +24083,6 @@
       ]
     },
     {
-      "id": 215,
       "name": "Great Jagras Mane",
       "description": "Great Jagras material. Obtained by breaking its head. Used for many purposes.",
       "rarity": 4,
@@ -24405,7 +24190,6 @@
       ]
     },
     {
-      "id": 216,
       "name": "Great Jagras Claw",
       "description": "Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 4,
@@ -24464,7 +24248,6 @@
       ]
     },
     {
-      "id": 217,
       "name": "Great Jagras Scale+",
       "description": "Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -24544,7 +24327,6 @@
       ]
     },
     {
-      "id": 218,
       "name": "Great Jagras Hide+",
       "description": "Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
@@ -24610,7 +24392,6 @@
       ]
     },
     {
-      "id": 219,
       "name": "Great Jagras Claw+",
       "description": "Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 6,
@@ -24676,7 +24457,6 @@
       ]
     },
     {
-      "id": 220,
       "name": "Kulu-Ya-Ku Scale",
       "description": "Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 4,
@@ -24756,7 +24536,6 @@
       ]
     },
     {
-      "id": 221,
       "name": "Kulu-Ya-Ku Hide",
       "description": "Kulu-Ya-Ku material. Mostly obtained by carving. Supple, often used in gear.",
       "rarity": 4,
@@ -24808,7 +24587,6 @@
       ]
     },
     {
-      "id": 222,
       "name": "Kulu-Ya-Ku Plume",
       "description": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
       "rarity": 4,
@@ -24881,7 +24659,6 @@
       ]
     },
     {
-      "id": 223,
       "name": "Kulu-Ya-Ku Beak",
       "description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
       "rarity": 4,
@@ -24933,7 +24710,6 @@
       ]
     },
     {
-      "id": 224,
       "name": "Kulu-Ya-Ku Scale+",
       "description": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -25013,7 +24789,6 @@
       ]
     },
     {
-      "id": 225,
       "name": "Kulu-Ya-Ku Hide+",
       "description": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
       "rarity": 6,
@@ -25065,7 +24840,6 @@
       ]
     },
     {
-      "id": 226,
       "name": "Kulu-Ya-Ku Plume+",
       "description": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
       "rarity": 6,
@@ -25138,7 +24912,6 @@
       ]
     },
     {
-      "id": 227,
       "name": "Kulu-Ya-Ku Beak+",
       "description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
       "rarity": 6,
@@ -25190,7 +24963,6 @@
       ]
     },
     {
-      "id": 228,
       "name": "Pukei-Pukei Scale",
       "description": "Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -25291,7 +25063,6 @@
       ]
     },
     {
-      "id": 229,
       "name": "Pukei-Pukei Shell",
       "description": "Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -25357,7 +25128,6 @@
       ]
     },
     {
-      "id": 230,
       "name": "Pukei-Pukei Quill",
       "description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
       "rarity": 4,
@@ -25430,7 +25200,6 @@
       ]
     },
     {
-      "id": 231,
       "name": "Pukei-Pukei Sac",
       "description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
       "rarity": 4,
@@ -25482,7 +25251,6 @@
       ]
     },
     {
-      "id": 232,
       "name": "Pukei-Pukei Tail",
       "description": "Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",
       "rarity": 4,
@@ -25534,7 +25302,6 @@
       ]
     },
     {
-      "id": 233,
       "name": "Pukei-Pukei Scale+",
       "description": "Rare Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -25642,7 +25409,6 @@
       ]
     },
     {
-      "id": 234,
       "name": "Pukei-Pukei Carapace",
       "description": "Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -25701,7 +25467,6 @@
       ]
     },
     {
-      "id": 235,
       "name": "Pukei-Pukei Wing",
       "description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
       "rarity": 6,
@@ -25774,7 +25539,6 @@
       ]
     },
     {
-      "id": 236,
       "name": "Pukei-Pukei Sac+",
       "description": "Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
       "rarity": 6,
@@ -25826,7 +25590,6 @@
       ]
     },
     {
-      "id": 237,
       "name": "Barroth Shell",
       "description": "Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -25920,7 +25683,6 @@
       ]
     },
     {
-      "id": 238,
       "name": "Barroth Ridge",
       "description": "Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -25979,7 +25741,6 @@
       ]
     },
     {
-      "id": 239,
       "name": "Barroth Claw",
       "description": "Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
       "rarity": 4,
@@ -26038,7 +25799,6 @@
       ]
     },
     {
-      "id": 240,
       "name": "Barroth Scalp",
       "description": "Barroth material. Obtained by breaking its head. Tough, used in many weapons.",
       "rarity": 4,
@@ -26132,7 +25892,6 @@
       ]
     },
     {
-      "id": 241,
       "name": "Barroth Tail",
       "description": "Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
@@ -26212,7 +25971,6 @@
       ]
     },
     {
-      "id": 242,
       "name": "Fertile Mud",
       "description": "Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear.",
       "rarity": 4,
@@ -26285,7 +26043,6 @@
       ]
     },
     {
-      "id": 243,
       "name": "Barroth Carapace",
       "description": "Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -26379,7 +26136,6 @@
       ]
     },
     {
-      "id": 244,
       "name": "Barroth Ridge+",
       "description": "Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -26438,7 +26194,6 @@
       ]
     },
     {
-      "id": 245,
       "name": "Barroth Claw+",
       "description": "Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
       "rarity": 6,
@@ -26497,7 +26252,6 @@
       ]
     },
     {
-      "id": 246,
       "name": "Jyuratodus Scale",
       "description": "Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
       "rarity": 4,
@@ -26584,7 +26338,6 @@
       ]
     },
     {
-      "id": 247,
       "name": "Jyuratodus Shell",
       "description": "Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
       "rarity": 4,
@@ -26629,7 +26382,6 @@
       ]
     },
     {
-      "id": 248,
       "name": "Jyuratodus Fang",
       "description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 4,
@@ -26688,7 +26440,6 @@
       ]
     },
     {
-      "id": 249,
       "name": "Jyuratodus Fin",
       "description": "Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
       "rarity": 4,
@@ -26754,7 +26505,6 @@
       ]
     },
     {
-      "id": 250,
       "name": "Jyuratodus Scale+",
       "description": "Rare Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
       "rarity": 6,
@@ -26834,7 +26584,6 @@
       ]
     },
     {
-      "id": 251,
       "name": "Jyuratodus Carapace",
       "description": "Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
       "rarity": 6,
@@ -26886,7 +26635,6 @@
       ]
     },
     {
-      "id": 252,
       "name": "Jyuratodus Fang+",
       "description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
@@ -26945,7 +26693,6 @@
       ]
     },
     {
-      "id": 253,
       "name": "Jyuratodus Fin+",
       "description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
       "rarity": 6,
@@ -27011,7 +26758,6 @@
       ]
     },
     {
-      "id": 254,
       "name": "Tobi-Kadachi Scale",
       "description": "Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -27098,7 +26844,6 @@
       ]
     },
     {
-      "id": 255,
       "name": "Tobi-Kadachi Pelt",
       "description": "Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
       "rarity": 4,
@@ -27164,7 +26909,6 @@
       ]
     },
     {
-      "id": 256,
       "name": "Tobi-Kadachi Membrane",
       "description": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
@@ -27258,7 +27002,6 @@
       ]
     },
     {
-      "id": 257,
       "name": "Tobi-Kadachi Claw",
       "description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
       "rarity": 4,
@@ -27324,7 +27067,6 @@
       ]
     },
     {
-      "id": 258,
       "name": "Tobi-Kadachi Electrode",
       "description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
       "rarity": 4,
@@ -27376,7 +27118,6 @@
       ]
     },
     {
-      "id": 259,
       "name": "Tobi-Kadachi Scale+",
       "description": "Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -27463,7 +27204,6 @@
       ]
     },
     {
-      "id": 260,
       "name": "Tobi-Kadachi Pelt+",
       "description": "Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
       "rarity": 6,
@@ -27529,7 +27269,6 @@
       ]
     },
     {
-      "id": 261,
       "name": "Tobi-Kadachi Claw+",
       "description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
       "rarity": 6,
@@ -27595,7 +27334,6 @@
       ]
     },
     {
-      "id": 262,
       "name": "Tobi-Kadachi Electrode+",
       "description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
       "rarity": 6,
@@ -27647,7 +27385,6 @@
       ]
     },
     {
-      "id": 263,
       "name": "Anjanath Scale",
       "description": "Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -27741,7 +27478,6 @@
       ]
     },
     {
-      "id": 264,
       "name": "Anjanath Pelt",
       "description": "Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
       "rarity": 4,
@@ -27793,7 +27529,6 @@
       ]
     },
     {
-      "id": 265,
       "name": "Anjanath Fang",
       "description": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 4,
@@ -27859,7 +27594,6 @@
       ]
     },
     {
-      "id": 266,
       "name": "Anjanath Nosebone",
       "description": "Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 4,
@@ -27911,7 +27645,6 @@
       ]
     },
     {
-      "id": 267,
       "name": "Anjanath Tail",
       "description": "Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
@@ -27963,7 +27696,6 @@
       ]
     },
     {
-      "id": 268,
       "name": "Anjanath Plate",
       "description": "Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
@@ -28071,7 +27803,6 @@
       ]
     },
     {
-      "id": 269,
       "name": "Anjanath Scale+",
       "description": "Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -28165,7 +27896,6 @@
       ]
     },
     {
-      "id": 270,
       "name": "Anjanath Pelt+",
       "description": "Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
       "rarity": 6,
@@ -28217,7 +27947,6 @@
       ]
     },
     {
-      "id": 271,
       "name": "Anjanath Fang+",
       "description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
@@ -28283,7 +28012,6 @@
       ]
     },
     {
-      "id": 272,
       "name": "Anjanath Nosebone+",
       "description": "Rare Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 6,
@@ -28335,7 +28063,6 @@
       ]
     },
     {
-      "id": 273,
       "name": "Anjanath Gem",
       "description": "A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.",
       "rarity": 7,
@@ -28394,7 +28121,6 @@
       ]
     },
     {
-      "id": 274,
       "name": "Rathian Scale",
       "description": "Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -28488,7 +28214,6 @@
       ]
     },
     {
-      "id": 275,
       "name": "Rathian Shell",
       "description": "Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -28568,7 +28293,6 @@
       ]
     },
     {
-      "id": 276,
       "name": "Rathian Webbing",
       "description": "Rathian material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 4,
@@ -28704,7 +28428,6 @@
       ]
     },
     {
-      "id": 277,
       "name": "Rathian Spike",
       "description": "Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
       "rarity": 4,
@@ -28763,7 +28486,6 @@
       ]
     },
     {
-      "id": 278,
       "name": "Rathian Plate",
       "description": "Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
@@ -28934,7 +28656,6 @@
       ]
     },
     {
-      "id": 279,
       "name": "Rathian Scale+",
       "description": "Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -29028,7 +28749,6 @@
       ]
     },
     {
-      "id": 280,
       "name": "Rathian Carapace",
       "description": "Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -29108,7 +28828,6 @@
       ]
     },
     {
-      "id": 281,
       "name": "Rathian Spike+",
       "description": "Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
       "rarity": 6,
@@ -29195,7 +28914,6 @@
       ]
     },
     {
-      "id": 282,
       "name": "Rathian Ruby",
       "description": "A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.",
       "rarity": 7,
@@ -29324,7 +29042,6 @@
       ]
     },
     {
-      "id": 283,
       "name": "Pink Rathian Scale+",
       "description": "Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -29418,7 +29135,6 @@
       ]
     },
     {
-      "id": 284,
       "name": "Pink Rathian Carapace",
       "description": "Rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -29498,7 +29214,6 @@
       ]
     },
     {
-      "id": 285,
       "name": "Tzitzi-Ya-Ku Scale",
       "description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -29578,7 +29293,6 @@
       ]
     },
     {
-      "id": 286,
       "name": "Tzitzi-Ya-Ku Hide",
       "description": "Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 4,
@@ -29630,7 +29344,6 @@
       ]
     },
     {
-      "id": 287,
       "name": "Tzitzi-Ya-Ku Claw",
       "description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 4,
@@ -29696,7 +29409,6 @@
       ]
     },
     {
-      "id": 288,
       "name": "Tzitzi-Ya-Ku Photophore",
       "description": "Tzitzi-Ya-Ku material. Obtained by breaking its pulse organs. Unusual, used for many purposes.",
       "rarity": 4,
@@ -29748,7 +29460,6 @@
       ]
     },
     {
-      "id": 289,
       "name": "Tzitzi-Ya-Ku Scale+",
       "description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -29828,7 +29539,6 @@
       ]
     },
     {
-      "id": 290,
       "name": "Tzitzi-Ya-Ku Hide+",
       "description": "Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
@@ -29880,7 +29590,6 @@
       ]
     },
     {
-      "id": 291,
       "name": "Tzitzi-Ya-Ku Claw+",
       "description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 6,
@@ -29946,7 +29655,6 @@
       ]
     },
     {
-      "id": 292,
       "name": "Tzitzi-Ya-Ku Photophore+",
       "description": "Rare Tzitzi-Ya-Ku material. Obtained by breaking its pulse organs. Unusual, used for many purposes.",
       "rarity": 6,
@@ -29998,7 +29706,6 @@
       ]
     },
     {
-      "id": 293,
       "name": "Paolumu Pelt",
       "description": "Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 4,
@@ -30064,7 +29771,6 @@
       ]
     },
     {
-      "id": 294,
       "name": "Paolumu Scale",
       "description": "Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
       "rarity": 4,
@@ -30144,7 +29850,6 @@
       ]
     },
     {
-      "id": 295,
       "name": "Paolumu Shell",
       "description": "Paolumu material. Obtained by breaking its tail. Used for many purposes.",
       "rarity": 4,
@@ -30217,7 +29922,6 @@
       ]
     },
     {
-      "id": 296,
       "name": "Paolumu Webbing",
       "description": "Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
       "rarity": 4,
@@ -30269,7 +29973,6 @@
       ]
     },
     {
-      "id": 297,
       "name": "Paolumu Pelt+",
       "description": "Rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 6,
@@ -30335,7 +30038,6 @@
       ]
     },
     {
-      "id": 298,
       "name": "Paolumu Scale+",
       "description": "Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
       "rarity": 6,
@@ -30415,7 +30117,6 @@
       ]
     },
     {
-      "id": 299,
       "name": "Paolumu Carapace+",
       "description": "Rare Paolumu material. Obtained by breaking its tail. Used for many purposes.",
       "rarity": 6,
@@ -30488,7 +30189,6 @@
       ]
     },
     {
-      "id": 300,
       "name": "Paolumu Wing",
       "description": "Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
       "rarity": 6,
@@ -30540,7 +30240,6 @@
       ]
     },
     {
-      "id": 301,
       "name": "Great Girros Scale",
       "description": "Great Girros material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -30627,7 +30326,6 @@
       ]
     },
     {
-      "id": 302,
       "name": "Great Girros Hide",
       "description": "Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 4,
@@ -30679,7 +30377,6 @@
       ]
     },
     {
-      "id": 303,
       "name": "Great Girros Hood",
       "description": "Great Girros material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 4,
@@ -30731,7 +30428,6 @@
       ]
     },
     {
-      "id": 304,
       "name": "Great Girros Fang",
       "description": "Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
       "rarity": 4,
@@ -30811,7 +30507,6 @@
       ]
     },
     {
-      "id": 305,
       "name": "Great Girros Tail",
       "description": "Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
@@ -30891,7 +30586,6 @@
       ]
     },
     {
-      "id": 306,
       "name": "Great Girros Scale+",
       "description": "Rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -30985,7 +30679,6 @@
       ]
     },
     {
-      "id": 307,
       "name": "Great Girros Hide+",
       "description": "Rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
@@ -31044,7 +30737,6 @@
       ]
     },
     {
-      "id": 308,
       "name": "Great Girros Hood+",
       "description": "Rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear.",
       "rarity": 6,
@@ -31096,7 +30788,6 @@
       ]
     },
     {
-      "id": 309,
       "name": "Great Girros Fang+",
       "description": "Rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
       "rarity": 6,
@@ -31169,7 +30860,6 @@
       ]
     },
     {
-      "id": 310,
       "name": "Radobaan Scale",
       "description": "Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -31256,7 +30946,6 @@
       ]
     },
     {
-      "id": 311,
       "name": "Radobaan Shell",
       "description": "Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -31308,7 +30997,6 @@
       ]
     },
     {
-      "id": 312,
       "name": "Radobaan Oilshell",
       "description": "Radobaan material. Obtained by carving its severed tail. Impact-resistant, used to craft gear.",
       "rarity": 4,
@@ -31430,7 +31118,6 @@
       ]
     },
     {
-      "id": 313,
       "name": "Wyvern Bonemass",
       "description": "Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",
       "rarity": 4,
@@ -31552,7 +31239,6 @@
       ]
     },
     {
-      "id": 314,
       "name": "Radobaan Marrow",
       "description": "Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 4,
@@ -31618,7 +31304,6 @@
       ]
     },
     {
-      "id": 315,
       "name": "Radobaan Scale+",
       "description": "Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -31705,7 +31390,6 @@
       ]
     },
     {
-      "id": 316,
       "name": "Radobaan Carapace",
       "description": "Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -31757,7 +31441,6 @@
       ]
     },
     {
-      "id": 317,
       "name": "Radobaan Medulla",
       "description": "Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 6,
@@ -31823,7 +31506,6 @@
       ]
     },
     {
-      "id": 318,
       "name": "Legiana Scale",
       "description": "Legiana material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -31910,7 +31592,6 @@
       ]
     },
     {
-      "id": 319,
       "name": "Legiana Hide",
       "description": "Legiana material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -31990,7 +31671,6 @@
       ]
     },
     {
-      "id": 320,
       "name": "Legiana Claw",
       "description": "Legiana material. Mostly obtained by carving. Grants ice elemental properties.",
       "rarity": 4,
@@ -32056,7 +31736,6 @@
       ]
     },
     {
-      "id": 321,
       "name": "Legiana Webbing",
       "description": "Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 4,
@@ -32108,7 +31787,6 @@
       ]
     },
     {
-      "id": 322,
       "name": "Legiana Tail Webbing",
       "description": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
       "rarity": 4,
@@ -32153,7 +31831,6 @@
       ]
     },
     {
-      "id": 323,
       "name": "Legiana Plate",
       "description": "Legiana material. A rare find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
@@ -32289,7 +31966,6 @@
       ]
     },
     {
-      "id": 324,
       "name": "Legiana Scale+",
       "description": "Rare Legiana material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -32369,7 +32045,6 @@
       ]
     },
     {
-      "id": 325,
       "name": "Legiana Hide+",
       "description": "Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",
       "rarity": 6,
@@ -32449,7 +32124,6 @@
       ]
     },
     {
-      "id": 326,
       "name": "Legiana Claw+",
       "description": "Rare Legiana material. Mostly obtained by carving. Grants ice elemental properties.",
       "rarity": 6,
@@ -32522,7 +32196,6 @@
       ]
     },
     {
-      "id": 327,
       "name": "Legiana Wing",
       "description": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 6,
@@ -32581,7 +32254,6 @@
       ]
     },
     {
-      "id": 328,
       "name": "Legiana Gem",
       "description": "A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.",
       "rarity": 7,
@@ -32661,7 +32333,6 @@
       ]
     },
     {
-      "id": 329,
       "name": "Odogaron Scale",
       "description": "Odogaron material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -32762,7 +32433,6 @@
       ]
     },
     {
-      "id": 330,
       "name": "Odogaron Sinew",
       "description": "Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -32828,7 +32498,6 @@
       ]
     },
     {
-      "id": 331,
       "name": "Odogaron Claw",
       "description": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 4,
@@ -32887,7 +32556,6 @@
       ]
     },
     {
-      "id": 332,
       "name": "Odogaron Fang",
       "description": "Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 4,
@@ -32946,7 +32614,6 @@
       ]
     },
     {
-      "id": 333,
       "name": "Odogaron Tail",
       "description": "Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
@@ -33005,7 +32672,6 @@
       ]
     },
     {
-      "id": 334,
       "name": "Odogaron Plate",
       "description": "Odogaron material. A rare find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
@@ -33127,7 +32793,6 @@
       ]
     },
     {
-      "id": 335,
       "name": "Odogaron Scale+",
       "description": "Rare Odogaron material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -33228,7 +32893,6 @@
       ]
     },
     {
-      "id": 336,
       "name": "Odogaron Sinew+",
       "description": "Rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -33294,7 +32958,6 @@
       ]
     },
     {
-      "id": 337,
       "name": "Odogaron Claw+",
       "description": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 6,
@@ -33374,7 +33037,6 @@
       ]
     },
     {
-      "id": 338,
       "name": "Odogaron Fang+",
       "description": "Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
@@ -33433,7 +33095,6 @@
       ]
     },
     {
-      "id": 339,
       "name": "Odogaron Gem",
       "description": "A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.",
       "rarity": 7,
@@ -33513,7 +33174,6 @@
       ]
     },
     {
-      "id": 340,
       "name": "Rathalos Scale",
       "description": "Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -33607,7 +33267,6 @@
       ]
     },
     {
-      "id": 341,
       "name": "Rathalos Shell",
       "description": "Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -33687,7 +33346,6 @@
       ]
     },
     {
-      "id": 342,
       "name": "Rathalos Webbing",
       "description": "Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 4,
@@ -33746,7 +33404,6 @@
       ]
     },
     {
-      "id": 343,
       "name": "Rathalos Tail",
       "description": "Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
       "rarity": 4,
@@ -33798,7 +33455,6 @@
       ]
     },
     {
-      "id": 344,
       "name": "Rath Wingtalon",
       "description": "Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons.",
       "rarity": 4,
@@ -33955,7 +33611,6 @@
       ]
     },
     {
-      "id": 345,
       "name": "Rathalos Marrow",
       "description": "Rathalos material. Obtained by carving. Grants fire element properties.",
       "rarity": 4,
@@ -34014,7 +33669,6 @@
       ]
     },
     {
-      "id": 346,
       "name": "Rathalos Plate",
       "description": "Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
@@ -34192,7 +33846,6 @@
       ]
     },
     {
-      "id": 347,
       "name": "Rathalos Scale+",
       "description": "Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -34279,7 +33932,6 @@
       ]
     },
     {
-      "id": 348,
       "name": "Rathalos Carapace",
       "description": "Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -34366,7 +34018,6 @@
       ]
     },
     {
-      "id": 349,
       "name": "Rathalos Wing",
       "description": "Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 6,
@@ -34432,7 +34083,6 @@
       ]
     },
     {
-      "id": 350,
       "name": "Rathalos Medulla",
       "description": "Rare Rathalos material. Obtained by carving. Grants fire element properties.",
       "rarity": 6,
@@ -34533,7 +34183,6 @@
       ]
     },
     {
-      "id": 351,
       "name": "Rathalos Ruby",
       "description": "A rare gem said to have formed within Rathalos tissue. Almost too nice to use.",
       "rarity": 7,
@@ -34676,7 +34325,6 @@
       ]
     },
     {
-      "id": 352,
       "name": "Azure Rathalos Scale+",
       "description": "Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -34763,7 +34411,6 @@
       ]
     },
     {
-      "id": 353,
       "name": "Azure Rathalos Carapace",
       "description": "Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -34850,7 +34497,6 @@
       ]
     },
     {
-      "id": 354,
       "name": "Azure Rathalos Tail",
       "description": "Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
       "rarity": 6,
@@ -34888,7 +34534,6 @@
       ]
     },
     {
-      "id": 355,
       "name": "Azure Rathalos Wing",
       "description": "Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 6,
@@ -34947,7 +34592,6 @@
       ]
     },
     {
-      "id": 356,
       "name": "Diablos Shell",
       "description": "Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -35027,7 +34671,6 @@
       ]
     },
     {
-      "id": 357,
       "name": "Diablos Ridge",
       "description": "Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
@@ -35100,7 +34743,6 @@
       ]
     },
     {
-      "id": 358,
       "name": "Diablos Tailcase",
       "description": "Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",
       "rarity": 4,
@@ -35187,7 +34829,6 @@
       ]
     },
     {
-      "id": 359,
       "name": "Diablos Fang",
       "description": "Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 4,
@@ -35323,7 +34964,6 @@
       ]
     },
     {
-      "id": 360,
       "name": "Twisted Horn",
       "description": "Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 4,
@@ -35375,7 +35015,6 @@
       ]
     },
     {
-      "id": 361,
       "name": "Diablos Marrow",
       "description": "Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 4,
@@ -35448,7 +35087,6 @@
       ]
     },
     {
-      "id": 362,
       "name": "Diablos Carapace",
       "description": "Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -35528,7 +35166,6 @@
       ]
     },
     {
-      "id": 363,
       "name": "Diablos Ridge+",
       "description": "Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -35615,7 +35252,6 @@
       ]
     },
     {
-      "id": 364,
       "name": "Majestic Horn",
       "description": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 6,
@@ -35660,7 +35296,6 @@
       ]
     },
     {
-      "id": 365,
       "name": "Blos Medulla",
       "description": "Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 6,
@@ -35754,7 +35389,6 @@
       ]
     },
     {
-      "id": 366,
       "name": "Black Diablos Carapace",
       "description": "Rare Black Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -35834,7 +35468,6 @@
       ]
     },
     {
-      "id": 367,
       "name": "Black Diablos Ridge+",
       "description": "Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -35914,7 +35547,6 @@
       ]
     },
     {
-      "id": 368,
       "name": "Black Spiral Horn+",
       "description": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 6,
@@ -35952,7 +35584,6 @@
       ]
     },
     {
-      "id": 369,
       "name": "Kirin Hide",
       "description": "Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
@@ -36025,7 +35656,6 @@
       ]
     },
     {
-      "id": 370,
       "name": "Kirin Tail",
       "description": "Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
       "rarity": 4,
@@ -36091,7 +35721,6 @@
       ]
     },
     {
-      "id": 371,
       "name": "Kirin Mane",
       "description": "Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",
       "rarity": 4,
@@ -36185,7 +35814,6 @@
       ]
     },
     {
-      "id": 372,
       "name": "Kirin Thunderhorn",
       "description": "Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
       "rarity": 4,
@@ -36237,7 +35865,6 @@
       ]
     },
     {
-      "id": 373,
       "name": "Kirin Hide+",
       "description": "Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
@@ -36303,7 +35930,6 @@
       ]
     },
     {
-      "id": 374,
       "name": "Kirin Thundertail",
       "description": "Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
       "rarity": 7,
@@ -36327,7 +35953,6 @@
       ]
     },
     {
-      "id": 375,
       "name": "Kirin Azure Horn",
       "description": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
       "rarity": 7,
@@ -36365,7 +35990,6 @@
       ]
     },
     {
-      "id": 376,
       "name": "Zorah Magdaros Heat Scale",
       "description": "Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 6,
@@ -36466,7 +36090,6 @@
       ]
     },
     {
-      "id": 377,
       "name": "Zorah Magdaros Carapace",
       "description": "Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",
       "rarity": 6,
@@ -36567,7 +36190,6 @@
       ]
     },
     {
-      "id": 378,
       "name": "Zorah Magdaros Ridge",
       "description": "Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",
       "rarity": 6,
@@ -36605,7 +36227,6 @@
       ]
     },
     {
-      "id": 379,
       "name": "Zorah Magdaros Pleura",
       "description": "Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",
       "rarity": 6,
@@ -36664,7 +36285,6 @@
       ]
     },
     {
-      "id": 380,
       "name": "Zorah Magdaros Magma",
       "description": "Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 6,
@@ -36751,7 +36371,6 @@
       ]
     },
     {
-      "id": 381,
       "name": "Zorah Magdaros Gem",
       "description": "A rare gem said to have formed with Zorah Magdaros tissue. Holds untold potential.",
       "rarity": 7,
@@ -36775,7 +36394,6 @@
       ]
     },
     {
-      "id": 382,
       "name": "Dodogama Scale+",
       "description": "Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -36848,7 +36466,6 @@
       ]
     },
     {
-      "id": 383,
       "name": "Dodogama Hide+",
       "description": "Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
@@ -36907,7 +36524,6 @@
       ]
     },
     {
-      "id": 384,
       "name": "Dodogama Jaw",
       "description": "Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 6,
@@ -36966,7 +36582,6 @@
       ]
     },
     {
-      "id": 385,
       "name": "Dodogama Talon",
       "description": "Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",
       "rarity": 6,
@@ -37032,7 +36647,6 @@
       ]
     },
     {
-      "id": 386,
       "name": "Dodogama Tail",
       "description": "Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",
       "rarity": 6,
@@ -37063,7 +36677,6 @@
       ]
     },
     {
-      "id": 387,
       "name": "Lavasioth Scale+",
       "description": "Rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -37136,7 +36749,6 @@
       ]
     },
     {
-      "id": 388,
       "name": "Lavasioth Carapace",
       "description": "Rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -37188,7 +36800,6 @@
       ]
     },
     {
-      "id": 389,
       "name": "Lavasioth Fang+",
       "description": "Rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
@@ -37247,7 +36858,6 @@
       ]
     },
     {
-      "id": 390,
       "name": "Lavasioth Fin+",
       "description": "Rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.",
       "rarity": 6,
@@ -37320,7 +36930,6 @@
       ]
     },
     {
-      "id": 391,
       "name": "Uragaan Scale+",
       "description": "Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -37400,7 +37009,6 @@
       ]
     },
     {
-      "id": 392,
       "name": "Uragaan Carapace",
       "description": "Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -37459,7 +37067,6 @@
       ]
     },
     {
-      "id": 393,
       "name": "Uragaan Jaw",
       "description": "Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",
       "rarity": 6,
@@ -37476,7 +37083,6 @@
       ]
     },
     {
-      "id": 394,
       "name": "Uragaan Scute",
       "description": "Rare Uragaan material. Obtained by carving its severed tail. Highly heat-resistant, used to craft gear.",
       "rarity": 6,
@@ -37542,7 +37148,6 @@
       ]
     },
     {
-      "id": 395,
       "name": "Uragaan Marrow",
       "description": "Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 6,
@@ -37601,7 +37206,6 @@
       ]
     },
     {
-      "id": 396,
       "name": "Uragaan Ruby",
       "description": "A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.",
       "rarity": 7,
@@ -37667,7 +37271,6 @@
       ]
     },
     {
-      "id": 397,
       "name": "Lava Nugget",
       "description": "A rare conglomerate ore found growing on an Uragaan. Composed of various ores, melted together.",
       "rarity": 6,
@@ -37726,7 +37329,6 @@
       ]
     },
     {
-      "id": 398,
       "name": "Bazelgeuse Scale+",
       "description": "Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -37806,7 +37408,6 @@
       ]
     },
     {
-      "id": 399,
       "name": "Bazelgeuse Carapace",
       "description": "Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
@@ -37872,7 +37473,6 @@
       ]
     },
     {
-      "id": 400,
       "name": "Bazelgeuse Tail",
       "description": "Rare Bazelgeuse material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 6,
@@ -37910,7 +37510,6 @@
       ]
     },
     {
-      "id": 401,
       "name": "Bazelgeuse Fuse",
       "description": "Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.",
       "rarity": 6,
@@ -37976,7 +37575,6 @@
       ]
     },
     {
-      "id": 402,
       "name": "Bazelgeuse Talon",
       "description": "Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.",
       "rarity": 6,
@@ -38056,7 +37654,6 @@
       ]
     },
     {
-      "id": 403,
       "name": "Bazelgeuse Wing",
       "description": "Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons.",
       "rarity": 6,
@@ -38115,7 +37712,6 @@
       ]
     },
     {
-      "id": 404,
       "name": "Bazelgeuse Gem",
       "description": "A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.",
       "rarity": 7,
@@ -38188,7 +37784,6 @@
       ]
     },
     {
-      "id": 405,
       "name": "Immortal Dragonscale",
       "description": "Rare Nergigante material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
@@ -38247,7 +37842,6 @@
       ]
     },
     {
-      "id": 406,
       "name": "Nergigante Carapace",
       "description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
@@ -38292,7 +37886,6 @@
       ]
     },
     {
-      "id": 407,
       "name": "Nergigante Tail",
       "description": "Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
@@ -38323,7 +37916,6 @@
       ]
     },
     {
-      "id": 408,
       "name": "Nergigante Horn+",
       "description": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 7,
@@ -38368,7 +37960,6 @@
       ]
     },
     {
-      "id": 409,
       "name": "Nergigante Talon",
       "description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 7,
@@ -38413,7 +38004,6 @@
       ]
     },
     {
-      "id": 410,
       "name": "Nergigante Regrowth Plate",
       "description": "Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",
       "rarity": 7,
@@ -38486,7 +38076,6 @@
       ]
     },
     {
-      "id": 411,
       "name": "Nergigante Gem",
       "description": "A rare gem said to have formed within Nergigante tissue. Holds untold potential.",
       "rarity": 8,
@@ -38538,7 +38127,6 @@
       ]
     },
     {
-      "id": 412,
       "name": "Deceased Scale",
       "description": "Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
@@ -38611,7 +38199,6 @@
       ]
     },
     {
-      "id": 413,
       "name": "Vaal Hazak Carapace",
       "description": "Rare Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
@@ -38670,7 +38257,6 @@
       ]
     },
     {
-      "id": 414,
       "name": "Vaal Hazak Membrane",
       "description": "Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.",
       "rarity": 7,
@@ -38729,7 +38315,6 @@
       ]
     },
     {
-      "id": 415,
       "name": "Vaal Hazak Tail",
       "description": "Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
@@ -38767,7 +38352,6 @@
       ]
     },
     {
-      "id": 416,
       "name": "Vaal Hazak Fang+",
       "description": "Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 7,
@@ -38805,7 +38389,6 @@
       ]
     },
     {
-      "id": 417,
       "name": "Vaal Hazak Talon",
       "description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 7,
@@ -38864,7 +38447,6 @@
       ]
     },
     {
-      "id": 418,
       "name": "Vaal Hazak Wing",
       "description": "Rare Vaal Hazak material. Obtained by carving its torso. Light yet firm, used to craft gear.",
       "rarity": 7,
@@ -38909,7 +38491,6 @@
       ]
     },
     {
-      "id": 419,
       "name": "Vaal Hazak Gem",
       "description": "A rare gem said to have formed within Vaal Hazak Tissue. Holds untold potential.",
       "rarity": 8,
@@ -38968,7 +38549,6 @@
       ]
     },
     {
-      "id": 420,
       "name": "Teostra Carapace",
       "description": "Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
@@ -39013,7 +38593,6 @@
       ]
     },
     {
-      "id": 421,
       "name": "Teostra Mane",
       "description": "Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",
       "rarity": 7,
@@ -39065,7 +38644,6 @@
       ]
     },
     {
-      "id": 422,
       "name": "Teostra Tail",
       "description": "Rare Teostra material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
@@ -39096,7 +38674,6 @@
       ]
     },
     {
-      "id": 423,
       "name": "Teostra Horn+",
       "description": "Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 7,
@@ -39134,7 +38711,6 @@
       ]
     },
     {
-      "id": 424,
       "name": "Fire Dragon Scale+",
       "description": "Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
@@ -39200,7 +38776,6 @@
       ]
     },
     {
-      "id": 425,
       "name": "Teostra Claw+",
       "description": "Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 7,
@@ -39252,7 +38827,6 @@
       ]
     },
     {
-      "id": 426,
       "name": "Teostra Webbing",
       "description": "Rare Teostra material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 7,
@@ -39283,7 +38857,6 @@
       ]
     },
     {
-      "id": 427,
       "name": "Teostra Powder",
       "description": "Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear.",
       "rarity": 7,
@@ -39328,7 +38901,6 @@
       ]
     },
     {
-      "id": 428,
       "name": "Teostra Gem",
       "description": "A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.",
       "rarity": 8,
@@ -39380,7 +38952,6 @@
       ]
     },
     {
-      "id": 429,
       "name": "Daora Carapace",
       "description": "Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
@@ -39439,7 +39010,6 @@
       ]
     },
     {
-      "id": 430,
       "name": "Daora Dragon Scale+",
       "description": "Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
@@ -39512,7 +39082,6 @@
       ]
     },
     {
-      "id": 431,
       "name": "Daora Webbing",
       "description": "Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",
       "rarity": 7,
@@ -39557,7 +39126,6 @@
       ]
     },
     {
-      "id": 432,
       "name": "Daora Horn+",
       "description": "Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 7,
@@ -39595,7 +39163,6 @@
       ]
     },
     {
-      "id": 433,
       "name": "Daora Tail",
       "description": "Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
@@ -39626,7 +39193,6 @@
       ]
     },
     {
-      "id": 434,
       "name": "Daora Claw+",
       "description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
       "rarity": 7,
@@ -39685,7 +39251,6 @@
       ]
     },
     {
-      "id": 435,
       "name": "Daora Gem",
       "description": "A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.",
       "rarity": 8,
@@ -39737,7 +39302,6 @@
       ]
     },
     {
-      "id": 436,
       "name": "Xeno'jiiva Soulscale",
       "description": "Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.",
       "rarity": 7,
@@ -39789,7 +39353,6 @@
       ]
     },
     {
-      "id": 437,
       "name": "Xeno'jiiva Shell",
       "description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
       "rarity": 7,
@@ -39827,7 +39390,6 @@
       ]
     },
     {
-      "id": 438,
       "name": "Xeno'jiiva Veil",
       "description": "A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.",
       "rarity": 7,
@@ -39872,7 +39434,6 @@
       ]
     },
     {
-      "id": 439,
       "name": "Xeno'jiiva Tail",
       "description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
       "rarity": 7,
@@ -39896,7 +39457,6 @@
       ]
     },
     {
-      "id": 440,
       "name": "Xeno'jiiva Horn",
       "description": "A rare Xeno'jiiva horn. During growth, It's theorized that it helps control the beast's power.",
       "rarity": 7,
@@ -39920,7 +39480,6 @@
       ]
     },
     {
-      "id": 441,
       "name": "Xeno'jiiva Claw",
       "description": "A rare Xeno'jiiva claw, said to cleave soul from flesh.",
       "rarity": 7,
@@ -39958,7 +39517,6 @@
       ]
     },
     {
-      "id": 442,
       "name": "Xeno'jiiva Wing",
       "description": "A rare Xeno'jiiva wing. The wing membrane shines with the divine light of a powerful deity.",
       "rarity": 7,
@@ -39989,7 +39547,6 @@
       ]
     },
     {
-      "id": 443,
       "name": "Xeno'jiiva Gem",
       "description": "A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.",
       "rarity": 8,
@@ -40034,7 +39591,6 @@
       ]
     },
     {
-      "id": 444,
       "name": "Tailraider Voucher",
       "description": "Proof of friendship with the Lynians of the new continent. Show it to the Smithy and see what happens!",
       "rarity": 0,
@@ -40051,7 +39607,6 @@
       ]
     },
     {
-      "id": 445,
       "name": "Gajalaka Sketch",
       "description": "Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!",
       "rarity": 0,
@@ -40068,7 +39623,6 @@
       ]
     },
     {
-      "id": 446,
       "name": "Black Bandage",
       "description": "Cloth made from the glossy black hide of a monster. Not obtainable by normal means.",
       "rarity": 0,
@@ -40085,7 +39639,6 @@
       ]
     },
     {
-      "id": 447,
       "name": "Black Crystal Ticket",
       "description": "A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.",
       "rarity": 6,
@@ -40102,7 +39655,6 @@
       ]
     },
     {
-      "id": 448,
       "name": "Wiggler Ticket",
       "description": "A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.",
       "rarity": 0,
@@ -40119,7 +39671,6 @@
       ]
     },
     {
-      "id": 449,
       "name": "Watcher Lens",
       "description": "Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.",
       "rarity": 0,
@@ -40128,7 +39679,6 @@
       "drop": []
     },
     {
-      "id": 450,
       "name": "Nora Brave Trophy",
       "description": "Proof that you have completed the Proving. Grants you the right to craft special equipment.",
       "rarity": 0,
@@ -40137,7 +39687,6 @@
       "drop": []
     },
     {
-      "id": 451,
       "name": "SFV Ticket",
       "description": "A ticket for a special Street Fighter tie-in. Wait...does that mean that legendary fighter is going to...!?",
       "rarity": 0,
@@ -40146,7 +39695,6 @@
       "drop": []
     },
     {
-      "id": 452,
       "name": "Azure Star Shard",
       "description": "Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue.",
       "rarity": 0,
@@ -40155,7 +39703,6 @@
       "drop": []
     },
     {
-      "id": 453,
       "name": "Mysterious Feystone",
       "description": "A jewel that conceals faint traces of power within it. (Appraisal Item)",
       "rarity": 4,
@@ -40613,7 +40160,6 @@
       ]
     },
     {
-      "id": 454,
       "name": "Glowing Feystone",
       "description": "A jewel that conceals an unknown power within it. (Appraisal Item)",
       "rarity": 5,
@@ -40622,7 +40168,6 @@
       "drop": []
     },
     {
-      "id": 455,
       "name": "Worn Feystone",
       "description": "A jewel that conceals considerable power within it. (Appraisal Item)",
       "rarity": 6,
@@ -40631,7 +40176,6 @@
       "drop": []
     },
     {
-      "id": 456,
       "name": "Warped Feystone",
       "description": "A jewel that conceals a mystical power within it. (Appraisal Item)",
       "rarity": 0,
@@ -40640,7 +40184,6 @@
       "drop": []
     },
     {
-      "id": 457,
       "name": "Sullied Streamstone",
       "description": "Though dirty, this stone pulses with undeniable power. (Appraisal Item)",
       "rarity": 7,
@@ -40649,7 +40192,6 @@
       "drop": []
     },
     {
-      "id": 458,
       "name": "Shining Streamstone",
       "description": "A stone that shines with the brilliance of endless possibility. (Appraisal Item)",
       "rarity": 8,
@@ -40658,7 +40200,6 @@
       "drop": []
     },
     {
-      "id": 459,
       "name": "Streamstone Shard",
       "description": "A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard.",
       "rarity": 0,
@@ -40667,7 +40208,6 @@
       "drop": []
     },
     {
-      "id": 460,
       "name": "Streamstone",
       "description": "A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires.",
       "rarity": 0,
@@ -40684,7 +40224,6 @@
       ]
     },
     {
-      "id": 461,
       "name": "Gleaming Streamstone",
       "description": "A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.",
       "rarity": 0,
@@ -40701,7 +40240,6 @@
       ]
     },
     {
-      "id": 462,
       "name": "Warrior's Streamstone: Sword",
       "description": "A material used by champions of old. Used to bring out the hidden power in long swords and great swords.",
       "rarity": 0,
@@ -40710,7 +40248,6 @@
       "drop": []
     },
     {
-      "id": 463,
       "name": "Warrior's Streamstone: Blade",
       "description": "A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.",
       "rarity": 0,
@@ -40719,7 +40256,6 @@
       "drop": []
     },
     {
-      "id": 464,
       "name": "Warrior's Streamstone: Hammer",
       "description": "A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.",
       "rarity": 0,
@@ -40728,7 +40264,6 @@
       "drop": []
     },
     {
-      "id": 465,
       "name": "Warrior's Streamstone: Lance",
       "description": "A material used by champions of old. Used to bring out the hidden power in lances and gunlances.",
       "rarity": 0,
@@ -40737,7 +40272,6 @@
       "drop": []
     },
     {
-      "id": 466,
       "name": "Warrior's Streamstone: Axe",
       "description": "A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.",
       "rarity": 0,
@@ -40746,7 +40280,6 @@
       "drop": []
     },
     {
-      "id": 467,
       "name": "Warrior's Streamstone: Shaft",
       "description": "A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.",
       "rarity": 0,
@@ -40755,7 +40288,6 @@
       "drop": []
     },
     {
-      "id": 468,
       "name": "Warrior's Streamstone: Ranged",
       "description": "A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.",
       "rarity": 0,
@@ -40764,7 +40296,6 @@
       "drop": []
     },
     {
-      "id": 469,
       "name": "Hero's Streamstone: Sword",
       "description": "A material used by legendary heroes. Used to bring out the hidden power in long swords and great swords.",
       "rarity": 0,
@@ -40773,7 +40304,6 @@
       "drop": []
     },
     {
-      "id": 470,
       "name": "Hero's Streamstone: Blade",
       "description": "A material used by legendary heroes. Used to bring out the hidden power in swords and shields and dual blades.",
       "rarity": 0,
@@ -40782,7 +40312,6 @@
       "drop": []
     },
     {
-      "id": 471,
       "name": "Hero's Streamstone: Hammer",
       "description": "A material used by legendary heroes. Used to bring out the hidden power in hammers and hunting horns.",
       "rarity": 0,
@@ -40791,7 +40320,6 @@
       "drop": []
     },
     {
-      "id": 472,
       "name": "Hero's Streamstone: Lance",
       "description": "A material used by legendary heroes. Used to bring out the hidden power in lances and gunlances.",
       "rarity": 0,
@@ -40800,7 +40328,6 @@
       "drop": []
     },
     {
-      "id": 473,
       "name": "Hero's Streamstone: Axe",
       "description": "A material used by legendary heroes. Used to bring out the hidden power in switch axes and charge blades.",
       "rarity": 0,
@@ -40809,7 +40336,6 @@
       "drop": []
     },
     {
-      "id": 474,
       "name": "Hero's Streamstone: Shaft",
       "description": "A material used by legendary heroes. Used to bring out the hidden power in insect glaives and bows.",
       "rarity": 0,
@@ -40818,7 +40344,6 @@
       "drop": []
     },
     {
-      "id": 475,
       "name": "Hero's Streamstone: Ranged",
       "description": "A material used by legendary heroes. Used to bring out the hidden power in light bowguns and heavy bowguns.",
       "rarity": 0,
@@ -40827,7 +40352,6 @@
       "drop": []
     },
     {
-      "id": 476,
       "name": "Voucher",
       "description": "Redeem this for a special meal with stronger effects than usual.",
       "rarity": 0,
@@ -40836,7 +40360,6 @@
       "drop": []
     },
     {
-      "id": 477,
       "name": "First Wyverian Print",
       "description": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
       "rarity": 0,
@@ -40845,7 +40368,6 @@
       "drop": []
     },
     {
-      "id": 478,
       "name": "Deluxe First Wyverian Print",
       "description": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
       "rarity": 0,
@@ -40854,7 +40376,6 @@
       "drop": []
     },
     {
-      "id": 479,
       "name": "Steel Wyverian Print",
       "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot.",
       "rarity": 0,
@@ -40863,7 +40384,6 @@
       "drop": []
     },
     {
-      "id": 480,
       "name": "Silver Wyverian Print",
       "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot.",
       "rarity": 0,
@@ -40872,7 +40392,6 @@
       "drop": []
     },
     {
-      "id": 481,
       "name": "Gold Wyverian Print",
       "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot.",
       "rarity": 0,
@@ -40881,7 +40400,6 @@
       "drop": []
     },
     {
-      "id": 482,
       "name": "Commendation",
       "description": "A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!",
       "rarity": 0,
@@ -40905,7 +40423,6 @@
       ]
     },
     {
-      "id": 483,
       "name": "High Commendation",
       "description": "A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!",
       "rarity": 0,
@@ -41006,7 +40523,6 @@
       ]
     },
     {
-      "id": 484,
       "name": "Research Commission Ticket",
       "description": "A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!",
       "rarity": 0,
@@ -41023,7 +40539,6 @@
       ]
     },
     {
-      "id": 485,
       "name": "Pukei Coin",
       "description": "A coin given to those who have bested a Pukei-Pukei in the Arena.",
       "rarity": 0,
@@ -41032,7 +40547,6 @@
       "drop": []
     },
     {
-      "id": 486,
       "name": "Kulu Coin",
       "description": "A coin given to those who have bested a Kulu-Ya-Ku in the Arena.",
       "rarity": 0,
@@ -41041,7 +40555,6 @@
       "drop": []
     },
     {
-      "id": 487,
       "name": "Rathian Coin",
       "description": "A coin given to those who have bested a Rathian in the Arena.",
       "rarity": 0,
@@ -41050,7 +40563,6 @@
       "drop": []
     },
     {
-      "id": 488,
       "name": "Tzitzi Coin",
       "description": "A coin given to those who have bested a Tzitzi-Ya-Ku in the Arena.",
       "rarity": 0,
@@ -41059,7 +40571,6 @@
       "drop": []
     },
     {
-      "id": 489,
       "name": "Barroth Coin",
       "description": "A coin given to those who have bested a Barroth in the Arena.",
       "rarity": 0,
@@ -41068,7 +40579,6 @@
       "drop": []
     },
     {
-      "id": 490,
       "name": "Gama Coin",
       "description": "A coin given to those who have bested a Dodogama in the Arena.",
       "rarity": 0,
@@ -41077,7 +40587,6 @@
       "drop": []
     },
     {
-      "id": 491,
       "name": "Rathalos Coin",
       "description": "A coin given to those who have bested a Rathalos in the Arena.",
       "rarity": 0,
@@ -41086,7 +40595,6 @@
       "drop": []
     },
     {
-      "id": 492,
       "name": "Brute Coin",
       "description": "A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.",
       "rarity": 0,
@@ -41095,7 +40603,6 @@
       "drop": []
     },
     {
-      "id": 493,
       "name": "Flying Coin",
       "description": "A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.",
       "rarity": 0,
@@ -41104,7 +40611,6 @@
       "drop": []
     },
     {
-      "id": 494,
       "name": "Pinnacle Coin",
       "description": "A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.",
       "rarity": 0,
@@ -41113,7 +40619,6 @@
       "drop": []
     },
     {
-      "id": 495,
       "name": "Hunter King Coin",
       "description": "A silver coin given to true hunters. It shines with all the glory of the Hunter King.",
       "rarity": 0,
@@ -41122,7 +40627,6 @@
       "drop": []
     },
     {
-      "id": 496,
       "name": "Ace Hunter Coin",
       "description": "A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.",
       "rarity": 0,
@@ -41131,7 +40635,6 @@
       "drop": []
     },
     {
-      "id": 497,
       "name": "Steel Egg",
       "description": "An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
       "rarity": 0,
@@ -41162,7 +40665,6 @@
       ]
     },
     {
-      "id": 498,
       "name": "Silver Egg",
       "description": "An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
       "rarity": 0,
@@ -41171,7 +40673,6 @@
       "drop": []
     },
     {
-      "id": 499,
       "name": "Golden Egg",
       "description": "An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)",
       "rarity": 0,
@@ -41180,7 +40681,6 @@
       "drop": []
     },
     {
-      "id": 500,
       "name": "Chipped Scale",
       "description": "Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)",
       "rarity": 0,
@@ -41189,7 +40689,6 @@
       "drop": []
     },
     {
-      "id": 501,
       "name": "Large Scale",
       "description": "Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item)",
       "rarity": 0,
@@ -41198,7 +40697,6 @@
       "drop": []
     },
     {
-      "id": 502,
       "name": "Beautiful Scale",
       "description": "Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item)",
       "rarity": 0,
@@ -41207,7 +40705,6 @@
       "drop": []
     },
     {
-      "id": 503,
       "name": "Lustrous Scale",
       "description": "Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item)",
       "rarity": 0,
@@ -41216,7 +40713,6 @@
       "drop": []
     },
     {
-      "id": 504,
       "name": "Glimmering Scale",
       "description": "Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item)",
       "rarity": 0,
@@ -41225,7 +40721,6 @@
       "drop": []
     },
     {
-      "id": 505,
       "name": "Bhernastone",
       "description": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
       "rarity": 0,
@@ -41234,7 +40729,6 @@
       "drop": []
     },
     {
-      "id": 506,
       "name": "Dundormarin",
       "description": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
       "rarity": 0,
@@ -41243,7 +40737,6 @@
       "drop": []
     },
     {
-      "id": 507,
       "name": "Loc Lac Ore",
       "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
       "rarity": 0,
@@ -41252,7 +40745,6 @@
       "drop": []
     },
     {
-      "id": 508,
       "name": "Val Habar Quartz",
       "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
       "rarity": 0,
@@ -41261,7 +40753,6 @@
       "drop": []
     },
     {
-      "id": 509,
       "name": "Minegardenite",
       "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
       "rarity": 0,
@@ -41270,7 +40761,6 @@
       "drop": []
     },
     {
-      "id": 510,
       "name": "Golden Scale",
       "description": "The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item)",
       "rarity": 0,
@@ -41279,7 +40769,6 @@
       "drop": []
     },
     {
-      "id": 511,
       "name": "Golden Scale+",
       "description": "The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item)",
       "rarity": 0,
@@ -41288,7 +40777,6 @@
       "drop": []
     },
     {
-      "id": 512,
       "name": "Platinum Scale",
       "description": "The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item)",
       "rarity": 0,
@@ -41297,7 +40785,6 @@
       "drop": []
     },
     {
-      "id": 513,
       "name": "Platinum Scale+",
       "description": "The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item)",
       "rarity": 0,
@@ -41306,7 +40793,6 @@
       "drop": []
     },
     {
-      "id": 514,
       "name": "Gilded Scale",
       "description": "The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item)",
       "rarity": 0,
@@ -41315,7 +40801,6 @@
       "drop": []
     },
     {
-      "id": 515,
       "name": "Gilded Scale+",
       "description": "The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item)",
       "rarity": 0,
@@ -41324,7 +40809,6 @@
       "drop": []
     },
     {
-      "id": 516,
       "name": "Deviljho Scale",
       "description": "Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
@@ -41333,7 +40817,6 @@
       "drop": []
     },
     {
-      "id": 517,
       "name": "Deviljho Hide",
       "description": "Rare Deviljho material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
@@ -41342,7 +40825,6 @@
       "drop": []
     },
     {
-      "id": 518,
       "name": "Deviljho Tallfang",
       "description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 6,
@@ -41351,7 +40833,6 @@
       "drop": []
     },
     {
-      "id": 519,
       "name": "Deviljho Talon",
       "description": "Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.",
       "rarity": 6,
@@ -41360,7 +40841,6 @@
       "drop": []
     },
     {
-      "id": 520,
       "name": "Deviljho Scalp",
       "description": "Rare Deviljho material. Obtained by breaking its head. Unusual, used in select gear.",
       "rarity": 6,
@@ -41369,7 +40849,6 @@
       "drop": []
     },
     {
-      "id": 521,
       "name": "Deviljho Tail",
       "description": "Rare Deviljho material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 6,
@@ -41378,7 +40857,6 @@
       "drop": []
     },
     {
-      "id": 522,
       "name": "Deviljho Saliva",
       "description": "Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.",
       "rarity": 6,
@@ -41387,7 +40865,6 @@
       "drop": []
     },
     {
-      "id": 523,
       "name": "Deviljho Gem",
       "description": "A rare gem said to have formed within Deviljho tissue. Used to dramatically improve gear.",
       "rarity": 7,
@@ -41396,7 +40873,6 @@
       "drop": []
     },
     {
-      "id": 524,
       "name": "Kulu-Ya-Ku Ticket",
       "description": "",
       "rarity": 0,
@@ -41405,7 +40881,6 @@
       "drop": []
     },
     {
-      "id": 525,
       "name": "Spring Blossom Ticket",
       "description": "",
       "rarity": 0,
@@ -41414,7 +40889,6 @@
       "drop": []
     },
     {
-      "id": 526,
       "name": "Master Craftsman's Blueprint",
       "description": "",
       "rarity": 0,
@@ -41423,7 +40897,6 @@
       "drop": []
     },
     {
-      "id": 527,
       "name": "Nova Brave Trophy",
       "description": "",
       "rarity": 0,
@@ -41432,7 +40905,6 @@
       "drop": []
     },
     {
-      "id": 528,
       "name": "Spring Insect Field Guide",
       "description": "",
       "rarity": 0,
@@ -41441,7 +40913,6 @@
       "drop": []
     },
     {
-      "id": 529,
       "name": "Kulve Taroth Golden Scale",
       "description": "Rare Kulve Taroth material. Mostly obtained as a reward. Many have fallen trying to obtain just one of these.",
       "rarity": 7,
@@ -41450,7 +40921,6 @@
       "drop": []
     },
     {
-      "id": 530,
       "name": "Kulve Taroth Golden Shell",
       "description": "Rare Kulve Taroth material. Mostly obtained as a reward. Its value is tied to its brilliant gold shine.",
       "rarity": 7,
@@ -41459,7 +40929,6 @@
       "drop": []
     },
     {
-      "id": 531,
       "name": "Kulve Taroth Golden Nugget",
       "description": "Rare Kulve Taroth material. Obtained by collecting rare drops. Emits an exotic light towards those that look at it.",
       "rarity": 7,
@@ -41468,7 +40937,6 @@
       "drop": []
     },
     {
-      "id": 532,
       "name": "Kulve Taroth Golden Spiralhorn",
       "description": "Rare Kulve Taroth material. Obtained by breaking its head. It defiantly glows despite its age and weight.",
       "rarity": 7,
@@ -41477,7 +40945,6 @@
       "drop": []
     },
     {
-      "id": 533,
       "name": "Kulve Taroth Golden Tailshell",
       "description": "Rare Kulve Taroth material. Obtained by breaking its tail. It shimmers a lustrous gold.",
       "rarity": 7,
@@ -41486,7 +40953,6 @@
       "drop": []
     },
     {
-      "id": 534,
       "name": "Kulve Taroth Golden Glimstone",
       "description": "A rare gem said to have formed within Kulve Taroth tissue. Within it lies unimaginable power.",
       "rarity": 8,
@@ -41495,7 +40961,6 @@
       "drop": []
     },
     {
-      "id": 535,
       "name": "Sonic Pod",
       "description": "",
       "rarity": 2,
@@ -41504,7 +40969,6 @@
       "drop": []
     },
     {
-      "id": 536,
       "name": "Blossom Fireworks",
       "description": "",
       "rarity": 5,
@@ -41513,7 +40977,6 @@
       "drop": []
     },
     {
-      "id": 537,
       "name": "Tranq Ammo",
       "description": "",
       "rarity": 3,
@@ -41522,7 +40985,6 @@
       "drop": []
     },
     {
-      "id": 538,
       "name": "Power Coating",
       "description": "",
       "rarity": 2,
@@ -41531,7 +40993,6 @@
       "drop": []
     },
     {
-      "id": 539,
       "name": "C.Range Coating",
       "description": "",
       "rarity": 2,
@@ -41540,7 +41001,6 @@
       "drop": []
     },
     {
-      "id": 540,
       "name": "Poison Coating",
       "description": "",
       "rarity": 3,
@@ -41549,7 +41009,6 @@
       "drop": []
     },
     {
-      "id": 541,
       "name": "Para Coating",
       "description": "",
       "rarity": 3,
@@ -41558,7 +41017,6 @@
       "drop": []
     },
     {
-      "id": 542,
       "name": "Sleep Coating",
       "description": "",
       "rarity": 3,
@@ -41567,7 +41025,6 @@
       "drop": []
     },
     {
-      "id": 543,
       "name": "Blast Coating",
       "description": "",
       "rarity": 3,
@@ -41576,7 +41033,6 @@
       "drop": []
     },
     {
-      "id": 544,
       "name": "Normal Ammo 1",
       "description": "",
       "rarity": 1,
@@ -41585,7 +41041,6 @@
       "drop": []
     },
     {
-      "id": 545,
       "name": "Normal Ammo 2",
       "description": "",
       "rarity": 1,
@@ -41594,7 +41049,6 @@
       "drop": []
     },
     {
-      "id": 546,
       "name": "Normal Ammo 3",
       "description": "",
       "rarity": 2,
@@ -41603,7 +41057,6 @@
       "drop": []
     },
     {
-      "id": 547,
       "name": "Pierce Ammo 1",
       "description": "",
       "rarity": 2,
@@ -41612,7 +41065,6 @@
       "drop": []
     },
     {
-      "id": 548,
       "name": "Pierce Ammo 3",
       "description": "",
       "rarity": 3,
@@ -41621,7 +41073,6 @@
       "drop": []
     },
     {
-      "id": 549,
       "name": "Spread Ammo 1",
       "description": "",
       "rarity": 2,
@@ -41630,7 +41081,6 @@
       "drop": []
     },
     {
-      "id": 550,
       "name": "Spread Ammo 2",
       "description": "",
       "rarity": 2,
@@ -41639,7 +41089,6 @@
       "drop": []
     },
     {
-      "id": 551,
       "name": "Spread Ammo 3",
       "description": "",
       "rarity": 3,
@@ -41648,7 +41097,6 @@
       "drop": []
     },
     {
-      "id": 552,
       "name": "Sticky Ammo 1",
       "description": "",
       "rarity": 3,
@@ -41657,7 +41105,6 @@
       "drop": []
     },
     {
-      "id": 553,
       "name": "Sticky Ammo 2",
       "description": "",
       "rarity": 3,
@@ -41666,7 +41113,6 @@
       "drop": []
     },
     {
-      "id": 554,
       "name": "Sticky Ammo 3",
       "description": "",
       "rarity": 3,
@@ -41675,7 +41121,6 @@
       "drop": []
     },
     {
-      "id": 555,
       "name": "Cluster Bomb 1",
       "description": "",
       "rarity": 2,
@@ -41684,7 +41129,6 @@
       "drop": []
     },
     {
-      "id": 556,
       "name": "Cluster Bomb 2",
       "description": "",
       "rarity": 3,
@@ -41693,7 +41137,6 @@
       "drop": []
     },
     {
-      "id": 557,
       "name": "Cluster Bomb 3",
       "description": "",
       "rarity": 3,
@@ -41702,7 +41145,6 @@
       "drop": []
     },
     {
-      "id": 558,
       "name": "Slicing Ammo",
       "description": "",
       "rarity": 3,
@@ -41711,7 +41153,6 @@
       "drop": []
     },
     {
-      "id": 559,
       "name": "Flaming Ammo",
       "description": "",
       "rarity": 3,
@@ -41720,7 +41161,6 @@
       "drop": []
     },
     {
-      "id": 560,
       "name": "Water Ammo",
       "description": "",
       "rarity": 3,
@@ -41729,7 +41169,6 @@
       "drop": []
     },
     {
-      "id": 561,
       "name": "Thunder Ammo",
       "description": "",
       "rarity": 3,
@@ -41738,7 +41177,6 @@
       "drop": []
     },
     {
-      "id": 562,
       "name": "Freeze Ammo",
       "description": "",
       "rarity": 3,
@@ -41747,7 +41185,6 @@
       "drop": []
     },
     {
-      "id": 563,
       "name": "Dragon Ammo",
       "description": "",
       "rarity": 3,
@@ -41756,7 +41193,6 @@
       "drop": []
     },
     {
-      "id": 564,
       "name": "Poison Ammo 1",
       "description": "",
       "rarity": 2,
@@ -41765,7 +41201,6 @@
       "drop": []
     },
     {
-      "id": 565,
       "name": "Poison Ammo 2",
       "description": "",
       "rarity": 3,
@@ -41774,7 +41209,6 @@
       "drop": []
     },
     {
-      "id": 566,
       "name": "Paralysis Ammo 1",
       "description": "",
       "rarity": 2,
@@ -41783,7 +41217,6 @@
       "drop": []
     },
     {
-      "id": 567,
       "name": "Paralysis Ammo 2",
       "description": "",
       "rarity": 3,
@@ -41792,7 +41225,6 @@
       "drop": []
     },
     {
-      "id": 568,
       "name": "Sleep Ammo 1",
       "description": "",
       "rarity": 2,
@@ -41801,7 +41233,6 @@
       "drop": []
     },
     {
-      "id": 569,
       "name": "Sleep Ammo 2",
       "description": "",
       "rarity": 3,
@@ -41810,7 +41241,6 @@
       "drop": []
     },
     {
-      "id": 570,
       "name": "Exhaust Ammo 1",
       "description": "",
       "rarity": 2,
@@ -41819,7 +41249,6 @@
       "drop": []
     },
     {
-      "id": 571,
       "name": "Exhaust Ammo 2",
       "description": "",
       "rarity": 3,
@@ -41828,7 +41257,6 @@
       "drop": []
     },
     {
-      "id": 572,
       "name": "Recover Ammo 1",
       "description": "",
       "rarity": 2,
@@ -41837,7 +41265,6 @@
       "drop": []
     },
     {
-      "id": 573,
       "name": "Recover Ammo 2",
       "description": "",
       "rarity": 3,
@@ -41846,7 +41273,6 @@
       "drop": []
     },
     {
-      "id": 574,
       "name": "Demon Ammo",
       "description": "",
       "rarity": 4,
@@ -41855,7 +41281,6 @@
       "drop": []
     },
     {
-      "id": 575,
       "name": "Armor Ammo",
       "description": "",
       "rarity": 4,
@@ -41864,7 +41289,6 @@
       "drop": []
     },
     {
-      "id": 576,
       "name": "Wyvern Ammo",
       "description": "",
       "rarity": 3,
@@ -41873,7 +41297,6 @@
       "drop": []
     },
     {
-      "id": 577,
       "name": "Gunpowder Level 3",
       "description": "",
       "rarity": 2,
@@ -41882,7 +41305,6 @@
       "drop": []
     },
     {
-      "id": 578,
       "name": "Adv Armor Sphere",
       "description": "",
       "rarity": 6,
@@ -41891,7 +41313,6 @@
       "drop": []
     },
     {
-      "id": 579,
       "name": "Azure Stargem",
       "description": "",
       "rarity": 6,
@@ -41900,7 +41321,6 @@
       "drop": []
     },
     {
-      "id": 580,
       "name": "Red Orb",
       "description": "",
       "rarity": 8,
@@ -41909,7 +41329,6 @@
       "drop": []
     },
     {
-      "id": 581,
       "name": "Aetheryte Shard",
       "description": "",
       "rarity": 7,
@@ -41918,7 +41337,6 @@
       "drop": []
     },
     {
-      "id": 582,
       "name": "Great Whetfish Fin",
       "description": "",
       "rarity": 0,
@@ -41927,7 +41345,6 @@
       "drop": []
     },
     {
-      "id": 583,
       "name": "Pale Extract",
       "description": "",
       "rarity": 4,
@@ -41936,7 +41353,6 @@
       "drop": []
     },
     {
-      "id": 584,
       "name": "First Fleet Ticket",
       "description": "",
       "rarity": 4,
@@ -41945,7 +41361,6 @@
       "drop": []
     },
     {
-      "id": 585,
       "name": "Kirin Ticket",
       "description": "",
       "rarity": 8,
@@ -41954,7 +41369,6 @@
       "drop": []
     },
     {
-      "id": 586,
       "name": "Behemoth Mane",
       "description": "Rare Behemoth material. Tinged with magical power that can summon meteors from the heavens.",
       "rarity": 7,
@@ -41963,7 +41377,6 @@
       "drop": []
     },
     {
-      "id": 587,
       "name": "Behemoth Bone",
       "description": "Rare Behemoth material. Bone so absurdly strong that it can even knock out legendary heroes.",
       "rarity": 7,
@@ -41972,7 +41385,6 @@
       "drop": []
     },
     {
-      "id": 588,
       "name": "Behemoth Great Horn",
       "description": "Rare Behemoth material. The ominous light that this horn emits leaves even the Warriors of Light shaken.",
       "rarity": 8,
@@ -41981,7 +41393,6 @@
       "drop": []
     },
     {
-      "id": 589,
       "name": "Behemoth Shearclaw",
       "description": "Rare Behemoth material. These claws cut down weaker prey in a single blow.",
       "rarity": 8,
@@ -41990,7 +41401,6 @@
       "drop": []
     },
     {
-      "id": 590,
       "name": "Behemoth Tail",
       "description": "Rare Behemoth material. A thick, muscular tail that sweeps away all teats.",
       "rarity": 8,
@@ -41999,7 +41409,6 @@
       "drop": []
     },
     {
-      "id": 591,
       "name": "Lunastra Scale+",
       "description": "Rare Lunastra material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
@@ -42008,7 +41417,6 @@
       "drop": []
     },
     {
-      "id": 592,
       "name": "Lunastra Carapace",
       "description": "Rare Lunastra material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
@@ -42017,7 +41425,6 @@
       "drop": []
     },
     {
-      "id": 593,
       "name": "Lunastra Mane",
       "description": "Rare Lunastra material. Obtained by collecting rare drops. Valuable, fire resistant material.",
       "rarity": 7,
@@ -42026,7 +41433,6 @@
       "drop": []
     },
     {
-      "id": 594,
       "name": "Lunastra Wing",
       "description": "Rare Lunastra material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 7,
@@ -42035,7 +41441,6 @@
       "drop": []
     },
     {
-      "id": 595,
       "name": "Lunastra Tail",
       "description": "Rare Lunastra material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
@@ -42044,7 +41449,6 @@
       "drop": []
     },
     {
-      "id": 596,
       "name": "Lunastra Horn",
       "description": "Rare Lunastra material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 7,
@@ -42053,7 +41457,6 @@
       "drop": []
     },
     {
-      "id": 597,
       "name": "Lunastra Gem",
       "description": "A rare gem said to have formed within Lunastra tissue. Within it lies unimaginable power.",
       "rarity": 8,
@@ -42062,7 +41465,6 @@
       "drop": []
     },
     {
-      "id": 598,
       "name": "Wyvern Tear",
       "description": "Bitter tears wept by wyverns on certain occasions. (Account Item)",
       "rarity": 3,
@@ -42071,7 +41473,6 @@
       "drop": []
     },
     {
-      "id": 599,
       "name": "Large Wyvern Tear",
       "description": "Large, bitter tears wept by wyverns on certain occasions. (Account Item)",
       "rarity": 5,
@@ -42080,7 +41481,6 @@
       "drop": []
     },
     {
-      "id": 600,
       "name": "Dragon Treasure",
       "description": "A shiny rock that elder dragons like to collect. (Account Item)",
       "rarity": 3,
@@ -42089,7 +41489,6 @@
       "drop": []
     },
     {
-      "id": 601,
       "name": "Vaal Hazak Ticket",
       "description": "A ticket bearing Vaal Hazak, engulfed in eternal darkness. Redeem at the Smithy to make novel equipment.",
       "rarity": 8,
