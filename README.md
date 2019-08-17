@@ -11,3 +11,5 @@ https://github.com/LartTyler/MHWDB-API
 https://mhworld.kiranico.com/
 
 https://monsterhunterworld.wiki.fextralife.com/
+
+Special thanks to hexhexhex for their work on datamining!
