@@ -8,11 +8,12 @@
       "skilldescription": "Grants protection against blastblight",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -33,11 +34,12 @@
       "skilldescription": "Protects against the effects of poison",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -58,11 +60,12 @@
       "skilldescription": "Reduces the duration of paralysis",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -83,18 +86,19 @@
       "skilldescription": "Strengthens explosive attacks, such as gunlance shells, Wyvern’s Fire, and sticky ammo",
       "maxskill": 3,
       "rarity": 8,
+      "rarityweight": 13.64,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.27,
+          "warped": 0.68
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -108,12 +112,13 @@
       "skilldescription": "Increases attack power and improves affinity at higher levels",
       "maxskill": 7,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -133,12 +138,13 @@
       "skilldescription": "Increases the rate of blast buildup",
       "maxskill": 3,
       "rarity": 7,
+      "rarityweight": 5.0,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "worn": 0.3,
+          "warped": 0.9
         }
       ],
       "Group": [
@@ -158,12 +164,13 @@
       "skilldescription": "Allows you to apply blast coating",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 8.33,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.08,
+          "worn": 0.5,
+          "warped": 1.5
         }
       ],
       "Group": [
@@ -183,12 +190,13 @@
       "skilldescription": "Increases fire element attack power",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -208,12 +216,13 @@
       "skilldescription": "Increases thunder element attack power",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -233,12 +242,13 @@
       "skilldescription": "Increases the damage of explosive items",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -258,11 +268,12 @@
       "skilldescription": "Increases the quantity of herbs and other consumable items you gather",
       "maxskill": 4,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -283,12 +294,13 @@
       "skilldescription": "Prevents knockbacks and other reactions to small damage",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -308,12 +320,13 @@
       "skilldescription": "Increases attack power and affinity when large monsters become enraged",
       "maxskill": 5,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -333,18 +346,19 @@
       "skilldescription": "Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks",
       "maxskill": 3,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -358,11 +372,12 @@
       "skilldescription": "Improves Evasion and reduces stamina depletion when afflicted with abnormal status effects",
       "maxskill": 1,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -383,18 +398,19 @@
       "skilldescription": "Increases the damage of critical hits",
       "maxskill": 3,
       "rarity": 8,
+      "rarityweight": 22.73,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.45,
+          "warped": 1.14
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -408,11 +424,12 @@
       "skilldescription": "Grants protection against Defense Down",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -433,12 +450,13 @@
       "skilldescription": "Increases defense. Level up to improve resistances as well",
       "maxskill": 7,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -458,12 +476,13 @@
       "skilldescription": "Makes it easier to break or sever parts of large monsters",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -483,12 +502,13 @@
       "skilldescription": "Increases dragon element attack power",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -508,11 +528,12 @@
       "skilldescription": "Increases dragon resistance. Also improves defense at higher levels",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -533,12 +554,13 @@
       "skilldescription": "Increases the Elderseal of weapons and dragon ammo",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 5.0,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "worn": 0.3,
+          "warped": 0.9
         }
       ],
       "Group": [
@@ -558,12 +580,13 @@
       "skilldescription": "Increases certain attacks’ ability to exhaust monsters",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -583,18 +606,19 @@
       "skilldescription": "Increases affinity when performing draw attacks",
       "maxskill": 3,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -608,12 +632,13 @@
       "skilldescription": "Decreases negative effect of large monster's roars",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -633,12 +658,13 @@
       "skilldescription": "Powers up non0%elemental weapons you have equipped",
       "maxskill": 1,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -658,12 +684,13 @@
       "skilldescription": "Extends the duration of some item effects",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -683,12 +710,13 @@
       "skilldescription": "Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer",
       "maxskill": 3,
       "rarity": 7,
+      "rarityweight": 5.0,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "worn": 0.3,
+          "warped": 0.9
         }
       ],
       "Group": [
@@ -708,12 +736,13 @@
       "skilldescription": "Extends the invulnerability period when evading",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -733,12 +762,13 @@
       "skilldescription": "Boosts affinity",
       "maxskill": 7,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -758,11 +788,12 @@
       "skilldescription": "Increases fire resistance. Also improves defense at higher levels",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -783,12 +814,13 @@
       "skilldescription": "Increases attack when your health is full",
       "maxskill": 3,
       "rarity": 7,
+      "rarityweight": 8.33,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.08,
+          "worn": 0.5,
+          "warped": 1.5
         }
       ],
       "Group": [
@@ -808,11 +840,12 @@
       "skilldescription": "Increases damage caused by jumping attacks",
       "maxskill": 1,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -833,12 +866,13 @@
       "skilldescription": "Grants protection against ground tremors",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -858,12 +892,13 @@
       "skilldescription": "Increases the attack power of normal ammo and normal arrows",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -883,11 +918,12 @@
       "skilldescription": "Increases your attack and defense every time you fall in battle, up to two times",
       "maxskill": 1,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -908,12 +944,13 @@
       "skilldescription": "Allows the effects of certain items to also affect nearby allies",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -933,12 +970,13 @@
       "skilldescription": "Increases ice element attack power",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -958,18 +996,19 @@
       "skilldescription": "Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects",
       "maxskill": 3,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -983,12 +1022,13 @@
       "skilldescription": "Increases attack when you have recoverable damage",
       "maxskill": 5,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -1008,11 +1048,12 @@
       "skilldescription": "Increases the number of times you can use a gathering point",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -1033,12 +1074,13 @@
       "skilldescription": "Increases meat0%eating and item0%consumption speed",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -1058,12 +1100,13 @@
       "skilldescription": "Speeds up weapon sharpening when you use a Whetstone",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -1083,18 +1126,19 @@
       "skilldescription": "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum",
       "maxskill": 5,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -1108,11 +1152,12 @@
       "skilldescription": "Increases the firepower of ballistae and cannons",
       "maxskill": 2,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -1133,11 +1178,12 @@
       "skilldescription": "Reduces maximum stamina depletion over time",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 1.08,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 0.92,
+          "glowing": 0.7,
+          "worn": 0.11,
           "warped": 0.0
         }
       ],
@@ -1158,11 +1204,12 @@
       "skilldescription": "Increases ice resistance. Also improves defense at higher levels",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -1183,11 +1230,12 @@
       "skilldescription": "Reduces the chances small monsters will attack after spotting you",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 1.08,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 0.92,
+          "glowing": 0.7,
+          "worn": 0.11,
           "warped": 0.0
         }
       ],
@@ -1208,12 +1256,13 @@
       "skilldescription": "Reduces knockbacks and stamina depletion when guarding",
       "maxskill": 5,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -1233,12 +1282,13 @@
       "skilldescription": "Increases evade distance",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -1258,12 +1308,13 @@
       "skilldescription": "Makes it easier to dizzy monsters",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -1283,12 +1334,13 @@
       "skilldescription": "Increases the gunlance's shell capacity and charge blade's phial capacity",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -1308,11 +1360,12 @@
       "skilldescription": "Reduces the recharge time for specialized tools",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 1.08,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 0.92,
+          "glowing": 0.7,
+          "worn": 0.11,
           "warped": 0.0
         }
       ],
@@ -1333,12 +1386,13 @@
       "skilldescription": "Increases the amount recovered when restoring health",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -1358,11 +1412,12 @@
       "skilldescription": "Powers up palicos",
       "maxskill": 5,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -1383,11 +1438,12 @@
       "skilldescription": "Gain a resistance to effluvial buildup",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -1408,18 +1464,19 @@
       "skilldescription": "Increases max bow charge level by 1",
       "maxskill": 1,
       "rarity": 8,
+      "rarityweight": 13.64,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.27,
+          "warped": 0.68
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -1433,12 +1490,13 @@
       "skilldescription": "Increases affinity when stamina is full",
       "maxskill": 3,
       "rarity": 7,
+      "rarityweight": 5.0,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "worn": 0.3,
+          "warped": 0.9
         }
       ],
       "Group": [
@@ -1458,18 +1516,19 @@
       "skilldescription": "Prevents attacks from being deflected and shortens the distance before ammo and arrows reach maximum power",
       "maxskill": 1,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -1483,11 +1542,12 @@
       "skilldescription": "Improves mobility in water",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 1.08,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 0.92,
+          "glowing": 0.7,
+          "worn": 0.11,
           "warped": 0.0
         }
       ],
@@ -1508,12 +1568,13 @@
       "skilldescription": "Allows you to apply paralysis coating",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 5.0,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "worn": 0.3,
+          "warped": 0.9
         }
       ],
       "Group": [
@@ -1533,12 +1594,13 @@
       "skilldescription": "Increases the duration of paralysis",
       "maxskill": 3,
       "rarity": 7,
+      "rarityweight": 5.0,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "worn": 0.3,
+          "warped": 0.9
         }
       ],
       "Group": [
@@ -1558,11 +1620,12 @@
       "skilldescription": "Reduces duration of sleep",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -1583,12 +1646,13 @@
       "skilldescription": "Decreases stamina loss when performing moves such as evading, attacking, running, etc",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -1608,18 +1672,19 @@
       "skilldescription": "Increases the attack power of piercing ammo and Dragon Piercer",
       "maxskill": 1,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -1633,12 +1698,13 @@
       "skilldescription": "Allows you to apply poison coating",
       "maxskill": 1,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -1658,12 +1724,13 @@
       "skilldescription": "Increases the attack power and defense when health drops to 35% or lower",
       "maxskill": 5,
       "rarity": 7,
+      "rarityweight": 8.33,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.08,
+          "worn": 0.5,
+          "warped": 1.5
         }
       ],
       "Group": [
@@ -1683,11 +1750,12 @@
       "skilldescription": "Has a predetermined chance of reducing the damage you take",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 1.08,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 0.92,
+          "glowing": 0.7,
+          "worn": 0.11,
           "warped": 0.0
         }
       ],
@@ -1708,12 +1776,13 @@
       "skilldescription": "Speeds recovery from temporary damage",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -1733,12 +1802,13 @@
       "skilldescription": "Speeds up stamina recovery",
       "maxskill": 3,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -1758,18 +1828,19 @@
       "skilldescription": "Unlocks your weapon's hidden element. Also increases bowgun loading capacity",
       "maxskill": 3,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -1783,12 +1854,13 @@
       "skilldescription": "Grants protection against all elemental blights",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -1808,11 +1880,12 @@
       "skilldescription": "Gives you a predetermined chance of consuming a food or drink item for free",
       "maxskill": 1,
       "rarity": 5,
+      "rarityweight": 1.08,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 0.92,
+          "glowing": 0.7,
+          "worn": 0.11,
           "warped": 0.0
         }
       ],
@@ -1833,11 +1906,12 @@
       "skilldescription": "Increases your scoutflies’ gauge fill rate when you find tracks and other traces left by monsters",
       "maxskill": 1,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -1858,12 +1932,13 @@
       "skilldescription": "Makes weapons sharpness not decrease for a set time after sharpening",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 5.0,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "worn": 0.3,
+          "warped": 0.9
         }
       ],
       "Group": [
@@ -1883,12 +1958,13 @@
       "skilldescription": "Increases the speed of sheathing",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -1908,12 +1984,13 @@
       "skilldescription": "Allows you to guard against ordinarily unblockable attacks",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -1933,12 +2010,13 @@
       "skilldescription": "Increases the rate of sleep buildup",
       "maxskill": 3,
       "rarity": 7,
+      "rarityweight": 8.33,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.08,
+          "worn": 0.5,
+          "warped": 1.5
         }
       ],
       "Group": [
@@ -1958,12 +2036,13 @@
       "skilldescription": "Allows you to apply sleep coating",
       "maxskill": 1,
       "rarity": 7,
+      "rarityweight": 8.33,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.08,
+          "worn": 0.5,
+          "warped": 1.5
         }
       ],
       "Group": [
@@ -1983,12 +2062,13 @@
       "skilldescription": "Sliding boosts your affinity for a short time",
       "maxskill": 1,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -2008,11 +2088,12 @@
       "skilldescription": "Recover health when using sporepuffs",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -2033,12 +2114,13 @@
       "skilldescription": "Increases the effect duration of hunting horn melodies",
       "maxskill": 1,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -2058,11 +2140,12 @@
       "skilldescription": "Decreases chance of destroying bodies of small insect monsters, allowing them to be carved",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 5.38,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 4.57,
+          "glowing": 3.5,
+          "worn": 0.54,
           "warped": 0.0
         }
       ],
@@ -2083,18 +2166,19 @@
       "skilldescription": "Increases the attack power of spread ammo and power shot arrows",
       "maxskill": 1,
       "rarity": 8,
+      "rarityweight": 13.64,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.27,
+          "warped": 0.68
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -2108,18 +2192,19 @@
       "skilldescription": "Slows down stamina depletion for actions which continuously drain stamina",
       "maxskill": 3,
       "rarity": 8,
+      "rarityweight": 4.55,
       "Feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
-          "worn": 0.17,
-          "warped": 0.42
+          "worn": 0.09,
+          "warped": 0.23
         }
       ],
       "Group": [
         {
-          "mysterious": 2.0,
-          "glowing": 5.0,
+          "mysterious": 0.0,
+          "glowing": 0.0,
           "worn": 2.0,
           "warped": 5.0
         }
@@ -2133,12 +2218,13 @@
       "skilldescription": "Reduces stun duration",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -2158,12 +2244,13 @@
       "skilldescription": "Increases the loading capacity for slinger ammo obtained in the field",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -2183,12 +2270,13 @@
       "skilldescription": "Increases water element attack power",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
@@ -2208,11 +2296,12 @@
       "skilldescription": "Grants protection against bleeding",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -2233,12 +2322,13 @@
       "skilldescription": "Increases the affinity of attack that exploit a monster weak spot",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 0.95,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.14,
+          "glowing": 0.32,
+          "worn": 0.78,
+          "warped": 0.73
         }
       ],
       "Group": [
@@ -2258,12 +2348,13 @@
       "skilldescription": "Temporarily increases affinity and reduces stamina depletion when you take 180 damage or fight > 5 min",
       "maxskill": 5,
       "rarity": 7,
+      "rarityweight": 8.33,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.08,
+          "worn": 0.5,
+          "warped": 1.5
         }
       ],
       "Group": [
@@ -2283,11 +2374,12 @@
       "skilldescription": "Increases thunder resistance. Also improves defense at higher levels",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -2308,11 +2400,12 @@
       "skilldescription": "Makes it easier for monsters to lose sight of you",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -2333,12 +2426,13 @@
       "skilldescription": "Increases the power of bowgun special ammo and Dragon Piercer",
       "maxskill": 2,
       "rarity": 7,
+      "rarityweight": 1.67,
       "Feystones": [
         {
           "mysterious": 0.0,
-          "glowing": 0.05,
-          "worn": 0.27,
-          "warped": 0.81
+          "glowing": 0.02,
+          "worn": 0.1,
+          "warped": 0.3
         }
       ],
       "Group": [
@@ -2358,12 +2452,13 @@
       "skilldescription": "Increases the rate of poison build0%up",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -2383,12 +2478,13 @@
       "skilldescription": "Increases health",
       "maxskill": 3,
       "rarity": 6,
+      "rarityweight": 4.76,
       "Feystones": [
         {
-          "mysterious": 0.43,
-          "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "mysterious": 0.71,
+          "glowing": 1.62,
+          "worn": 3.9,
+          "warped": 3.67
         }
       ],
       "Group": [
@@ -2408,11 +2504,12 @@
       "skilldescription": "Increases water resistance. Also improves defense at higher levels",
       "maxskill": 3,
       "rarity": 5,
+      "rarityweight": 3.23,
       "Feystones": [
         {
-          "mysterious": 2.93,
-          "glowing": 2.24,
-          "worn": 0.35,
+          "mysterious": 2.75,
+          "glowing": 2.1,
+          "worn": 0.32,
           "warped": 0.0
         }
       ],
@@ -2433,12 +2530,13 @@
       "skilldescription": "Grants protection against wind pressure",
       "maxskill": 5,
       "rarity": 6,
+      "rarityweight": 2.86,
       "Feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
-          "worn": 2.34,
-          "warped": 2.34
+          "worn": 2.35,
+          "warped": 2.2
         }
       ],
       "Group": [
