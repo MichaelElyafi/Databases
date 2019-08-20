@@ -9,7 +9,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -17,7 +17,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -35,7 +35,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -43,7 +43,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -61,7 +61,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -69,7 +69,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -87,7 +87,7 @@
       "maxskill": 3,
       "rarity": 8,
       "rarityweight": 13.64,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -95,7 +95,7 @@
           "warped": 0.68
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -113,7 +113,7 @@
       "maxskill": 7,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -121,7 +121,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -139,7 +139,7 @@
       "maxskill": 3,
       "rarity": 7,
       "rarityweight": 5.0,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
@@ -147,7 +147,7 @@
           "warped": 0.9
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -165,7 +165,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 8.33,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.08,
@@ -173,7 +173,7 @@
           "warped": 1.5
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -191,7 +191,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -199,7 +199,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -217,7 +217,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -225,7 +225,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -243,7 +243,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -251,7 +251,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -269,7 +269,7 @@
       "maxskill": 4,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -277,7 +277,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -295,7 +295,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -303,7 +303,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -321,7 +321,7 @@
       "maxskill": 5,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -329,7 +329,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -347,7 +347,7 @@
       "maxskill": 3,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -355,7 +355,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -373,7 +373,7 @@
       "maxskill": 1,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -381,7 +381,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -399,7 +399,7 @@
       "maxskill": 3,
       "rarity": 8,
       "rarityweight": 22.73,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -407,7 +407,7 @@
           "warped": 1.14
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -425,7 +425,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -433,7 +433,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -451,7 +451,7 @@
       "maxskill": 7,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -459,7 +459,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -477,7 +477,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -485,7 +485,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -503,7 +503,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -511,7 +511,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -529,7 +529,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -537,7 +537,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -555,7 +555,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 5.0,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
@@ -563,7 +563,7 @@
           "warped": 0.9
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -581,7 +581,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -589,7 +589,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -607,7 +607,7 @@
       "maxskill": 3,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -615,7 +615,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -633,7 +633,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -641,7 +641,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -659,7 +659,7 @@
       "maxskill": 1,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -667,7 +667,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -685,7 +685,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -693,7 +693,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -711,7 +711,7 @@
       "maxskill": 3,
       "rarity": 7,
       "rarityweight": 5.0,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
@@ -719,7 +719,7 @@
           "warped": 0.9
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -737,7 +737,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -745,7 +745,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -763,7 +763,7 @@
       "maxskill": 7,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -771,7 +771,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -789,7 +789,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -797,7 +797,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -815,7 +815,7 @@
       "maxskill": 3,
       "rarity": 7,
       "rarityweight": 8.33,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.08,
@@ -823,7 +823,7 @@
           "warped": 1.5
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -841,7 +841,7 @@
       "maxskill": 1,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -849,7 +849,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -867,7 +867,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -875,7 +875,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -893,7 +893,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -901,7 +901,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -919,7 +919,7 @@
       "maxskill": 1,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -927,7 +927,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -945,7 +945,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -953,7 +953,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -971,7 +971,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -979,7 +979,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -997,7 +997,7 @@
       "maxskill": 3,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1005,7 +1005,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1023,7 +1023,7 @@
       "maxskill": 5,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -1031,7 +1031,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1049,7 +1049,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -1057,7 +1057,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1075,7 +1075,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -1083,7 +1083,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1101,7 +1101,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -1109,7 +1109,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1127,7 +1127,7 @@
       "maxskill": 5,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1135,7 +1135,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1153,7 +1153,7 @@
       "maxskill": 2,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -1161,7 +1161,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1179,7 +1179,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 1.08,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.92,
           "glowing": 0.7,
@@ -1187,7 +1187,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1205,7 +1205,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -1213,7 +1213,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1231,7 +1231,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 1.08,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.92,
           "glowing": 0.7,
@@ -1239,7 +1239,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1257,7 +1257,7 @@
       "maxskill": 5,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -1265,7 +1265,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1283,7 +1283,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -1291,7 +1291,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1309,7 +1309,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -1317,7 +1317,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1335,7 +1335,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -1343,7 +1343,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1361,7 +1361,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 1.08,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.92,
           "glowing": 0.7,
@@ -1369,7 +1369,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1387,7 +1387,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -1395,7 +1395,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1413,7 +1413,7 @@
       "maxskill": 5,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -1421,7 +1421,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1439,7 +1439,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -1447,7 +1447,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1465,7 +1465,7 @@
       "maxskill": 1,
       "rarity": 8,
       "rarityweight": 13.64,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1473,7 +1473,7 @@
           "warped": 0.68
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1491,7 +1491,7 @@
       "maxskill": 3,
       "rarity": 7,
       "rarityweight": 5.0,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
@@ -1499,7 +1499,7 @@
           "warped": 0.9
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1517,7 +1517,7 @@
       "maxskill": 1,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1525,7 +1525,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1543,7 +1543,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 1.08,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.92,
           "glowing": 0.7,
@@ -1551,7 +1551,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1569,7 +1569,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 5.0,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
@@ -1577,7 +1577,7 @@
           "warped": 0.9
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1595,7 +1595,7 @@
       "maxskill": 3,
       "rarity": 7,
       "rarityweight": 5.0,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
@@ -1603,7 +1603,7 @@
           "warped": 0.9
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1621,7 +1621,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -1629,7 +1629,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1647,7 +1647,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -1655,7 +1655,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1673,7 +1673,7 @@
       "maxskill": 1,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1681,7 +1681,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1699,7 +1699,7 @@
       "maxskill": 1,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -1707,7 +1707,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1725,7 +1725,7 @@
       "maxskill": 5,
       "rarity": 7,
       "rarityweight": 8.33,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.08,
@@ -1733,7 +1733,7 @@
           "warped": 1.5
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1751,7 +1751,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 1.08,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.92,
           "glowing": 0.7,
@@ -1759,7 +1759,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1777,7 +1777,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -1785,7 +1785,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1803,7 +1803,7 @@
       "maxskill": 3,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -1811,7 +1811,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1829,7 +1829,7 @@
       "maxskill": 3,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1837,7 +1837,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -1855,7 +1855,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -1863,7 +1863,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1881,7 +1881,7 @@
       "maxskill": 1,
       "rarity": 5,
       "rarityweight": 1.08,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.92,
           "glowing": 0.7,
@@ -1889,7 +1889,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1907,7 +1907,7 @@
       "maxskill": 1,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -1915,7 +1915,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -1933,7 +1933,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 5.0,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.05,
@@ -1941,7 +1941,7 @@
           "warped": 0.9
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -1959,7 +1959,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -1967,7 +1967,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -1985,7 +1985,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -1993,7 +1993,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -2011,7 +2011,7 @@
       "maxskill": 3,
       "rarity": 7,
       "rarityweight": 8.33,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.08,
@@ -2019,7 +2019,7 @@
           "warped": 1.5
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -2037,7 +2037,7 @@
       "maxskill": 1,
       "rarity": 7,
       "rarityweight": 8.33,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.08,
@@ -2045,7 +2045,7 @@
           "warped": 1.5
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -2063,7 +2063,7 @@
       "maxskill": 1,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -2071,7 +2071,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2089,7 +2089,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -2097,7 +2097,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -2115,7 +2115,7 @@
       "maxskill": 1,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -2123,7 +2123,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2141,7 +2141,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 5.38,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 4.57,
           "glowing": 3.5,
@@ -2149,7 +2149,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -2167,7 +2167,7 @@
       "maxskill": 1,
       "rarity": 8,
       "rarityweight": 13.64,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -2175,7 +2175,7 @@
           "warped": 0.68
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -2193,7 +2193,7 @@
       "maxskill": 3,
       "rarity": 8,
       "rarityweight": 4.55,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -2201,7 +2201,7 @@
           "warped": 0.23
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 0.0,
@@ -2219,7 +2219,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -2227,7 +2227,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2245,7 +2245,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -2253,7 +2253,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2271,7 +2271,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -2279,7 +2279,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2297,7 +2297,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -2305,7 +2305,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -2323,7 +2323,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 0.95,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.14,
           "glowing": 0.32,
@@ -2331,7 +2331,7 @@
           "warped": 0.73
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2349,7 +2349,7 @@
       "maxskill": 5,
       "rarity": 7,
       "rarityweight": 8.33,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.08,
@@ -2357,7 +2357,7 @@
           "warped": 1.5
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -2375,7 +2375,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -2383,7 +2383,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -2401,7 +2401,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -2409,7 +2409,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -2427,7 +2427,7 @@
       "maxskill": 2,
       "rarity": 7,
       "rarityweight": 1.67,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.0,
           "glowing": 0.02,
@@ -2435,7 +2435,7 @@
           "warped": 0.3
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 0.0,
           "glowing": 1.0,
@@ -2453,7 +2453,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -2461,7 +2461,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2479,7 +2479,7 @@
       "maxskill": 3,
       "rarity": 6,
       "rarityweight": 4.76,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.71,
           "glowing": 1.62,
@@ -2487,7 +2487,7 @@
           "warped": 3.67
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,
@@ -2505,7 +2505,7 @@
       "maxskill": 3,
       "rarity": 5,
       "rarityweight": 3.23,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 2.75,
           "glowing": 2.1,
@@ -2513,7 +2513,7 @@
           "warped": 0.0
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 85.0,
           "glowing": 65.0,
@@ -2531,7 +2531,7 @@
       "maxskill": 5,
       "rarity": 6,
       "rarityweight": 2.86,
-      "Feystones": [
+      "feystones": [
         {
           "mysterious": 0.43,
           "glowing": 0.97,
@@ -2539,7 +2539,7 @@
           "warped": 2.2
         }
       ],
-      "Group": [
+      "raritygroup": [
         {
           "mysterious": 15.0,
           "glowing": 34.0,

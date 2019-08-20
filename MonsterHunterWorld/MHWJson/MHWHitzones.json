@@ -1,0 +1,1309 @@
+{
+  "Hitzone": [
+    {
+      "name": "Anjanath",
+      "key": "anjanath",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-anjanath_icon.png",
+      "sever": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "80 (Nose/Wing)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "75 (Nose)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "90 (Nose/Wing)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water 25 (Head)"
+        },
+        {
+          "damagetype": "Water 30 (Nose/Wing)"
+        },
+        {
+          "damagetype": "Ice 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Azure Rathalos",
+      "key": "azure_rathalos",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-azure_rathalos_icon.png",
+      "sever": [
+        {
+          "damagetype": "60 (Head)"
+        },
+        {
+          "damagetype": "55 (Tail Tip)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "50 (Tail Tip)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "55 (Head)"
+        },
+        {
+          "damagetype": "45 (Tail Tip)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Dragon 30 (Head)"
+        },
+        {
+          "damagetype": "Dragon 25 (Tail Tip)"
+        },
+        {
+          "damagetype": "Ice 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Barroth",
+      "key": "barroth",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-barroth_icon.png",
+      "sever": [
+        {
+          "damagetype": "80 (Forearm)"
+        },
+        {
+          "damagetype": "55 (Tail)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "85 (Forearm)"
+        },
+        {
+          "damagetype": "50 (Tail)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "75 (Forearm)"
+        },
+        {
+          "damagetype": "50 (Body)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Fire 30 (Forearm)"
+        },
+        {
+          "damagetype": "Water 80 (Forearm Mud)"
+        }
+      ]
+    },
+    {
+      "name": "Behemoth",
+      "key": "behemoth",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-behemoth_icon.png",
+      "sever": [
+        {
+          "damagetype": "60 (Head)"
+        },
+        {
+          "damagetype": "50 (Forearm/Tail)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "55 (Hindleg)"
+        },
+        {
+          "damagetype": "55 (Head)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "50 (Head)"
+        },
+        {
+          "damagetype": "45 (Forearm)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water 25 (Head)"
+        },
+        {
+          "damagetype": " (Sever) Water 20 (Tail)"
+        },
+        {
+          "damagetype": "Dragon 85 (Horn)"
+        }
+      ]
+    },
+    {
+      "name": "Black Diablos",
+      "key": "black_diablos",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-black_diablos_icon.png",
+      "sever": [
+        {
+          "damagetype": "73 (Stomach)"
+        },
+        {
+          "damagetype": "50 (Tai)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "78 (Stomach)"
+        },
+        {
+          "damagetype": "63 (Head)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "60 (Wing)"
+        },
+        {
+          "damagetype": "45 (Tail)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": " (Blunt) (Sever)Ice 35 /Water 30 (Stomach)"
+        },
+        {
+          "damagetype": " (Shot) Ice 30 /Water 25 (Wing)"
+        }
+      ]
+    },
+    {
+      "name": "Bazelgeuse",
+      "key": "bazelgeuse",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-bazelgeuse_icon.png",
+      "sever": [
+        {
+          "damagetype": "80 (Head)"
+        },
+        {
+          "damagetype": "70 (Tail)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "85 (Head)"
+        },
+        {
+          "damagetype": "70 (Tail)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "65 (Wing)"
+        },
+        {
+          "damagetype": "60 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 25 (Head)"
+        },
+        {
+          "damagetype": "Ice/Dragon 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Deviljho",
+      "key": "deviljho",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-deviljho_icon.png",
+      "sever": [
+        {
+          "damagetype": "60 (Head)"
+        },
+        {
+          "damagetype": "75 (Chest Rage)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "75 (Chest Rage)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "60 (Head)"
+        },
+        {
+          "damagetype": "70 (Chest Rage)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder/Dragon 25 (Chest Rage)"
+        },
+        {
+          "damagetype": "Thunder/Dragon 15 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Diablos",
+      "key": "diablos",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-diablos_icon.png",
+      "sever": [
+        {
+          "damagetype": "73 (Stomach)"
+        },
+        {
+          "damagetype": "50 (Tail)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "78 (Stomach)"
+        },
+        {
+          "damagetype": "63 (Head)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "60 (Wing)"
+        },
+        {
+          "damagetype": "45 (Tail)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": " (Blunt) (Sever)Ice 35 /Water 30 (Stomach)"
+        },
+        {
+          "damagetype": " (Shot) Ice 30 /Water 25 (Wing)"
+        }
+      ]
+    },
+    {
+      "name": "Dodogama",
+      "key": "dodogama",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-dodogama_icon.png",
+      "sever": [
+        {
+          "damagetype": "60 (Tail)"
+        },
+        {
+          "damagetype": "100 (Head Rock 2)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "60 (Tail)"
+        },
+        {
+          "damagetype": "100 (Head Rock 2)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "50 (Tail)"
+        },
+        {
+          "damagetype": "90 (Head Rock 2)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 30 (Head Rock 1 & 2)"
+        },
+        {
+          "damagetype": "Ice/Water 20 (Head Rock 1 & 2)"
+        },
+        {
+          "damagetype": "Thunder 15 (Tail)"
+        }
+      ]
+    },
+    {
+      "name": "Great Jagras",
+      "key": "great_jagras",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-great_jagras_icon.png",
+      "sever": [
+        {
+          "damagetype": "80 (Head)"
+        },
+        {
+          "damagetype": "90 (Stomach Inflate)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "85 (Head)"
+        },
+        {
+          "damagetype": "95 (Stomach Inflate)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "75 (Head)"
+        },
+        {
+          "damagetype": "85 (Stomach Inflate)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Fire 30 (Head/Stomach Inflated)"
+        },
+        {
+          "damagetype": "Thunder 20 (Head/Stomach Inflated)"
+        }
+      ]
+    },
+    {
+      "name": "Great Girros",
+      "key": "great_girros",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-great_girros_icon.png",
+      "sever": [
+        {
+          "damagetype": "80 (Head)"
+        },
+        {
+          "damagetype": "55 (Foreleg)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "85 (Head)"
+        },
+        {
+          "damagetype": "50 (Foreleg)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "75 (Head)"
+        },
+        {
+          "damagetype": "45 (Foreleg)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water 30 (Head)"
+        },
+        {
+          "damagetype": "Ice 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Jyuratados",
+      "key": "jyuratados",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-jyuratados_icon.png",
+      "sever": [
+        {
+          "damagetype": "63 (Head)"
+        },
+        {
+          "damagetype": "55 (Tail)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "63 (Head)"
+        },
+        {
+          "damagetype": "50 (Tail)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "63 (Head)"
+        },
+        {
+          "damagetype": "45 (Tail)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": " (Blunt) (Sever) Water 25 (Head Mud)"
+        },
+        {
+          "damagetype": " (Shot) Water 25 (Head Mud/Tail Mud)"
+        },
+        {
+          "damagetype": "Thunder 25 (Body)"
+        }
+      ]
+    },
+    {
+      "name": "Kirin",
+      "key": "kirin",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kirin_icon.png",
+      "sever": [
+        {
+          "damagetype": "55 (Head)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "55 (Head)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "45 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Fire 25 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Kulu Ya Ku",
+      "key": "kulu_ya_ku",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kulu_ya_ku_icon.png",
+      "sever": [
+        {
+          "damagetype": "85 (Head)"
+        },
+        {
+          "damagetype": "65 (Forearm)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "85 (Head)"
+        },
+        {
+          "damagetype": "70 (Forearm)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "75 (Head)"
+        },
+        {
+          "damagetype": "55 (Forearm)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 30 (Head)"
+        },
+        {
+          "damagetype": "Ice 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Kulve Taroth",
+      "key": "kulve_taroth",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kulve_taroth_icon.png",
+      "sever": [
+        {
+          "damagetype": "60 (Head Molten)"
+        },
+        {
+          "damagetype": "80 (After Horn Break)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "75 (Head Molten)"
+        },
+        {
+          "damagetype": "85 (After Horn Break)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "45 (Chest)"
+        },
+        {
+          "damagetype": "30 (Head Molten)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 50 (All Molten Part)"
+        },
+        {
+          "damagetype": "Thunder 25 (All Normal Gold Coat)"
+        },
+        {
+          "damagetype": "Ice 50 (Head After Horn Break)"
+        }
+      ]
+    },
+    {
+      "name": "Kulve Taroth No armor",
+      "key": "kulve_taroth_no_armor",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kulve_taroth_no_armor_icon.png",
+      "sever": [
+        {
+          "damagetype": "80 (Head)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "85 (Head)"
+        },
+        {
+          "damagetype": "45 (Tail)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "45 (Chest)"
+        },
+        {
+          "damagetype": "25 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Ice 50 (Head)"
+        },
+        {
+          "damagetype": "Ice 30 (Tail)"
+        }
+      ]
+    },
+    {
+      "name": "Kushala",
+      "key": "kushala",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-kushala_icon.png",
+      "sever": [
+        {
+          "damagetype": "55 (Head)"
+        },
+        {
+          "damagetype": "45 (Foreleg)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "50 (Head)"
+        },
+        {
+          "damagetype": "50 (Foreleg)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "55 (Tail)"
+        },
+        {
+          "damagetype": "45 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 20 (Head)"
+        },
+        {
+          "damagetype": " (Shot)Thunder 20 (Tail)"
+        }
+      ]
+    },
+    {
+      "name": "Lavasioth",
+      "key": "lavasioth",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-lavasioth_icon.png",
+      "sever": [
+        {
+          "damagetype": "55 (Head Heated)"
+        },
+        {
+          "damagetype": "50 (Back Heated)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "60 (Head Heated)"
+        },
+        {
+          "damagetype": "45 (Back Heated)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "55 (Head Heated)"
+        },
+        {
+          "damagetype": "50 (Back Heated)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water 45 (Head Heated)"
+        },
+        {
+          "damagetype": "Water 35 (Back Heated)"
+        },
+        {
+          "damagetype": "Water 35 (Head Wounded)"
+        }
+      ]
+    },
+    {
+      "name": "Legiana",
+      "key": "legiana",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-legiana_icon.png",
+      "sever": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "50 (Foreleg/Wing)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "45 (Foreleg/Wing)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "60 (Head)"
+        },
+        {
+          "damagetype": "45 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 25 (Head)"
+        },
+        {
+          "damagetype": "Fire 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Lunastra",
+      "key": "lunastra",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-lunastra_icon.png",
+      "sever": [
+        {
+          "damagetype": "45 (Tail)"
+        },
+        {
+          "damagetype": "55 (Wings)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "60 (Head)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "55 (Tail)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": " (Shot) (Blunt) Ice 30 (Head)"
+        },
+        {
+          "damagetype": " (Sever)Ice 25 (Wing)"
+        },
+        {
+          "damagetype": " (Sever) (Shot) Ice 20 (Tail)"
+        }
+      ]
+    },
+    {
+      "name": "Nergigante",
+      "key": "nergigante",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-nergigante_icon.png",
+      "sever": [
+        {
+          "damagetype": "60 (Tail)"
+        },
+        {
+          "damagetype": "75 (Head White)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "60 (Head)"
+        },
+        {
+          "damagetype": "90 (Head White)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "40 (Head/Forearm)"
+        },
+        {
+          "damagetype": "70 (Head White)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 15 (Head White)"
+        },
+        {
+          "damagetype": "Thunder 20 (Black Spike) It SUCK"
+        }
+      ]
+    },
+    {
+      "name": "Odogaron",
+      "key": "odogaron",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-odogaron_icon.png",
+      "sever": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "55 (Foreleg)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "75 (Head)"
+        },
+        {
+          "damagetype": "50 (Foreleg)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "45 (Foreleg)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Ice 30 (Head)"
+        },
+        {
+          "damagetype": "Thunder 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Paolumu",
+      "key": "paolumu",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-paolumu_icon.png",
+      "sever": [
+        {
+          "damagetype": "55 (Head)"
+        },
+        {
+          "damagetype": "75 (Neck Pouch)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "55 (Head)"
+        },
+        {
+          "damagetype": "75 (Neck Pouch)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "45 (Head/Wing)"
+        },
+        {
+          "damagetype": "60 (Neck Pouch)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Fire 25 (Head)"
+        },
+        {
+          "damagetype": "Fire 25 (Neck Pouch)"
+        }
+      ]
+    },
+    {
+      "name": "Pink Rathian",
+      "key": "pink_rathian",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-pink_rathian_icon.png",
+      "sever": [
+        {
+          "damagetype": "60 (Head)"
+        },
+        {
+          "damagetype": "50 (Tail Tip/Wing)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "45 (Tail Tip/Wing)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "55 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Dragon 30 (Head)"
+        },
+        {
+          "damagetype": "Thunder 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Pukei",
+      "key": "pukei",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-pukei_icon.png",
+      "sever": [
+        {
+          "damagetype": "75 (Head)"
+        },
+        {
+          "damagetype": "80 (Tongue)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "80 (Head)"
+        },
+        {
+          "damagetype": "80 (Tongue)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "75 (Tongue)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder 30 (Head)"
+        },
+        {
+          "damagetype": "Ice 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Radobaan",
+      "key": "radobaan",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-radobaan_icon.png",
+      "sever": [
+        {
+          "damagetype": "80 (Head)"
+        },
+        {
+          "damagetype": "55 (Hindleg)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "90 (Head)"
+        },
+        {
+          "damagetype": "50 (Body)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "50 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Dragon 30 (Head)"
+        },
+        {
+          "damagetype": "All Element 20 (Head)"
+        },
+        {
+          "damagetype": " (Blunt) (Sever) Dragon 20 (Body)"
+        }
+      ]
+    },
+    {
+      "name": "Rathalos",
+      "key": "rathalos",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-rathalos_icon.png",
+      "sever": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "50 (Wing)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "45 (Wing)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "60 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Dragon 30 (Head)"
+        },
+        {
+          "damagetype": "Thunder 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Rathian",
+      "key": "rathian",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-rathian_icon.png",
+      "sever": [
+        {
+          "damagetype": "70 (Head)"
+        },
+        {
+          "damagetype": "55 (Wing)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "75 (Head)"
+        },
+        {
+          "damagetype": "50 (Wing)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "45 (Wing)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Dragon 30 (Head)"
+        },
+        {
+          "damagetype": "Thunder 20 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Teostra",
+      "key": "teostra",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-teostra_icon.png",
+      "sever": [
+        {
+          "damagetype": "55 (Head)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "60 (Head)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "50 (Head)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water 30 (Head)"
+        }
+      ]
+    },
+    {
+      "name": "Tobi Kadachi",
+      "key": "tobi_kadachi",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-tobi_kadachi_icon.png",
+      "sever": [
+        {
+          "damagetype": "80 (Tail)"
+        },
+        {
+          "damagetype": "60 (Head/Neck)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "80 (Tail)"
+        },
+        {
+          "damagetype": "60 (Head)/Neck"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "70 (Tail)"
+        },
+        {
+          "damagetype": "60 (Back)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water 30 (Tail)"
+        },
+        {
+          "damagetype": "Fire/Ice 20 (Tail)"
+        }
+      ]
+    },
+    {
+      "name": "Tzi=tzi Ya Ku",
+      "key": "tzi=tzi_ya_ku",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-tzi=tzi_ya_ku_icon.png",
+      "sever": [
+        {
+          "damagetype": "65 (Head)"
+        },
+        {
+          "damagetype": "75 (Antennae)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "60 (Forearm/Body)"
+        },
+        {
+          "damagetype": "65 (Antennae)/55 (Head) "
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "55 (Head)"
+        },
+        {
+          "damagetype": "70 (Antennae)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Thunder/Ice 20 (Head/Antennae)"
+        }
+      ]
+    },
+    {
+      "name": "Uragaan",
+      "key": "uragaan",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-uragaan_icon.png",
+      "sever": [
+        {
+          "damagetype": "50 (Body)"
+        },
+        {
+          "damagetype": "70 (Head)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "45 (Body)"
+        },
+        {
+          "damagetype": "80 (Head)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "50 (Head)"
+        },
+        {
+          "damagetype": "45 (Body)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water/Dragon 30 (Body)"
+        },
+        {
+          "damagetype": "Water/Dragon 20 (Head)"
+        },
+        {
+          "damagetype": "Water 40 (Jaw)"
+        }
+      ]
+    },
+    {
+      "name": "Vaal Hazak",
+      "key": "vaal_hazak",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-vaal_hazak_icon.png",
+      "sever": [
+        {
+          "damagetype": "70 (Neck)"
+        },
+        {
+          "damagetype": "60 (Tail Tip)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "80 (Neck)"
+        },
+        {
+          "damagetype": "45 (Chest)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "60 (Neck)"
+        },
+        {
+          "damagetype": "50 (Head/Tail Tip)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Fire/Dragon 25 (Neck)"
+        },
+        {
+          "damagetype": " (Shot) (Sever) Fire 25 (Head)"
+        },
+        {
+          "damagetype": " (Shot) (Sever) Fire 20 (Tail Tip)"
+        }
+      ]
+    },
+    {
+      "name": "Xeno'jiiva",
+      "key": "xeno'jiiva",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-xeno'jiiva_icon.png",
+      "sever": [
+        {
+          "damagetype": "50 (Foreleg)/70 (Head/Tail Tip)"
+        },
+        {
+          "damagetype": "100 (Chest & Wing Crit State)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "50 (Foreleg)/70 (Head/Tail Tip)"
+        },
+        {
+          "damagetype": "100 (Head Crit State)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "55 (Head)"
+        },
+        {
+          "damagetype": "70 (Chest Crit State)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Fire/Dragon 20 (Head/Foreleg)"
+        },
+        {
+          "damagetype": "Water/Thunder/Ice 30 (Chest Crit State)"
+        }
+      ]
+    },
+    {
+      "name": "Zorah Magdaros",
+      "key": "zorah_magdaros",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/mhw-zorah_magdaros_icon.png",
+      "sever": [
+        {
+          "damagetype": "95 (Exhaust Organ)"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "95 (Exhaust Organ)"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "90 (Exhaust Organ)"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Water/Dragon 20 (Exhaust Organ)"
+        }
+      ]
+    },
+    {
+      "name": "Training Pole",
+      "key": "training_pole",
+      "image": "https://raw.githubusercontent.com/MichaelElyafi/Databases/master/MonsterHunterWorld/MHWIcons/default.png",
+      "sever": [
+        {
+          "damagetype": "80"
+        },
+        {
+          "damagetype": "80"
+        }
+      ],
+      "blunt": [
+        {
+          "damagetype": "80"
+        },
+        {
+          "damagetype": "80"
+        }
+      ],
+      "shot": [
+        {
+          "damagetype": "80"
+        },
+        {
+          "damagetype": "80"
+        }
+      ],
+      "element": [
+        {
+          "damagetype": "Every Element 30"
+        }
+      ]
+    }
+  ]
+}

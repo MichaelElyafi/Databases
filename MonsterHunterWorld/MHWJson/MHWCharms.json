@@ -1,0 +1,7956 @@
+﻿{
+  "Charm": [
+    {
+      "name": "Poison Charm",
+      "ranks": [
+        {
+          "name": "Poison Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Poison Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Pukei-Pukei Sac"
+              },
+              {
+                "quantity": 2,
+                "name": "Pukei-Pukei Tail"
+              },
+              {
+                "quantity": 4,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Poison Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Poison Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Pukei-Pukei Sac+"
+              },
+              {
+                "quantity": 2,
+                "name": "Pukei-Pukei Wing"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Poison Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Poison Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathalos Ruby"
+              },
+              {
+                "quantity": 2,
+                "name": "Rathalos Wing"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Attack Charm",
+      "ranks": [
+        {
+          "name": "Attack Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Attack Boost",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 4,
+                "name": "Sturdy Bone"
+              },
+              {
+                "quantity": 4,
+                "name": "Boulder Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Attack Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Attack Boost",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Attack Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Attack Boost",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Elder Dragon Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Defense Charm",
+      "ranks": [
+        {
+          "name": "Defense Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Defense Boost",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 4,
+                "name": "Dragonite Ore"
+              },
+              {
+                "quantity": 4,
+                "name": "Machalite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Defense Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Defense Boost",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 6,
+                "name": "Carbalite Ore"
+              },
+              {
+                "quantity": 8,
+                "name": "Dragonite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Defense Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Defense Boost",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 6,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 8,
+                "name": "Carbalite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Paralysis Charm",
+      "ranks": [
+        {
+          "name": "Paralysis Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Paralysis Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Great Girros Hood"
+              },
+              {
+                "quantity": 2,
+                "name": "Great Girros Fang"
+              },
+              {
+                "quantity": 6,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Paralysis Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Paralysis Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Great Girros Hood+"
+              },
+              {
+                "quantity": 4,
+                "name": "Omniplegia Sac"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Paralysis Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Paralysis Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sleep Charm",
+      "ranks": [
+        {
+          "name": "Sleep Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Sleep Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Marrow"
+              },
+              {
+                "quantity": 2,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sleep Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Sleep Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Medulla"
+              },
+              {
+                "quantity": 3,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sleep Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Sleep Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Uragaan Ruby"
+              },
+              {
+                "quantity": 2,
+                "name": "Uragaan Jaw"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stun Charm",
+      "ranks": [
+        {
+          "name": "Stun Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Stun Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Tzitzi-Ya-Ku Photophore"
+              },
+              {
+                "quantity": 2,
+                "name": "Tzitzi-Ya-Ku Claw"
+              },
+              {
+                "quantity": 4,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Stun Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Stun Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Tzitzi-Ya-Ku Photophore+"
+              },
+              {
+                "quantity": 2,
+                "name": "Tzitzi-Ya-Ku Claw+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Stun Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Stun Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Black Spiral Horn+"
+              },
+              {
+                "quantity": 2,
+                "name": "Black Diablos Ridge+"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Windproof Charm",
+      "ranks": [
+        {
+          "name": "Windproof Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Windproof",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Paolumu Webbing"
+              },
+              {
+                "quantity": 5,
+                "name": "Paolumu Shell"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Windproof Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Windproof",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Paolumu Wing"
+              },
+              {
+                "quantity": 2,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Windproof Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Windproof",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Azure Rathalos Wing"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathalos Ruby"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Health Charm",
+      "ranks": [
+        {
+          "name": "Health Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Health Boost",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathian Plate"
+              },
+              {
+                "quantity": 3,
+                "name": "Rathian Webbing"
+              },
+              {
+                "quantity": 3,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Health Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Health Boost",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathian Ruby"
+              },
+              {
+                "quantity": 2,
+                "name": "Rathian Spike"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Health Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Health Boost",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Talon"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Recovery Charm",
+      "ranks": [
+        {
+          "name": "Recovery Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Recovery Up",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathian Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Rathian Spike"
+              },
+              {
+                "quantity": 3,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Recovery Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Recovery Up",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Pink Rathian Carapace"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathian Spike+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Recovery Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Recovery Up",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Talon"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fire Charm",
+      "ranks": [
+        {
+          "name": "Fire Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Fire Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Anjanath Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Anjanath Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Fire Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Fire Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Anjanath Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Anjanath Fang+"
+              },
+              {
+                "quantity": 4,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Fire Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Fire Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathalos Ruby"
+              },
+              {
+                "quantity": 3,
+                "name": "Inferno Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Water Charm",
+      "ranks": [
+        {
+          "name": "Water Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Water Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Jyuratodus Fin"
+              },
+              {
+                "quantity": 3,
+                "name": "Jyuratodus Fang"
+              },
+              {
+                "quantity": 6,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Water Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Water Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Jyuratodus Fin+"
+              },
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fang+"
+              },
+              {
+                "quantity": 4,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Water Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Water Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Torrent Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thunder Charm",
+      "ranks": [
+        {
+          "name": "Thunder Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Thunder Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Tobi-Kadachi Electrode"
+              },
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Claw"
+              },
+              {
+                "quantity": 6,
+                "name": "Ancient Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Thunder Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Thunder Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Tobi-Kadachi Electrode+"
+              },
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Claw+"
+              },
+              {
+                "quantity": 4,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Thunder Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Thunder Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Thunder Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blaze Charm",
+      "ranks": [
+        {
+          "name": "Blaze Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Fire Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Anjanath Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Anjanath Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blaze Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Fire Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Lavasioth Fin+"
+              },
+              {
+                "quantity": 2,
+                "name": "Lavasioth Fang+"
+              },
+              {
+                "quantity": 6,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blaze Charm 3",
+          "level": 3,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Fire Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 3,
+                "name": "Inferno Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Flood Charm",
+      "ranks": [
+        {
+          "name": "Flood Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Water Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fin"
+              },
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Flood Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Water Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Jyuratodus Fin+"
+              },
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fang+"
+              },
+              {
+                "quantity": 6,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Flood Charm 3",
+          "level": 3,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Water Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 3,
+                "name": "Torrent Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shock Charm",
+      "ranks": [
+        {
+          "name": "Shock Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Thunder Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Electrode"
+              },
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Claw"
+              },
+              {
+                "quantity": 4,
+                "name": "Ancient Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Shock Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Thunder Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Electrode+"
+              },
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Claw+"
+              },
+              {
+                "quantity": 6,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Shock Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Thunder Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Kirin Azure Horn"
+              },
+              {
+                "quantity": 2,
+                "name": "Kirin Thundertail"
+              },
+              {
+                "quantity": 3,
+                "name": "Thunder Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Venom Charm",
+      "ranks": [
+        {
+          "name": "Venom Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Poison Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathian Plate"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathian Spike"
+              },
+              {
+                "quantity": 3,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Venom Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Poison Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Pink Rathian Carapace"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathian Spike+"
+              },
+              {
+                "quantity": 4,
+                "name": "Carbalite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Venom Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Poison Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathian Ruby"
+              },
+              {
+                "quantity": 3,
+                "name": "Toxin Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Immobilize Charm",
+      "ranks": [
+        {
+          "name": "Immobilize Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Paralysis Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Great Girros Hood"
+              },
+              {
+                "quantity": 2,
+                "name": "Great Girros Fang"
+              },
+              {
+                "quantity": 4,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Immobilize Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Paralysis Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Great Girros Hood+"
+              },
+              {
+                "quantity": 2,
+                "name": "Great Girros Fang+"
+              },
+              {
+                "quantity": 4,
+                "name": "Carbalite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Immobilize Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Paralysis Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Omniplegia Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tranq Charm",
+      "ranks": [
+        {
+          "name": "Tranq Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Sleep Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Marrow"
+              },
+              {
+                "quantity": 2,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tranq Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Sleep Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Medulla"
+              },
+              {
+                "quantity": 3,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 4,
+                "name": "Carbalite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tranq Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Sleep Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Coma Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "KO Charm",
+      "ranks": [
+        {
+          "name": "KO Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Slugger",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Marrow"
+              },
+              {
+                "quantity": 2,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "KO Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Slugger",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Medulla"
+              },
+              {
+                "quantity": 3,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 6,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "KO Charm 3",
+          "level": 3,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Slugger",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enervate Charm",
+      "ranks": [
+        {
+          "name": "Enervate Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Stamina Thief",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Barroth Scalp"
+              },
+              {
+                "quantity": 2,
+                "name": "Barroth Claw"
+              },
+              {
+                "quantity": 3,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Enervate Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Stamina Thief",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Barroth Scalp"
+              },
+              {
+                "quantity": 2,
+                "name": "Barroth Claw+"
+              },
+              {
+                "quantity": 6,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Enervate Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Stamina Thief",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Blos Medulla"
+              },
+              {
+                "quantity": 3,
+                "name": "Diablos Fang"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Artillery Charm",
+      "ranks": [
+        {
+          "name": "Artillery Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Artillery",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Anjanath Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Anjanath Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Artillery Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Artillery",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Anjanath Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Anjanath Fang+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Artillery Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Artillery",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hungerless Charm",
+      "ranks": [
+        {
+          "name": "Hungerless Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Hunger Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Girros Fang"
+              },
+              {
+                "quantity": 4,
+                "name": "Girros Hide"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Hungerless Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Hunger Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 6,
+                "name": "Jagras Hide+"
+              },
+              {
+                "quantity": 8,
+                "name": "Jagras Scale+"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Hungerless Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Hunger Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ironside Charm",
+      "ranks": [
+        {
+          "name": "Ironside Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Guard",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Marrow"
+              },
+              {
+                "quantity": 2,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ironside Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Guard",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Medulla"
+              },
+              {
+                "quantity": 3,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ironside Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Guard",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Friendship Charm",
+      "ranks": [
+        {
+          "name": "Friendship Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Wide-Range",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Tzitzi-Ya-Ku Photophore"
+              },
+              {
+                "quantity": 2,
+                "name": "Tzitzi-Ya-Ku Claw"
+              },
+              {
+                "quantity": 4,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Friendship Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Wide-Range",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Tzitzi-Ya-Ku Photophore+"
+              },
+              {
+                "quantity": 2,
+                "name": "Tzitzi-Ya-Ku Claw+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Friendship Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Wide-Range",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Elder Dragon Blood"
+              },
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Extension Charm",
+      "ranks": [
+        {
+          "name": "Extension Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Item Prolonger",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Kulu-Ya-Ku Beak"
+              },
+              {
+                "quantity": 2,
+                "name": "Kulu-Ya-Ku Plume"
+              },
+              {
+                "quantity": 4,
+                "name": "Ancient Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Extension Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Item Prolonger",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Pink Rathian Carapace"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathian Spike+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Extension Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Item Prolonger",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Daora Tail"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glutton's Charm",
+      "ranks": [
+        {
+          "name": "Glutton's Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Speed Eating",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Great Jagras Mane"
+              },
+              {
+                "quantity": 2,
+                "name": "Great Jagras Claw"
+              },
+              {
+                "quantity": 4,
+                "name": "Ancient Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Glutton's Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Speed Eating",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Anjanath Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Anjanath Fang+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Glutton's Charm 3",
+          "level": 3,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Speed Eating",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Talon"
+              },
+              {
+                "quantity": 2,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blessing Charm",
+      "ranks": [
+        {
+          "name": "Blessing Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Divine Blessing",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Paolumu Webbing"
+              },
+              {
+                "quantity": 3,
+                "name": "Paolumu Pelt"
+              },
+              {
+                "quantity": 4,
+                "name": "Coral Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blessing Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Divine Blessing",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Paolumu Wing"
+              },
+              {
+                "quantity": 4,
+                "name": "Paolumu Pelt+"
+              },
+              {
+                "quantity": 6,
+                "name": "Sturdy Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blessing Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Divine Blessing",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rally Charm",
+      "ranks": [
+        {
+          "name": "Rally Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Palico Rally",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Tailraider Voucher"
+              },
+              {
+                "quantity": 1,
+                "name": "Sinister Cloth"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Rally Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Palico Rally",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Tailraider Voucher"
+              },
+              {
+                "quantity": 2,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 6,
+                "name": "Sturdy Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Rally Charm 3",
+          "level": 3,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Palico Rally",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Tailraider Voucher"
+              },
+              {
+                "quantity": 2,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 2,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Botany Charm",
+      "ranks": [
+        {
+          "name": "Botany Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Botanist",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Ancient Bone"
+              },
+              {
+                "quantity": 3,
+                "name": "Boulder Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Botany Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Botanist",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 6,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Botany Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Botanist",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 2,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Geology Charm",
+      "ranks": [
+        {
+          "name": "Geology Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Geologist",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 4,
+                "name": "Dragonite Ore"
+              },
+              {
+                "quantity": 4,
+                "name": "Machalite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Geology Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Geologist",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 6,
+                "name": "Carbalite Ore"
+              },
+              {
+                "quantity": 8,
+                "name": "Dragonite Ore"
+              },
+              {
+                "quantity": 2,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Geology Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Geologist",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Slinger Charm",
+      "ranks": [
+        {
+          "name": "Slinger Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Slinger Capacity",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Marrow"
+              },
+              {
+                "quantity": 2,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Slinger Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Slinger Capacity",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Medulla"
+              },
+              {
+                "quantity": 3,
+                "name": "Radobaan Oilshell"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Slinger Charm 3",
+          "level": 3,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Slinger Capacity",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Bird Wyvern Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stealth Charm",
+      "ranks": [
+        {
+          "name": "Stealth Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Stealth",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Great Jagras Mane"
+              },
+              {
+                "quantity": 2,
+                "name": "Great Jagras Claw"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Stealth Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Stealth",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Lavasioth Fin+"
+              },
+              {
+                "quantity": 2,
+                "name": "Lavasioth Fang+"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Stealth Charm 3",
+          "level": 3,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Stealth",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Bird Wyvern Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Smoke Charm",
+      "ranks": [
+        {
+          "name": "Smoke Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Sporepuff Expert",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Pukei-Pukei Sac"
+              },
+              {
+                "quantity": 2,
+                "name": "Pukei-Pukei Tail"
+              },
+              {
+                "quantity": 2,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Smoke Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Sporepuff Expert",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Commendation"
+              },
+              {
+                "quantity": 6,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Smoke Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Sporepuff Expert",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Bird Wyvern Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mirewalker Charm",
+      "ranks": [
+        {
+          "name": "Mirewalker Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Aquatic Expert",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fin"
+              },
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fang"
+              },
+              {
+                "quantity": 4,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mirewalker Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Aquatic Expert",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Jyuratodus Fin+"
+              },
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fang+"
+              },
+              {
+                "quantity": 6,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mirewalker Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Aquatic Expert",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Commendation"
+              },
+              {
+                "quantity": 6,
+                "name": "Coral Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Insect Charm",
+      "ranks": [
+        {
+          "name": "Insect Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Entomologist",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Vespoid Wing"
+              },
+              {
+                "quantity": 2,
+                "name": "Vespoid Shell"
+              },
+              {
+                "quantity": 4,
+                "name": "Ancient Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Insect Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Entomologist",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 4,
+                "name": "Vespoid Innerwing"
+              },
+              {
+                "quantity": 6,
+                "name": "Vespoid Carapace"
+              },
+              {
+                "quantity": 2,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Insect Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Entomologist",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Commendation"
+              },
+              {
+                "quantity": 2,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intimidator Charm",
+      "ranks": [
+        {
+          "name": "Intimidator Charm 1",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Intimidator",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Great Girros Hood"
+              },
+              {
+                "quantity": 2,
+                "name": "Great Girros Fang"
+              },
+              {
+                "quantity": 4,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Intimidator Charm 2",
+          "level": 2,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Intimidator",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Great Jagras Mane"
+              },
+              {
+                "quantity": 2,
+                "name": "Great Jagras Claw+"
+              },
+              {
+                "quantity": 6,
+                "name": "Boulder Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Intimidator Charm 3",
+          "level": 3,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Intimidator",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathalos Ruby"
+              },
+              {
+                "quantity": 2,
+                "name": "Rathalos Wing"
+              },
+              {
+                "quantity": 4,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Heavy Artillery Charm",
+      "ranks": [
+        {
+          "name": "Heavy Artillery Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Heavy Artillery",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 4,
+                "name": "Dragonite Ore"
+              },
+              {
+                "quantity": 3,
+                "name": "Tzitzi-Ya-Ku Claw"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Heavy Artillery Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Heavy Artillery",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Zorah Magdaros Magma"
+              },
+              {
+                "quantity": 1,
+                "name": "Zorah Magdaros Pleura"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Light Eater's Charm",
+      "ranks": [
+        {
+          "name": "Light Eater's Charm",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Free Meal",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 4,
+                "name": "Hornetaur Head"
+              },
+              {
+                "quantity": 6,
+                "name": "Hornetaur Wing"
+              },
+              {
+                "quantity": 3,
+                "name": "Great Girros Fang"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tracker Charm",
+      "ranks": [
+        {
+          "name": "Tracker Charm",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Scenthound",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Anjanath Nosebone"
+              },
+              {
+                "quantity": 5,
+                "name": "Anjanath Pelt"
+              },
+              {
+                "quantity": 2,
+                "name": "Barroth Scalp"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fortification Charm",
+      "ranks": [
+        {
+          "name": "Fortification Charm",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Fortify",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Sinister Cloth"
+              },
+              {
+                "quantity": 3,
+                "name": "Anjanath Fang"
+              },
+              {
+                "quantity": 5,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Performer's Charm",
+      "ranks": [
+        {
+          "name": "Performer's Charm",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Horn Maestro",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Great Girros Hood"
+              },
+              {
+                "quantity": 5,
+                "name": "Pukei-Pukei Sac"
+              },
+              {
+                "quantity": 5,
+                "name": "Sturdy Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Capacity Charm",
+      "ranks": [
+        {
+          "name": "Capacity Charm",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Capacity Boost",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 8,
+                "name": "Dragonite Ore"
+              },
+              {
+                "quantity": 3,
+                "name": "Rath Wingtalon"
+              },
+              {
+                "quantity": 2,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bleed Charm",
+      "ranks": [
+        {
+          "name": "Bleed Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Bleeding Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Odogaron Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Odogaron Fang"
+              },
+              {
+                "quantity": 4,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Bleed Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Bleeding Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Odogaron Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Odogaron Claw+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Bleed Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Bleeding Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Speed Heal Charm",
+      "ranks": [
+        {
+          "name": "Speed Heal Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Recovery Speed",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Commendation"
+              },
+              {
+                "quantity": 3,
+                "name": "Sturdy Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Speed Heal Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Recovery Speed",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Lavasioth Fin+"
+              },
+              {
+                "quantity": 2,
+                "name": "Lavasioth Fang+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Speed Heal Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Recovery Speed",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Wing"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ice Charm",
+      "ranks": [
+        {
+          "name": "Ice Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Ice Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Legiana Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Legiana Claw"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ice Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Ice Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Legiana Claw+"
+              },
+              {
+                "quantity": 4,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ice Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Ice Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Legiana Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Freezer Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blight Charm",
+      "ranks": [
+        {
+          "name": "Blight Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Blight Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Kirin Thunderhorn"
+              },
+              {
+                "quantity": 2,
+                "name": "Kirin Mane"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blight Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Blight Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Kirin Azure Horn"
+              },
+              {
+                "quantity": 2,
+                "name": "Kirin Thundertail"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blight Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Blight Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Tail"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Frost Charm",
+      "ranks": [
+        {
+          "name": "Frost Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Ice Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Legiana Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Legiana Claw"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Frost Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Ice Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Legiana Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Legiana Claw+"
+              },
+              {
+                "quantity": 6,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Frost Charm 3",
+          "level": 3,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Ice Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Daora Tail"
+              },
+              {
+                "quantity": 3,
+                "name": "Freezer Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Master's Charm",
+      "ranks": [
+        {
+          "name": "Master's Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Critical Eye",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Odogaron Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Odogaron Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Master's Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Critical Eye",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Odogaron Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Odogaron Claw+"
+              },
+              {
+                "quantity": 3,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Master's Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Critical Eye",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Talon"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Evasion Charm",
+      "ranks": [
+        {
+          "name": "Evasion Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Evade Window",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Legiana Tail Webbing"
+              },
+              {
+                "quantity": 2,
+                "name": "Legiana Claw"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Evasion Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Evade Window",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Legiana Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Legiana Claw+"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Evasion Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Evade Window",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Daora Tail"
+              },
+              {
+                "quantity": 2,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sheath Charm",
+      "ranks": [
+        {
+          "name": "Sheath Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Quick Sheath",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Diablos Marrow"
+              },
+              {
+                "quantity": 2,
+                "name": "Diablos Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sheath Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Quick Sheath",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Lavasioth Fin+"
+              },
+              {
+                "quantity": 2,
+                "name": "Lavasioth Fang+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sheath Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Quick Sheath",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Bazelgeuse Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Horn"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Whetstone Charm",
+      "ranks": [
+        {
+          "name": "Whetstone Charm 1",
+          "level": 1,
+          "rarity": 4,
+          "skills": [
+            {
+              "skillname": "Speed Sharpening",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Odogaron Plate"
+              },
+              {
+                "quantity": 2,
+                "name": "Odogaron Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Warped Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Whetstone Charm 2",
+          "level": 2,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Speed Sharpening",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Odogaron Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Odogaron Claw+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Whetstone Charm 3",
+          "level": 3,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Speed Sharpening",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blast Charm",
+      "ranks": [
+        {
+          "name": "Blast Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Blast Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Dodogama Jaw"
+              },
+              {
+                "quantity": 2,
+                "name": "Dodogama Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blast Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Blast Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Bazelgeuse Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Bazelgeuse Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Blast Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Blast Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dragon Charm",
+      "ranks": [
+        {
+          "name": "Dragon Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Dragon Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 3,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dragon Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Dragon Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Uragaan Ruby"
+              },
+              {
+                "quantity": 1,
+                "name": "Uragaan Jaw"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dragon Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Dragon Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Elder Dragon Blood"
+              },
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wyrmsbane Charm",
+      "ranks": [
+        {
+          "name": "Wyrmsbane Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Dragon Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 3,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 2,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Wyrmsbane Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Dragon Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 4,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Wyrmsbane Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Dragon Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Claw"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Demolition Charm",
+      "ranks": [
+        {
+          "name": "Demolition Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Blast Attack",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Dodogama Jaw"
+              },
+              {
+                "quantity": 2,
+                "name": "Dodogama Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Demolition Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Blast Attack",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Bazelgeuse Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Bazelgeuse Talon"
+              },
+              {
+                "quantity": 4,
+                "name": "Carbalite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Demolition Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Blast Attack",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Xeno'jiiva Shell"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Draw Charm",
+      "ranks": [
+        {
+          "name": "Draw Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Critical Draw",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Diablos Marrow"
+              },
+              {
+                "quantity": 3,
+                "name": "Diablos Fang"
+              },
+              {
+                "quantity": 3,
+                "name": "Earth Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Draw Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Critical Draw",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Trickshot Charm",
+      "ranks": [
+        {
+          "name": "Trickshot Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Dungmaster",
+              "level": 1
+            },
+            {
+              "skillname": "Blindsider",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Barroth Claw+"
+              },
+              {
+                "quantity": 3,
+                "name": "Tzitzi-Ya-Ku Photophore+"
+              },
+              {
+                "quantity": 2,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 2,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marathon Charm",
+      "ranks": [
+        {
+          "name": "Marathon Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Marathon Runner",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Barroth Scalp"
+              },
+              {
+                "quantity": 2,
+                "name": "Barroth Claw+"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Marathon Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Marathon Runner",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Veil"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fitness Charm",
+      "ranks": [
+        {
+          "name": "Fitness Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Constitution",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Electrode+"
+              },
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Claw+"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Fitness Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Constitution",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Odogaron Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Odogaron Claw+"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Fitness Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Constitution",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Daora Claw+"
+              },
+              {
+                "quantity": 3,
+                "name": "Coral Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Surge Charm",
+      "ranks": [
+        {
+          "name": "Surge Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Stamina Surge",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Paolumu Wing"
+              },
+              {
+                "quantity": 3,
+                "name": "Paolumu Pelt+"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Surge Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Stamina Surge",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Leaping Charm",
+      "ranks": [
+        {
+          "name": "Leaping Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Evade Extender",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Electrode+"
+              },
+              {
+                "quantity": 2,
+                "name": "Tobi-Kadachi Claw+"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Leaping Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Evade Extender",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Daora Tail"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bombardier Charm",
+      "ranks": [
+        {
+          "name": "Bombardier Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Bombardier",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Dodogama Jaw"
+              },
+              {
+                "quantity": 2,
+                "name": "Dodogama Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Bombardier Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Bombardier",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Bazelgeuse Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Bazelgeuse Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Bombardier Charm 3",
+          "level": 3,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Bombardier",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mushroom Charm",
+      "ranks": [
+        {
+          "name": "Mushroom Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Mushroomancer",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Commendation"
+              },
+              {
+                "quantity": 5,
+                "name": "Mosswine Hide"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mushroom Charm 2",
+          "level": 2,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Mushroomancer",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Research Commission Ticket"
+              },
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Awakening Charm",
+      "ranks": [
+        {
+          "name": "Awakening Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Free Elem/Ammo Up",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Zorah Magdaros Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Zorah Magdaros Magma"
+              },
+              {
+                "quantity": 4,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Aquacore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Awakening Charm 2",
+          "level": 2,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Free Elem/Ammo Up",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Kirin Azure Horn"
+              },
+              {
+                "quantity": 1,
+                "name": "Kirin Thundertail"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Handicraft Charm",
+      "ranks": [
+        {
+          "name": "Handicraft Charm 1",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Handicraft",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Zorah Magdaros Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Zorah Magdaros Pleura"
+              },
+              {
+                "quantity": 4,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Handicraft Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Handicraft",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Daora Tail"
+              },
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Handicraft Charm 3",
+          "level": 3,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Handicraft",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Research Commission Ticket"
+              },
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Claw"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mud Puppy Charm",
+      "ranks": [
+        {
+          "name": "Mud Puppy Charm",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Muck Resistance",
+              "level": 1
+            },
+            {
+              "skillname": "Leap of Faith",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Jyuratodus Fang+"
+              },
+              {
+                "quantity": 3,
+                "name": "Tobi-Kadachi Electrode+"
+              },
+              {
+                "quantity": 5,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 2,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hunter's Life Charm",
+      "ranks": [
+        {
+          "name": "Hunter's Life Charm",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Master Fisher",
+              "level": 1
+            },
+            {
+              "skillname": "BBQ Master",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "High-quality Pelt"
+              },
+              {
+                "quantity": 5,
+                "name": "Warm Pelt"
+              },
+              {
+                "quantity": 5,
+                "name": "Piercing Claw"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Procurer's Charm",
+      "ranks": [
+        {
+          "name": "Procurer's Charm",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Pro Transporter",
+              "level": 1
+            },
+            {
+              "skillname": "Honey Hunter",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 5,
+                "name": "Kestodon Carapace"
+              },
+              {
+                "quantity": 5,
+                "name": "Kestodon Scalp"
+              },
+              {
+                "quantity": 5,
+                "name": "Vespoid Carapace"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gatherer's Charm",
+      "ranks": [
+        {
+          "name": "Gatherer's Charm",
+          "level": 1,
+          "rarity": 5,
+          "skills": [
+            {
+              "skillname": "Master Gatherer",
+              "level": 1
+            },
+            {
+              "skillname": "Carving Pro",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 5,
+                "name": "Mosswine Hide"
+              },
+              {
+                "quantity": 5,
+                "name": "Jagras Scale+"
+              },
+              {
+                "quantity": 5,
+                "name": "Jagras Hide+"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Guard Charm",
+      "ranks": [
+        {
+          "name": "Guard Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Iron Skin",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Barnos Talon"
+              },
+              {
+                "quantity": 3,
+                "name": "Barnos Hide+"
+              },
+              {
+                "quantity": 6,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Guard Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Iron Skin",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 6,
+                "name": "Dragonite Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Guard Charm 3",
+          "level": 3,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Iron Skin",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Elder Dragon Blood"
+              },
+              {
+                "quantity": 1,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 2,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earplugs Charm",
+      "ranks": [
+        {
+          "name": "Earplugs Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Earplugs",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Blos Medulla"
+              },
+              {
+                "quantity": 2,
+                "name": "Majestic Horn"
+              },
+              {
+                "quantity": 2,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Earplugs Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Earplugs",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Bazelgeuse Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Bazelgeuse Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Earplugs Charm 3",
+          "level": 3,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Earplugs",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tremor Charm",
+      "ranks": [
+        {
+          "name": "Tremor Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Tremor Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Blos Medulla"
+              },
+              {
+                "quantity": 2,
+                "name": "Diablos Ridge+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Tremor Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Tremor Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Exploiter Charm",
+      "ranks": [
+        {
+          "name": "Exploiter Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Weakness Exploit",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathalos Plate"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathalos Medulla"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Exploiter Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Weakness Exploit",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Focus Charm",
+      "ranks": [
+        {
+          "name": "Focus Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Focus",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Blos Medulla"
+              },
+              {
+                "quantity": 2,
+                "name": "Diablos Ridge+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Focus Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Focus",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Breaker Charm",
+      "ranks": [
+        {
+          "name": "Breaker Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Partbreaker",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Uragaan Marrow"
+              },
+              {
+                "quantity": 2,
+                "name": "Uragaan Jaw"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Breaker Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Partbreaker",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 6,
+                "name": "Xeno'jiiva Soulscale"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fury Charm",
+      "ranks": [
+        {
+          "name": "Fury Charm 1",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Resentment",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Black Spiral Horn+"
+              },
+              {
+                "quantity": 2,
+                "name": "Diablos Ridge+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Fury Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Resentment",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 6,
+                "name": "Xeno'jiiva Soulscale"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Grit Charm",
+      "ranks": [
+        {
+          "name": "Grit Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Heroics",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Blos Medulla"
+              },
+              {
+                "quantity": 2,
+                "name": "Diablos Ridge+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Grit Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Heroics",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Daora Tail"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Maintenance Charm",
+      "ranks": [
+        {
+          "name": "Maintenance Charm 1",
+          "level": 1,
+          "rarity": 6,
+          "skills": [
+            {
+              "skillname": "Tool Specialist",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "Pink Rathian Carapace"
+              },
+              {
+                "quantity": 2,
+                "name": "Rathian Spike"
+              },
+              {
+                "quantity": 3,
+                "name": "Brutal Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Spiritcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Maintenance Charm 2",
+          "level": 2,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Tool Specialist",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 2,
+                "name": "Quality Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Maintenance Charm 3",
+          "level": 3,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Tool Specialist",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Veil"
+              },
+              {
+                "quantity": 2,
+                "name": "Dragonvein Crystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Power Charm",
+      "ranks": [
+        {
+          "name": "Power Charm 1",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Latent Power",
+              "level": 1
+            },
+            {
+              "skillname": "Latent Power",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Mane"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Challenger Charm",
+      "ranks": [
+        {
+          "name": "Challenger Charm 1",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Agitator",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Challenger Charm 2",
+          "level": 2,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Agitator",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Unscathed Charm",
+      "ranks": [
+        {
+          "name": "Unscathed Charm 1",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Peak Performance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Fang+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Unscathed Charm 2",
+          "level": 2,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Peak Performance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 1,
+                "name": "Fucium Ore"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mighty Charm",
+      "ranks": [
+        {
+          "name": "Mighty Charm 1",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Maximum Might",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Nergigante Horn+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mighty Charm 2",
+          "level": 2,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Maximum Might",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Tail"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Impact Charm",
+      "ranks": [
+        {
+          "name": "Impact Charm 1",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Flinch Free",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Horn"
+              },
+              {
+                "quantity": 1,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Impact Charm 2",
+          "level": 2,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Flinch Free",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Xeno'jiiva Shell"
+              },
+              {
+                "quantity": 2,
+                "name": "Elder Dragon Bone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Miasma Charm",
+      "ranks": [
+        {
+          "name": "Miasma Charm 1",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Effluvia Resistance",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Fang+"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Miasma Charm 2",
+          "level": 2,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Effluvia Resistance",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 2,
+                "name": "Lightcrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Miasma Charm 3",
+          "level": 3,
+          "rarity": 9,
+          "skills": [
+            {
+              "skillname": "Effluvia Resistance",
+              "level": 3
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 3,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Wing"
+              },
+              {
+                "quantity": 3,
+                "name": "Dragonbone Relic"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Normal Shots Charm",
+      "ranks": [
+        {
+          "name": "Normal Shots Charm",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Normal Shots",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 2,
+                "name": "High Commendation"
+              },
+              {
+                "quantity": 1,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Bird Wyvern Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clearmind Charm",
+      "ranks": [
+        {
+          "name": "Clearmind Charm",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Effluvial Expert",
+              "level": 1
+            },
+            {
+              "skillname": "Heat Guard",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Teostra Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Vaal Hazak Carapace"
+              },
+              {
+                "quantity": 2,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rider's Charm",
+      "ranks": [
+        {
+          "name": "Rider's Charm",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Master Mounter",
+              "level": 1
+            },
+            {
+              "skillname": "Jump Master",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Daora Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Legiana Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Legiana Scale+"
+              },
+              {
+                "quantity": 2,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Surveyor's Charm",
+      "ranks": [
+        {
+          "name": "Surveyor's Charm",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Scoutfly Range Up",
+              "level": 1
+            },
+            {
+              "skillname": "Scholar",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 5,
+                "name": "Zorah Magdaros Heat Scale"
+              },
+              {
+                "quantity": 3,
+                "name": "Zorah Magdaros Magma"
+              },
+              {
+                "quantity": 2,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Critical Charm",
+      "ranks": [
+        {
+          "name": "Critical Charm 1",
+          "level": 1,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Critical Boost",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathalos Ruby"
+              },
+              {
+                "quantity": 1,
+                "name": "Rathian Ruby"
+              },
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Invigorate Charm",
+      "ranks": [
+        {
+          "name": "Invigorate Charm 1",
+          "level": 1,
+          "rarity": 7,
+          "skills": [
+            {
+              "skillname": "Power Prolonger",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Horn"
+              },
+              {
+                "quantity": 1,
+                "name": "Novacrystal"
+              },
+              {
+                "quantity": 1,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Invigorate Charm 2",
+          "level": 2,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Power Prolonger",
+              "level": 2
+            }
+          ],
+          "crafting": {
+            "craftable": false,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Xeno'jiiva Claw"
+              },
+              {
+                "quantity": 3,
+                "name": "Firecell Stone"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Penetration Charm",
+      "ranks": [
+        {
+          "name": "Penetration Charm",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Piercing Shots",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Research Commission Ticket"
+              },
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Xeno'jiiva Tail"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dispersal Charm",
+      "ranks": [
+        {
+          "name": "Dispersal Charm",
+          "level": 1,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Spread/Power Shots",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Research Commission Ticket"
+              },
+              {
+                "quantity": 1,
+                "name": "Nergigante Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Nergigante Tail"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Poison Coating Charm",
+      "ranks": [
+        {
+          "name": "Poison Coating Charm",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Poison Functionality",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Rathian Ruby"
+              },
+              {
+                "quantity": 3,
+                "name": "Rathian Spike+"
+              },
+              {
+                "quantity": 3,
+                "name": "Toxin Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Para Coating Charm",
+      "ranks": [
+        {
+          "name": "Para Coating Charm",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Para Functionality",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 5,
+                "name": "Great Girros Hood+"
+              },
+              {
+                "quantity": 5,
+                "name": "Great Girros Tail"
+              },
+              {
+                "quantity": 3,
+                "name": "Omniplegia Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sleep Coating Charm",
+      "ranks": [
+        {
+          "name": "Sleep Coating Charm",
+          "level": 1,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Sleep Functionality",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Radobaan Medulla"
+              },
+              {
+                "quantity": 2,
+                "name": "Wyvern Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Coma Sac"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blast Coating Charm",
+      "ranks": [
+        {
+          "name": "Blast Coating Charm",
+          "level": 1,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Blast Functionality",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Bazelgeuse Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Bazelgeuse Tail"
+              },
+              {
+                "quantity": 3,
+                "name": "Bazelgeuse Fuse"
+              },
+              {
+                "quantity": 1,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Geomancy Charm",
+      "ranks": [
+        {
+          "name": "Geomancy Charm",
+          "level": 1,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Forager's Luck",
+              "level": 1
+            },
+            {
+              "skillname": "Detector",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 3,
+                "name": "Xeno'jiiva Veil"
+              },
+              {
+                "quantity": 2,
+                "name": "Teostra Mane"
+              },
+              {
+                "quantity": 2,
+                "name": "Dreamcore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Gale Charm",
+      "ranks": [
+        {
+          "name": "Gale Charm",
+          "level": 1,
+          "rarity": 0,
+          "skills": [
+            {
+              "skillname": "Airborne",
+              "level": 1
+            },
+            {
+              "skillname": "Affinity Sliding",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Research Commission Ticket"
+              },
+              {
+                "quantity": 1,
+                "name": "Odogaron Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Legiana Gem"
+              },
+              {
+                "quantity": 2,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Wyrmslayer Charm",
+      "ranks": [
+        {
+          "name": "Wyrmslayer Charm",
+          "level": 1,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Dragon Attack",
+              "level": 1
+            },
+            {
+              "skillname": "Elderseal Boost",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Research Commission Ticket"
+              },
+              {
+                "quantity": 1,
+                "name": "Xeno'jiiva Gem"
+              },
+              {
+                "quantity": 1,
+                "name": "Vaal Hazak Talon"
+              },
+              {
+                "quantity": 2,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bulwark Charm",
+      "ranks": [
+        {
+          "name": "Bulwark Charm",
+          "level": 1,
+          "rarity": 8,
+          "skills": [
+            {
+              "skillname": "Resuscitate",
+              "level": 1
+            },
+            {
+              "skillname": "Guard Up",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": [
+              {
+                "quantity": 1,
+                "name": "Research Commission Ticket"
+              },
+              {
+                "quantity": 2,
+                "name": "Majestic Horn"
+              },
+              {
+                "quantity": 2,
+                "name": "Black Spiral Horn+"
+              },
+              {
+                "quantity": 2,
+                "name": "Dragoncore Ore"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fair Wind Charm",
+      "ranks": [
+        {
+          "name": "Fair Wind Charm",
+          "level": 1,
+          "rarity": 3,
+          "skills": [
+            {
+              "skillname": "Attack Boost",
+              "level": 1
+            },
+            {
+              "skillname": "Divine Blessing",
+              "level": 1
+            }
+          ],
+          "crafting": {
+            "craftable": true,
+            "materials": []
+          }
+        }
+      ]
+    }
+  ]
+}

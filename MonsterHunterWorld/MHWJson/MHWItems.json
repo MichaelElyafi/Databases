@@ -5,7 +5,7 @@
       "description": "Restores a small amount of health.",
       "rarity": 1,
       "value": 8,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -21,7 +21,7 @@
       "description": "Restores a moderate amount of health.",
       "rarity": 2,
       "value": 16,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -37,7 +37,7 @@
       "description": "Fully restores health and maximizes the size of your Health Gauge.",
       "rarity": 3,
       "value": 210,
-      "carryLimit": 2,
+      "carrylimit": 2,
       "drop": [
         {
           "type": "Craft",
@@ -53,7 +53,7 @@
       "description": "Fully restores health and maximizes the size of your Health and Stamina Gauges.",
       "rarity": 5,
       "value": 345,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": [
         {
           "type": "Craft",
@@ -76,7 +76,7 @@
       "description": "A cure for poison.",
       "rarity": 1,
       "value": 6,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -92,7 +92,7 @@
       "description": "Removes all traces of poison and restores a slight amount of health.",
       "rarity": 2,
       "value": 25,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -108,7 +108,7 @@
       "description": "A mysterious berry that cures various blights.",
       "rarity": 2,
       "value": 120,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -369,7 +369,7 @@
       "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
       "rarity": 2,
       "value": 6,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -385,7 +385,7 @@
       "description": "Food that restores a bit of stamina.",
       "rarity": 1,
       "value": 3,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -534,7 +534,7 @@
       "description": "Provides a moderate boost to your stamina. This one's still red in the middle.",
       "rarity": 1,
       "value": 3,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -550,7 +550,7 @@
       "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
       "rarity": 2,
       "value": 48,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -615,7 +615,7 @@
       "description": "Provides a small boost to your stamina. Can be eaten quickly.",
       "rarity": 1,
       "value": 1,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -631,7 +631,7 @@
       "description": "Provides temporary relief from extreme heat.",
       "rarity": 1,
       "value": 30,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -647,7 +647,7 @@
       "description": "Very slightly increases your maximum health level.",
       "rarity": 2,
       "value": 25,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -663,7 +663,7 @@
       "description": "Slightly increases your maximum health level.",
       "rarity": 3,
       "value": 92,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -679,7 +679,7 @@
       "description": "Boosts your natural ability to heal.",
       "rarity": 3,
       "value": 92,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -695,7 +695,7 @@
       "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
       "rarity": 2,
       "value": 20,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Buy",
@@ -711,7 +711,7 @@
       "description": "Dulls one's sense of exhaustion. Reduces stamina depletion for a time.",
       "rarity": 2,
       "value": 21,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -727,7 +727,7 @@
       "description": "Lets you dash without tiring for longer than regular dash juice does.",
       "rarity": 3,
       "value": 0,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -743,7 +743,7 @@
       "description": "Temporarily strengthens your attacks when ingested by improving energy flow.",
       "rarity": 2,
       "value": 140,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -927,7 +927,7 @@
       "description": "",
       "rarity": 4,
       "value": 67,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -943,7 +943,7 @@
       "description": "",
       "rarity": 5,
       "value": 283,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -959,7 +959,7 @@
       "description": "",
       "rarity": 4,
       "value": 290,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -975,7 +975,7 @@
       "description": "",
       "rarity": 2,
       "value": 110,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -1089,7 +1089,7 @@
       "description": "",
       "rarity": 4,
       "value": 58,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -1105,7 +1105,7 @@
       "description": "",
       "rarity": 5,
       "value": 269,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -1121,7 +1121,7 @@
       "description": "",
       "rarity": 4,
       "value": 290,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -1137,7 +1137,7 @@
       "description": "",
       "rarity": 4,
       "value": 315,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": [
         {
           "type": "Craft",
@@ -1153,7 +1153,7 @@
       "description": "",
       "rarity": 4,
       "value": 315,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": [
         {
           "type": "Craft",
@@ -1169,7 +1169,7 @@
       "description": "",
       "rarity": 4,
       "value": 315,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": [
         {
           "type": "Craft",
@@ -1185,7 +1185,7 @@
       "description": "A mysterious powder that produces a cloud around the Area that temporarily strengthens defense.",
       "rarity": 4,
       "value": 290,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -1201,7 +1201,7 @@
       "description": "Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.",
       "rarity": 2,
       "value": 45,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Assigned",
@@ -1735,7 +1735,7 @@
       "description": "A primary ingredient in potions.",
       "rarity": 1,
       "value": 2,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -2346,7 +2346,7 @@
       "description": "A primary ingredient in antidotes.",
       "rarity": 1,
       "value": 2,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -2509,7 +2509,7 @@
       "description": "A wondrous, flammable plant. Useful for crafting explosives.",
       "rarity": 2,
       "value": 4,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": [
         {
           "type": "Optional",
@@ -2665,7 +2665,7 @@
       "description": "This plant's leaves store a great amount of water. A component for making Water Ammo.",
       "rarity": 2,
       "value": 4,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": [
         {
           "type": "Low Rank",
@@ -2772,7 +2772,7 @@
       "description": "A plant that radiates ice-cold air. Use in combinations to create freeze ammo.",
       "rarity": 2,
       "value": 6,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": [
         {
           "type": "Optional",
@@ -2830,7 +2830,7 @@
       "description": "A plant containing sleeping agents. Used to craft tranquilizers.",
       "rarity": 1,
       "value": 5,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -2965,7 +2965,7 @@
       "description": "A lightweight and extremely strong plant. Used to make nets for pitfall traps.",
       "rarity": 1,
       "value": 8,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -3086,7 +3086,7 @@
       "description": "A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.",
       "rarity": 1,
       "value": 4,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -3179,7 +3179,7 @@
       "description": "A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo.",
       "rarity": 4,
       "value": 78,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -3335,7 +3335,7 @@
       "description": "A musoom infused with power-enhancing effects. Used in restorative items.",
       "rarity": 2,
       "value": 2,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Assigned",
@@ -3673,7 +3673,7 @@
       "description": "A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.",
       "rarity": 3,
       "value": 40,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Assigned",
@@ -3829,7 +3829,7 @@
       "description": "A hard-to-find musoom with the power to generate blazing heat. Required to craft Gunpowder.",
       "rarity": 2,
       "value": 6,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": [
         {
           "type": "Optional",
@@ -4055,7 +4055,7 @@
       "description": "A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.",
       "rarity": 2,
       "value": 60,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -4218,7 +4218,7 @@
       "description": "A musoom that induces paralysis. Required to craft Tranq Bombs.",
       "rarity": 3,
       "value": 15,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -4430,7 +4430,7 @@
       "description": "A poisonous fungus. Can be used as a toxin for knives.",
       "rarity": 2,
       "value": 8,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Assigned",
@@ -4600,7 +4600,7 @@
       "description": "This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.",
       "rarity": 3,
       "value": 18,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -4707,7 +4707,7 @@
       "description": "This musoom is a primary ingredient in cool drinks.",
       "rarity": 3,
       "value": 18,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -4779,7 +4779,7 @@
       "description": "A sharp-tasting bug with innate healing abilities. Used as an ingredient in many medicines.",
       "rarity": 1,
       "value": 2,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Assigned",
@@ -5208,7 +5208,7 @@
       "description": "An insect that emits a powerful flash when it dies. Required to craft Flash Pods.",
       "rarity": 2,
       "value": 48,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -5406,7 +5406,7 @@
       "description": "An insect said to live a millennium. Combine it with other items to add their properties to the powder.",
       "rarity": 4,
       "value": 210,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -5688,7 +5688,7 @@
       "description": "An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.",
       "rarity": 4,
       "value": 150,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -6012,7 +6012,7 @@
       "description": "An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet.",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -6196,7 +6196,7 @@
       "description": "While not practical for forging purposes, Kelbi horns are a vital component of many items.",
       "rarity": 4,
       "value": 52,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -6233,7 +6233,7 @@
       "description": "A mysterious substance culled from certain monsters that increases endurance.",
       "rarity": 4,
       "value": 56,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": [
         {
           "type": "Optional",
@@ -6354,7 +6354,7 @@
       "description": "Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.",
       "rarity": 4,
       "value": 0,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": [
         {
           "type": "Optional",
@@ -6475,7 +6475,7 @@
       "description": "A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.",
       "rarity": 4,
       "value": 15,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -6512,7 +6512,7 @@
       "description": "Works with other materials to enhance their effects. Cannot be used by itself.",
       "rarity": 2,
       "value": 48,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -6528,7 +6528,7 @@
       "description": "A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.",
       "rarity": 4,
       "value": 35,
-      "carryLimit": 8,
+      "carrylimit": 8,
       "drop": [
         {
           "type": "Craft",
@@ -6544,7 +6544,7 @@
       "description": "Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.",
       "rarity": 2,
       "value": 57,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": [
         {
           "type": "Craft",
@@ -6560,7 +6560,7 @@
       "description": "Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters.",
       "rarity": 2,
       "value": 0,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": [
         {
           "type": "Craft",
@@ -6576,7 +6576,7 @@
       "description": "Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.",
       "rarity": 2,
       "value": 20,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -6599,7 +6599,7 @@
       "description": "Creates a large cloud of smoke wherever it lands.",
       "rarity": 2,
       "value": 44,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": [
         {
           "type": "Craft",
@@ -6615,7 +6615,7 @@
       "description": "Releases a toxic cloud of mist when used. Also popular as a household bug bomb.",
       "rarity": 2,
       "value": 60,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -6631,7 +6631,7 @@
       "description": "Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.",
       "rarity": 3,
       "value": 30,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": [
         {
           "type": "Craft",
@@ -6647,7 +6647,7 @@
       "description": "Meat carved from a monster. Can be cooked, combined, or used to set a trap.",
       "rarity": 1,
       "value": 5,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -6761,7 +6761,7 @@
       "description": "Raw meat that poisons whatever eats it. Makes great bait for traps.",
       "rarity": 1,
       "value": 19,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -6777,7 +6777,7 @@
       "description": "Raw meat that paralyzes whatever eats it. Makes great bait for traps.",
       "rarity": 2,
       "value": 30,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -6793,7 +6793,7 @@
       "description": "Raw meat that puts whatever eats it to sleep. Makes great bait for traps.",
       "rarity": 1,
       "value": 32,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -6809,7 +6809,7 @@
       "description": "A dangerous substance that explodes when struct or heated.",
       "rarity": 2,
       "value": 45,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": [
         {
           "type": "Craft",
@@ -6825,7 +6825,7 @@
       "description": "",
       "rarity": 1,
       "value": 8,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -6855,7 +6855,7 @@
       "description": "",
       "rarity": 2,
       "value": 16,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -6871,7 +6871,7 @@
       "description": "",
       "rarity": 2,
       "value": 18,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -6887,7 +6887,7 @@
       "description": "",
       "rarity": 4,
       "value": 68,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Craft",
@@ -6903,7 +6903,7 @@
       "description": "A large, empty barrel. Combine with gunpowser to make it into a bomb.",
       "rarity": 2,
       "value": 21,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -6996,7 +6996,7 @@
       "description": "",
       "rarity": 3,
       "value": 52,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": [
         {
           "type": "Optional",
@@ -7194,7 +7194,7 @@
       "description": "An upgraded large barrel bomb. Effective against large monsters.",
       "rarity": 4,
       "value": 80,
-      "carryLimit": 2,
+      "carrylimit": 2,
       "drop": [
         {
           "type": "Optional",
@@ -7259,7 +7259,7 @@
       "description": "A very sticky web. Used to craft pitfall traps.",
       "rarity": 1,
       "value": 6,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -7422,7 +7422,7 @@
       "description": "A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.",
       "rarity": 2,
       "value": 54,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Craft",
@@ -7438,7 +7438,7 @@
       "description": "A must-have item for putting together pitfall traps and other kinds of traps.",
       "rarity": 3,
       "value": 20,
-      "carryLimit": 2,
+      "carrylimit": 2,
       "drop": [
         {
           "type": "Optional",
@@ -7531,7 +7531,7 @@
       "description": "A trap for catching certain large monsters. It is tripped by a heavy weight.",
       "rarity": 3,
       "value": 46,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": [
         {
           "type": "Craft",
@@ -7547,7 +7547,7 @@
       "description": "A trap that immobilizes a target. Use it to capture monsters.",
       "rarity": 3,
       "value": 160,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": [
         {
           "type": "Craft",
@@ -7563,7 +7563,7 @@
       "description": "A ball of condensed monster dung. Used to make dung pods for your slinger.",
       "rarity": 1,
       "value": 10,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": []
     },
     {
@@ -7571,7 +7571,7 @@
       "description": "Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.",
       "rarity": 1,
       "value": 1,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": []
     },
     {
@@ -7579,7 +7579,7 @@
       "description": "A ball of bait favored by fish of the Arowana family.",
       "rarity": 2,
       "value": 2,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -7587,7 +7587,7 @@
       "description": "A ball of bait favored by fish of the Gunpowderfish family.",
       "rarity": 2,
       "value": 7,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -7595,7 +7595,7 @@
       "description": "A ball of bait favored by fish of the Goldenfish family.",
       "rarity": 4,
       "value": 30,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -7603,7 +7603,7 @@
       "description": "An unusually-shaped weapon from abroad that returns to its user when town.",
       "rarity": 4,
       "value": 15,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -7611,7 +7611,7 @@
       "description": "Allows you to see farther and observe from a distance.",
       "rarity": 1,
       "value": 5,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": []
     },
     {
@@ -7619,7 +7619,7 @@
       "description": "An amulet that strengthens attacks. Just carrying this gives you demonic strength.",
       "rarity": 5,
       "value": 3600,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": []
     },
     {
@@ -7627,7 +7627,7 @@
       "description": "A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.",
       "rarity": 5,
       "value": 6840,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": []
     },
     {
@@ -7635,7 +7635,7 @@
       "description": "An amulet that increases defense. Just carrying this hardens your skin like stone.",
       "rarity": 5,
       "value": 2400,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": []
     },
     {
@@ -7643,7 +7643,7 @@
       "description": "A charm that increases defense. Its effects are amplified by the dragon parts it contains.",
       "rarity": 5,
       "value": 5040,
-      "carryLimit": 1,
+      "carrylimit": 1,
       "drop": []
     },
     {
@@ -7651,7 +7651,7 @@
       "description": "A nut covered in needle-like spines. Used to make spread ammo.",
       "rarity": 1,
       "value": 1,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -7884,7 +7884,7 @@
       "description": "A nut used to make sticky ammo.",
       "rarity": 1,
       "value": 4,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -8089,7 +8089,7 @@
       "description": "A nut that explodes on impact. Used to make wyvern ammo.",
       "rarity": 2,
       "value": 12,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": [
         {
           "type": "Low Rank",
@@ -8210,7 +8210,7 @@
       "description": "Used to make slicing ammo.",
       "rarity": 1,
       "value": 4,
-      "carryLimit": 30,
+      "carrylimit": 30,
       "drop": [
         {
           "type": "Low Rank",
@@ -8415,7 +8415,7 @@
       "description": "A nut that bears a spiral groove. Used to make pierce ammo.",
       "rarity": 1,
       "value": 4,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": [
         {
           "type": "Low Rank",
@@ -8746,7 +8746,7 @@
       "description": "A nut that ruptures on impact. Used to make cluster bombs.",
       "rarity": 2,
       "value": 12,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Low Rank",
@@ -8853,7 +8853,7 @@
       "description": "Used to make gunpowder that increases ammo firepower.",
       "rarity": 2,
       "value": 12,
-      "carryLimit": 80,
+      "carrylimit": 80,
       "drop": [
         {
           "type": "Low Rank",
@@ -9142,7 +9142,7 @@
       "description": "Used to make gunpowder that greatly increases ammo firepower.",
       "rarity": 2,
       "value": 12,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": [
         {
           "type": "Low Rank",
@@ -9235,7 +9235,7 @@
       "description": "Combustible powser. Combine with level 1 ammo to raise its level.",
       "rarity": 2,
       "value": 1,
-      "carryLimit": 80,
+      "carrylimit": 80,
       "drop": [
         {
           "type": "Craft",
@@ -9265,7 +9265,7 @@
       "description": "Highly combustible powser. Combine with level 1 ammo to raise its level.",
       "rarity": 2,
       "value": 0,
-      "carryLimit": 80,
+      "carrylimit": 80,
       "drop": [
         {
           "type": "Craft",
@@ -9295,7 +9295,7 @@
       "description": "A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone.",
       "rarity": 2,
       "value": 45,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": []
     },
     {
@@ -9303,7 +9303,7 @@
       "description": "A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky.",
       "rarity": 4,
       "value": 0,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -9311,7 +9311,7 @@
       "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
       "rarity": 2,
       "value": 45,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": []
     },
     {
@@ -9319,7 +9319,7 @@
       "description": "Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -9327,7 +9327,7 @@
       "description": "The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.",
       "rarity": 3,
       "value": 150,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -9335,7 +9335,7 @@
       "description": "The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -9343,7 +9343,7 @@
       "description": "The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.",
       "rarity": 2,
       "value": 45,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -9351,7 +9351,7 @@
       "description": "The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -9359,7 +9359,7 @@
       "description": "The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.",
       "rarity": 2,
       "value": 135,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -9367,7 +9367,7 @@
       "description": "The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -9375,7 +9375,7 @@
       "description": "A regularly old empty phial. Nothing more, nothing less.",
       "rarity": 1,
       "value": 1,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -9383,7 +9383,7 @@
       "description": "Ore that can be smelted into metal and used for many different purposes.",
       "rarity": 4,
       "value": 60,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -9784,7 +9784,7 @@
       "description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
       "rarity": 4,
       "value": 160,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -10339,7 +10339,7 @@
       "description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
       "rarity": 4,
       "value": 480,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -11055,7 +11055,7 @@
       "description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
       "rarity": 6,
       "value": 680,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -11603,7 +11603,7 @@
       "description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
       "rarity": 6,
       "value": 1020,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -11787,7 +11787,7 @@
       "description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
       "rarity": 4,
       "value": 80,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -12041,7 +12041,7 @@
       "description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
       "rarity": 4,
       "value": 600,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -12232,7 +12232,7 @@
       "description": "Mined from high rank Area s. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
       "rarity": 6,
       "value": 800,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -12640,7 +12640,7 @@
       "description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
       "rarity": 4,
       "value": 1150,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -13132,7 +13132,7 @@
       "description": "High quality Lightcrystal. Highly coveted for its rarity, It's used for only the finest of metalworking.",
       "rarity": 6,
       "value": 2440,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -13701,7 +13701,7 @@
       "description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
       "rarity": 6,
       "value": 1720,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -13913,7 +13913,7 @@
       "description": "A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.",
       "rarity": 4,
       "value": 400,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -14041,7 +14041,7 @@
       "description": "A valuable mineral used to create charms. Gives off a warm, sunny glow.",
       "rarity": 6,
       "value": 600,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -14372,7 +14372,7 @@
       "description": "A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.",
       "rarity": 5,
       "value": 880,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -14619,7 +14619,7 @@
       "description": "A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.",
       "rarity": 6,
       "value": 1000,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -14627,7 +14627,7 @@
       "description": "Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.",
       "rarity": 4,
       "value": 80,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -14811,7 +14811,7 @@
       "description": "Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.",
       "rarity": 5,
       "value": 300,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -15247,7 +15247,7 @@
       "description": "Reacts uniquely to heat. Fuse this to armor to improve it.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -15508,7 +15508,7 @@
       "description": "Reacts uniquely to heat. Fuse this to armor to significantly improve it.",
       "rarity": 7,
       "value": 400,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -15615,7 +15615,7 @@
       "description": "Reacts uniquely to heat. Fuse this to armor to greatly improve it.",
       "rarity": 8,
       "value": 0,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -15623,7 +15623,7 @@
       "description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
       "rarity": 4,
       "value": 500,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -16206,7 +16206,7 @@
       "description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
       "rarity": 6,
       "value": 750,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -16936,7 +16936,7 @@
       "description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
       "rarity": 4,
       "value": 400,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -17309,7 +17309,7 @@
       "description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
       "rarity": 4,
       "value": 400,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -17647,7 +17647,7 @@
       "description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
       "rarity": 4,
       "value": 800,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -17894,7 +17894,7 @@
       "description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
       "rarity": 4,
       "value": 800,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -18190,7 +18190,7 @@
       "description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
       "rarity": 6,
       "value": 1200,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -18311,7 +18311,7 @@
       "description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
       "rarity": 7,
       "value": 1600,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -18845,7 +18845,7 @@
       "description": "A rare material found in bonepiles in the Elder's Recess. It appears to be some kind of animal skull.",
       "rarity": 7,
       "value": 1800,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "High Rank",
@@ -18910,7 +18910,7 @@
       "description": "Discovered by Botanical Research. An insect with a giant horn, massive shell, and butterfly-like wings.",
       "rarity": 4,
       "value": 60,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -18918,7 +18918,7 @@
       "description": "Suspect cloth the Tailraider Safari dug up from who-knows-where. Drips with an aura of pure evil.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -18926,7 +18926,7 @@
       "description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
       "rarity": 3,
       "value": 30,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -19957,7 +19957,7 @@
       "description": "Bone obtained from large monsters. Strong yet flexible, It's as reliable as steel or wood.",
       "rarity": 4,
       "value": 300,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -20134,7 +20134,7 @@
       "description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
       "rarity": 4,
       "value": 400,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -20395,7 +20395,7 @@
       "description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
       "rarity": 4,
       "value": 500,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -20740,7 +20740,7 @@
       "description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
       "rarity": 6,
       "value": 800,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -21099,7 +21099,7 @@
       "description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
       "rarity": 6,
       "value": 1200,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -21374,7 +21374,7 @@
       "description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
       "rarity": 6,
       "value": 1600,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -21558,7 +21558,7 @@
       "description": "Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",
       "rarity": 4,
       "value": 200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -21602,7 +21602,7 @@
       "description": "Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.",
       "rarity": 6,
       "value": 800,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -21646,7 +21646,7 @@
       "description": "Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.",
       "rarity": 4,
       "value": 500,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -21690,7 +21690,7 @@
       "description": "Material from high rank insects. A rich broth made from only the thickest of monster juices.",
       "rarity": 6,
       "value": 1000,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "High Rank",
@@ -21727,7 +21727,7 @@
       "description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
       "rarity": 4,
       "value": 96,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -21757,7 +21757,7 @@
       "description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
       "rarity": 6,
       "value": 288,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "High Rank",
@@ -21787,7 +21787,7 @@
       "description": "A monster organ that contains paralyzing neurotoxins.",
       "rarity": 4,
       "value": 120,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -21817,7 +21817,7 @@
       "description": "A monster organ filled with potent neurotoxins. A single touch can cause paralysis.",
       "rarity": 6,
       "value": 360,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "High Rank",
@@ -21847,7 +21847,7 @@
       "description": "A monster organ that contains a knockout powder capable of inducing sleep.",
       "rarity": 4,
       "value": 230,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -21877,7 +21877,7 @@
       "description": "A monster organ that contains dangerous powder. One whiff can induce a coma.",
       "rarity": 6,
       "value": 230,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "High Rank",
@@ -21907,7 +21907,7 @@
       "description": "A monster organ filled with flammable powder. Handle with extreme care.",
       "rarity": 4,
       "value": 240,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -21986,7 +21986,7 @@
       "description": "A monster organ filled with powder that ignites if it so much as touches air. Danger!",
       "rarity": 6,
       "value": 720,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -22149,7 +22149,7 @@
       "description": "A monster organ designed to hold and preserve water.",
       "rarity": 4,
       "value": 170,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -22179,7 +22179,7 @@
       "description": "A monster organ designed to hold and preserve copious amounts of water.",
       "rarity": 6,
       "value": 510,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "High Rank",
@@ -22209,7 +22209,7 @@
       "description": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
       "rarity": 4,
       "value": 290,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -22225,7 +22225,7 @@
       "description": "A monster organ with tremendous freezing power. Turns its surroundings to ice.",
       "rarity": 6,
       "value": 870,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Optional",
@@ -22283,7 +22283,7 @@
       "description": "A monster organ that can store up electricity, which is released on impact.",
       "rarity": 4,
       "value": 480,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Low Rank",
@@ -22313,7 +22313,7 @@
       "description": "A monster organ that can store up large amounts of high voltage electricity.",
       "rarity": 6,
       "value": 960,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "High Rank",
@@ -22343,7 +22343,7 @@
       "description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
       "rarity": 7,
       "value": 4000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -22478,7 +22478,7 @@
       "description": "Toughout a wyvern's life, impurities gather and form this peculiar gem.",
       "rarity": 7,
       "value": 4000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -22858,7 +22858,7 @@
       "description": "Contains an unknown compound. The object of much scholarly research.",
       "rarity": 7,
       "value": 1600,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": [
         {
           "type": "Assigned",
@@ -23049,7 +23049,7 @@
       "description": "A musty hide covered in moss.",
       "rarity": 4,
       "value": 200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23072,7 +23072,7 @@
       "description": "A pelt from a small animal. Used for many things, but mostly just regular clothes.",
       "rarity": 4,
       "value": 120,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23102,7 +23102,7 @@
       "description": "Rare pelt from a small animal. Feels wonderful to the touch and valued highly by the Commission.",
       "rarity": 6,
       "value": 320,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23132,7 +23132,7 @@
       "description": "Vespoid material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
       "value": 160,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23155,7 +23155,7 @@
       "description": "Rare Vespoid material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
       "value": 460,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23178,7 +23178,7 @@
       "description": "Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
       "rarity": 4,
       "value": 210,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23201,7 +23201,7 @@
       "description": "Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
       "rarity": 6,
       "value": 560,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23224,7 +23224,7 @@
       "description": "Hornetaur material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
       "value": 260,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23247,7 +23247,7 @@
       "description": "Hornetaur material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
       "value": 310,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23270,7 +23270,7 @@
       "description": "Hornetaur material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 4,
       "value": 360,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23307,7 +23307,7 @@
       "description": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
       "value": 560,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23330,7 +23330,7 @@
       "description": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
       "rarity": 6,
       "value": 660,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23353,7 +23353,7 @@
       "description": "Gajau material. Obtained by carving. Water-resistant, used to craft gear.",
       "rarity": 4,
       "value": 220,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23376,7 +23376,7 @@
       "description": "Gajau material. Obtained by carving. Hardy, used to craft gear.",
       "rarity": 4,
       "value": 270,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23399,7 +23399,7 @@
       "description": "Rare Gajau material. Obtained by carving. Water-resistant, used to craft gear.",
       "rarity": 6,
       "value": 420,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23422,7 +23422,7 @@
       "description": "Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",
       "rarity": 6,
       "value": 520,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23445,7 +23445,7 @@
       "description": "A material carved from wingdrakes. Lightweight and often used when crafting armor.",
       "rarity": 4,
       "value": 180,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23517,7 +23517,7 @@
       "description": "A rare material carved from wingdrakes. Lightweight and often used when crafting armor.",
       "rarity": 6,
       "value": 380,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23561,7 +23561,7 @@
       "description": "Rare Barnos material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
       "value": 720,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23577,7 +23577,7 @@
       "description": "Rare Barnos material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 6,
       "value": 820,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23593,7 +23593,7 @@
       "description": "Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
       "rarity": 4,
       "value": 180,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -23630,7 +23630,7 @@
       "description": "Kestodon material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 4,
       "value": 230,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -23681,7 +23681,7 @@
       "description": "Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
       "rarity": 6,
       "value": 430,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23704,7 +23704,7 @@
       "description": "Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear.",
       "rarity": 6,
       "value": 760,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23720,7 +23720,7 @@
       "description": "Rare Gastodon material. Obtained by carving. Unusual, used in select gear.",
       "rarity": 6,
       "value": 860,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23736,7 +23736,7 @@
       "description": "Jagras material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
       "value": 140,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23773,7 +23773,7 @@
       "description": "Jagras material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
       "value": 180,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23796,7 +23796,7 @@
       "description": "Rare Jagras material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
       "value": 340,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -23804,7 +23804,7 @@
       "description": "Rare Jagras material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
       "value": 480,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23827,7 +23827,7 @@
       "description": "Shamos material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
       "value": 220,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23850,7 +23850,7 @@
       "description": "Shamos material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
       "value": 280,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23873,7 +23873,7 @@
       "description": "Rare Shamos material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
       "value": 420,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23896,7 +23896,7 @@
       "description": "Rare Shamos material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
       "value": 480,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -23919,7 +23919,7 @@
       "description": "Girros material. Obtained by carving. Used for many purposes.",
       "rarity": 4,
       "value": 240,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23942,7 +23942,7 @@
       "description": "Girros material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
       "value": 300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -23965,7 +23965,7 @@
       "description": "Girros material. Obtained by carving. Grants paralytic properties.",
       "rarity": 4,
       "value": 260,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24002,7 +24002,7 @@
       "description": "Rare Girros material. Obtained by carving. Used for many purposes.",
       "rarity": 6,
       "value": 460,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -24025,7 +24025,7 @@
       "description": "Rare Girros material. Obtained by carving. Supple, used to craft gear.",
       "rarity": 6,
       "value": 520,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -24048,7 +24048,7 @@
       "description": "Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 260,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24120,7 +24120,7 @@
       "description": "Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 4,
       "value": 360,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24199,7 +24199,7 @@
       "description": "Great Jagras material. Obtained by breaking its head. Used for many purposes.",
       "rarity": 4,
       "value": 440,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24306,7 +24306,7 @@
       "description": "Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 420,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24364,7 +24364,7 @@
       "description": "Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 860,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -24443,7 +24443,7 @@
       "description": "Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
       "value": 1220,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -24508,7 +24508,7 @@
       "description": "Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 1620,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -24573,7 +24573,7 @@
       "description": "Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 4,
       "value": 290,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24652,7 +24652,7 @@
       "description": "Kulu-Ya-Ku material. Mostly obtained by carving. Supple, often used in gear.",
       "rarity": 4,
       "value": 390,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24703,7 +24703,7 @@
       "description": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
       "rarity": 4,
       "value": 460,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24775,7 +24775,7 @@
       "description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
       "rarity": 4,
       "value": 490,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -24826,7 +24826,7 @@
       "description": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 890,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -24905,7 +24905,7 @@
       "description": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
       "rarity": 6,
       "value": 1290,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -24956,7 +24956,7 @@
       "description": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
       "rarity": 6,
       "value": 1660,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -25028,7 +25028,7 @@
       "description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
       "rarity": 6,
       "value": 1660,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -25079,7 +25079,7 @@
       "description": "Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 360,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25179,7 +25179,7 @@
       "description": "Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 470,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25244,7 +25244,7 @@
       "description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
       "rarity": 4,
       "value": 640,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25316,7 +25316,7 @@
       "description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
       "rarity": 4,
       "value": 660,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25367,7 +25367,7 @@
       "description": "Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",
       "rarity": 4,
       "value": 620,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25418,7 +25418,7 @@
       "description": "Rare Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 950,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -25525,7 +25525,7 @@
       "description": "Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1350,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -25583,7 +25583,7 @@
       "description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
       "rarity": 6,
       "value": 1700,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -25655,7 +25655,7 @@
       "description": "Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
       "rarity": 6,
       "value": 1750,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -25706,7 +25706,7 @@
       "description": "Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 330,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25799,7 +25799,7 @@
       "description": "Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 480,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25857,7 +25857,7 @@
       "description": "Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
       "rarity": 4,
       "value": 630,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -25915,7 +25915,7 @@
       "description": "Barroth material. Obtained by breaking its head. Tough, used in many weapons.",
       "rarity": 4,
       "value": 870,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26008,7 +26008,7 @@
       "description": "Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
       "value": 800,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26087,7 +26087,7 @@
       "description": "Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear.",
       "rarity": 4,
       "value": 390,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26159,7 +26159,7 @@
       "description": "Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 870,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -26252,7 +26252,7 @@
       "description": "Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1270,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -26310,7 +26310,7 @@
       "description": "Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
       "rarity": 6,
       "value": 1670,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -26368,7 +26368,7 @@
       "description": "Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
       "rarity": 4,
       "value": 340,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26454,7 +26454,7 @@
       "description": "Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
       "rarity": 4,
       "value": 490,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26498,7 +26498,7 @@
       "description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 640,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26556,7 +26556,7 @@
       "description": "Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
       "rarity": 4,
       "value": 720,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26621,7 +26621,7 @@
       "description": "Rare Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
       "rarity": 6,
       "value": 1040,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -26700,7 +26700,7 @@
       "description": "Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
       "rarity": 6,
       "value": 1540,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -26751,7 +26751,7 @@
       "description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 2040,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -26809,7 +26809,7 @@
       "description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
       "rarity": 6,
       "value": 2120,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -26874,7 +26874,7 @@
       "description": "Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 360,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -26960,7 +26960,7 @@
       "description": "Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
       "rarity": 4,
       "value": 510,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27025,7 +27025,7 @@
       "description": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
       "rarity": 4,
       "value": 800,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27118,7 +27118,7 @@
       "description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 660,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27183,7 +27183,7 @@
       "description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
       "rarity": 4,
       "value": 720,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27234,7 +27234,7 @@
       "description": "Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1050,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -27320,7 +27320,7 @@
       "description": "Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
       "rarity": 6,
       "value": 1550,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -27385,7 +27385,7 @@
       "description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 1650,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -27450,7 +27450,7 @@
       "description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
       "rarity": 6,
       "value": 1750,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -27501,7 +27501,7 @@
       "description": "Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 430,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27594,7 +27594,7 @@
       "description": "Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
       "rarity": 4,
       "value": 630,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27645,7 +27645,7 @@
       "description": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 830,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27710,7 +27710,7 @@
       "description": "Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 4,
       "value": 860,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27761,7 +27761,7 @@
       "description": "Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
       "value": 860,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27812,7 +27812,7 @@
       "description": "Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
       "value": 2400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -27919,7 +27919,7 @@
       "description": "Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1060,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -28012,7 +28012,7 @@
       "description": "Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
       "rarity": 6,
       "value": 1560,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -28063,7 +28063,7 @@
       "description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 2060,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -28128,7 +28128,7 @@
       "description": "Rare Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 6,
       "value": 2120,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -28179,7 +28179,7 @@
       "description": "A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.",
       "rarity": 7,
       "value": 6000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -28237,7 +28237,7 @@
       "description": "Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 460,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -28330,7 +28330,7 @@
       "description": "Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 660,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -28409,7 +28409,7 @@
       "description": "Rathian material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 4,
       "value": 860,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -28544,7 +28544,7 @@
       "description": "Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
       "rarity": 4,
       "value": 980,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -28602,7 +28602,7 @@
       "description": "Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
       "value": 2400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -28772,7 +28772,7 @@
       "description": "Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1080,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -28865,7 +28865,7 @@
       "description": "Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1560,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -28944,7 +28944,7 @@
       "description": "Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
       "rarity": 6,
       "value": 2240,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -29030,7 +29030,7 @@
       "description": "A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.",
       "rarity": 7,
       "value": 6000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -29158,7 +29158,7 @@
       "description": "Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1260,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -29251,7 +29251,7 @@
       "description": "Rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1880,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -29330,7 +29330,7 @@
       "description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 440,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -29409,7 +29409,7 @@
       "description": "Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 4,
       "value": 640,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -29460,7 +29460,7 @@
       "description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 840,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -29525,7 +29525,7 @@
       "description": "Tzitzi-Ya-Ku material. Obtained by breaking its pulse organs. Unusual, used for many purposes.",
       "rarity": 4,
       "value": 920,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -29576,7 +29576,7 @@
       "description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 840,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -29655,7 +29655,7 @@
       "description": "Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
       "value": 1240,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -29706,7 +29706,7 @@
       "description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 1640,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -29771,7 +29771,7 @@
       "description": "Rare Tzitzi-Ya-Ku material. Obtained by breaking its pulse organs. Unusual, used for many purposes.",
       "rarity": 6,
       "value": 1680,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -29822,7 +29822,7 @@
       "description": "Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 4,
       "value": 650,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -29887,7 +29887,7 @@
       "description": "Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
       "rarity": 4,
       "value": 450,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -29966,7 +29966,7 @@
       "description": "Paolumu material. Obtained by breaking its tail. Used for many purposes.",
       "rarity": 4,
       "value": 950,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -30038,7 +30038,7 @@
       "description": "Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
       "rarity": 4,
       "value": 850,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -30089,7 +30089,7 @@
       "description": "Rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1570,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30154,7 +30154,7 @@
       "description": "Paolumu material. Mostly obtained by carving. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1070,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30233,7 +30233,7 @@
       "description": "Rare Paolumu material. Obtained by breaking its tail. Used for many purposes.",
       "rarity": 6,
       "value": 2140,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30305,7 +30305,7 @@
       "description": "Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
       "rarity": 6,
       "value": 2070,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30356,7 +30356,7 @@
       "description": "Great Girros material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 450,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -30442,7 +30442,7 @@
       "description": "Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 4,
       "value": 650,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -30493,7 +30493,7 @@
       "description": "Great Girros material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 4,
       "value": 950,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -30544,7 +30544,7 @@
       "description": "Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
       "rarity": 4,
       "value": 750,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -30623,7 +30623,7 @@
       "description": "Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
       "value": 850,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -30702,7 +30702,7 @@
       "description": "Rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1060,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30795,7 +30795,7 @@
       "description": "Rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
       "value": 1560,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30853,7 +30853,7 @@
       "description": "Rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear.",
       "rarity": 6,
       "value": 2180,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30904,7 +30904,7 @@
       "description": "Rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.",
       "rarity": 6,
       "value": 2060,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -30976,7 +30976,7 @@
       "description": "Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 480,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31062,7 +31062,7 @@
       "description": "Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 680,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31113,7 +31113,7 @@
       "description": "Radobaan material. Obtained by carving its severed tail. Impact-resistant, used to craft gear.",
       "rarity": 4,
       "value": 960,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31234,7 +31234,7 @@
       "description": "Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",
       "rarity": 4,
       "value": 880,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31355,7 +31355,7 @@
       "description": "Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 4,
       "value": 1120,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31420,7 +31420,7 @@
       "description": "Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1060,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -31506,7 +31506,7 @@
       "description": "Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1580,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -31557,7 +31557,7 @@
       "description": "Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 6,
       "value": 2240,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -31622,7 +31622,7 @@
       "description": "Legiana material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 540,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31708,7 +31708,7 @@
       "description": "Legiana material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 790,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31787,7 +31787,7 @@
       "description": "Legiana material. Mostly obtained by carving. Grants ice elemental properties.",
       "rarity": 4,
       "value": 1040,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31852,7 +31852,7 @@
       "description": "Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 4,
       "value": 1080,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -31903,7 +31903,7 @@
       "description": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
       "rarity": 4,
       "value": 1160,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -31947,7 +31947,7 @@
       "description": "Legiana material. A rare find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
       "value": 3000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -32082,7 +32082,7 @@
       "description": "Rare Legiana material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1230,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -32161,7 +32161,7 @@
       "description": "Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",
       "rarity": 6,
       "value": 1830,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -32240,7 +32240,7 @@
       "description": "Rare Legiana material. Mostly obtained by carving. Grants ice elemental properties.",
       "rarity": 6,
       "value": 2430,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -32312,7 +32312,7 @@
       "description": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 6,
       "value": 2460,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -32370,7 +32370,7 @@
       "description": "A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.",
       "rarity": 7,
       "value": 7200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -32449,7 +32449,7 @@
       "description": "Odogaron material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 560,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -32549,7 +32549,7 @@
       "description": "Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 810,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -32614,7 +32614,7 @@
       "description": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 1060,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -32672,7 +32672,7 @@
       "description": "Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 1120,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -32730,7 +32730,7 @@
       "description": "Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 4,
       "value": 1240,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -32788,7 +32788,7 @@
       "description": "Odogaron material. A rare find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
       "value": 3000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -32909,7 +32909,7 @@
       "description": "Rare Odogaron material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1240,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -33009,7 +33009,7 @@
       "description": "Rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1840,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -33074,7 +33074,7 @@
       "description": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 2440,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -33153,7 +33153,7 @@
       "description": "Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 2480,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -33211,7 +33211,7 @@
       "description": "A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.",
       "rarity": 7,
       "value": 7200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -33290,7 +33290,7 @@
       "description": "Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 590,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -33383,7 +33383,7 @@
       "description": "Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 840,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -33462,7 +33462,7 @@
       "description": "Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 4,
       "value": 1180,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -33520,7 +33520,7 @@
       "description": "Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
       "rarity": 4,
       "value": 1270,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -33571,7 +33571,7 @@
       "description": "Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 1090,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -33727,7 +33727,7 @@
       "description": "Rathalos material. Obtained by carving. Grants fire element properties.",
       "rarity": 4,
       "value": 1360,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -33785,7 +33785,7 @@
       "description": "Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 5,
       "value": 3000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -33962,7 +33962,7 @@
       "description": "Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1250,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -34048,7 +34048,7 @@
       "description": "Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1850,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -34134,7 +34134,7 @@
       "description": "Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 6,
       "value": 2500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -34199,7 +34199,7 @@
       "description": "Rare Rathalos material. Obtained by carving. Grants fire element properties.",
       "rarity": 6,
       "value": 2600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -34299,7 +34299,7 @@
       "description": "A rare gem said to have formed within Rathalos tissue. Almost too nice to use.",
       "rarity": 7,
       "value": 7200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -34441,7 +34441,7 @@
       "description": "Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1450,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -34527,7 +34527,7 @@
       "description": "Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 2150,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -34613,7 +34613,7 @@
       "description": "Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
       "rarity": 6,
       "value": 3000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -34650,7 +34650,7 @@
       "description": "Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 6,
       "value": 2850,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -34708,7 +34708,7 @@
       "description": "Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 620,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -34787,7 +34787,7 @@
       "description": "Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 4,
       "value": 870,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -34859,7 +34859,7 @@
       "description": "Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",
       "rarity": 4,
       "value": 1240,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -34945,7 +34945,7 @@
       "description": "Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 4,
       "value": 1120,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -35080,7 +35080,7 @@
       "description": "Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 4,
       "value": 1360,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -35131,7 +35131,7 @@
       "description": "Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 4,
       "value": 1480,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -35203,7 +35203,7 @@
       "description": "Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1260,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -35282,7 +35282,7 @@
       "description": "Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1860,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -35368,7 +35368,7 @@
       "description": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 6,
       "value": 2980,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -35412,7 +35412,7 @@
       "description": "Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 6,
       "value": 3040,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -35505,7 +35505,7 @@
       "description": "Rare Black Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1450,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -35584,7 +35584,7 @@
       "description": "Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 2150,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -35663,7 +35663,7 @@
       "description": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 6,
       "value": 5700,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -35700,7 +35700,7 @@
       "description": "Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 4,
       "value": 750,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -35772,7 +35772,7 @@
       "description": "Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
       "rarity": 4,
       "value": 1000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -35837,7 +35837,7 @@
       "description": "Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",
       "rarity": 4,
       "value": 1250,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -35930,7 +35930,7 @@
       "description": "Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
       "rarity": 4,
       "value": 1750,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Low Rank",
@@ -35981,7 +35981,7 @@
       "description": "Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
       "value": 1630,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36046,7 +36046,7 @@
       "description": "Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
       "rarity": 7,
       "value": 2430,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36076,7 +36076,7 @@
       "description": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
       "rarity": 7,
       "value": 3200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36120,7 +36120,7 @@
       "description": "Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.",
       "rarity": 6,
       "value": 800,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -36220,7 +36220,7 @@
       "description": "Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -36320,7 +36320,7 @@
       "description": "Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",
       "rarity": 6,
       "value": 1400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -36357,7 +36357,7 @@
       "description": "Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",
       "rarity": 6,
       "value": 1600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -36415,7 +36415,7 @@
       "description": "Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 6,
       "value": 3200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -36501,7 +36501,7 @@
       "description": "A rare gem said to have formed with Zorah Magdaros tissue. Holds untold potential.",
       "rarity": 7,
       "value": 6000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -36524,7 +36524,7 @@
       "description": "Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1030,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36596,7 +36596,7 @@
       "description": "Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
       "value": 1530,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36654,7 +36654,7 @@
       "description": "Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.",
       "rarity": 6,
       "value": 2120,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36712,7 +36712,7 @@
       "description": "Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",
       "rarity": 6,
       "value": 2060,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36777,7 +36777,7 @@
       "description": "Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",
       "rarity": 6,
       "value": 2210,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36807,7 +36807,7 @@
       "description": "Rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1280,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36879,7 +36879,7 @@
       "description": "Rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 1880,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36930,7 +36930,7 @@
       "description": "Rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 6,
       "value": 2480,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -36988,7 +36988,7 @@
       "description": "Rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.",
       "rarity": 6,
       "value": 2560,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -37060,7 +37060,7 @@
       "description": "Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1460,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37139,7 +37139,7 @@
       "description": "Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 2160,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -37197,7 +37197,7 @@
       "description": "Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",
       "rarity": 6,
       "value": 2980,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37213,7 +37213,7 @@
       "description": "Rare Uragaan material. Obtained by carving its severed tail. Highly heat-resistant, used to craft gear.",
       "rarity": 6,
       "value": 2880,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37278,7 +37278,7 @@
       "description": "Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
       "rarity": 6,
       "value": 3100,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37336,7 +37336,7 @@
       "description": "A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.",
       "rarity": 7,
       "value": 8400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -37401,7 +37401,7 @@
       "description": "A rare conglomerate ore found growing on an Uragaan. Composed of various ores, melted together.",
       "rarity": 6,
       "value": 1580,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -37459,7 +37459,7 @@
       "description": "Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37538,7 +37538,7 @@
       "description": "Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 6,
       "value": 2400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37603,7 +37603,7 @@
       "description": "Rare Bazelgeuse material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 6,
       "value": 3600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37640,7 +37640,7 @@
       "description": "Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.",
       "rarity": 6,
       "value": 4000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -37705,7 +37705,7 @@
       "description": "Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.",
       "rarity": 6,
       "value": 3200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -37784,7 +37784,7 @@
       "description": "Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons.",
       "rarity": 6,
       "value": 3400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -37842,7 +37842,7 @@
       "description": "A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.",
       "rarity": 7,
       "value": 9600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -37914,7 +37914,7 @@
       "description": "Rare Nergigante material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
       "value": 2100,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -37972,7 +37972,7 @@
       "description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
       "value": 3200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38016,7 +38016,7 @@
       "description": "Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
       "value": 4300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38046,7 +38046,7 @@
       "description": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
       "rarity": 7,
       "value": 5000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38090,7 +38090,7 @@
       "description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 7,
       "value": 4500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38134,7 +38134,7 @@
       "description": "Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",
       "rarity": 7,
       "value": 3400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38206,7 +38206,7 @@
       "description": "A rare gem said to have formed within Nergigante tissue. Holds untold potential.",
       "rarity": 8,
       "value": 12000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38257,7 +38257,7 @@
       "description": "Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
       "value": 2250,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38329,7 +38329,7 @@
       "description": "Rare Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
       "value": 3350,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -38387,7 +38387,7 @@
       "description": "Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.",
       "rarity": 7,
       "value": 3500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38445,7 +38445,7 @@
       "description": "Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
       "value": 4900,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38482,7 +38482,7 @@
       "description": "Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",
       "rarity": 7,
       "value": 4600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38519,7 +38519,7 @@
       "description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
       "rarity": 7,
       "value": 4750,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -38577,7 +38577,7 @@
       "description": "Rare Vaal Hazak material. Obtained by carving its torso. Light yet firm, used to craft gear.",
       "rarity": 7,
       "value": 4450,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38621,7 +38621,7 @@
       "description": "A rare gem said to have formed within Vaal Hazak Tissue. Holds untold potential.",
       "rarity": 8,
       "value": 12000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -38686,7 +38686,7 @@
       "description": "Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
       "value": 3400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38730,7 +38730,7 @@
       "description": "Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",
       "rarity": 7,
       "value": 3400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38781,7 +38781,7 @@
       "description": "Rare Teostra material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
       "value": 4900,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38811,7 +38811,7 @@
       "description": "Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 7,
       "value": 5500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38848,7 +38848,7 @@
       "description": "Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
       "value": 2300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38913,7 +38913,7 @@
       "description": "Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",
       "rarity": 7,
       "value": 4700,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38964,7 +38964,7 @@
       "description": "Rare Teostra material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 7,
       "value": 4500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -38994,7 +38994,7 @@
       "description": "Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear.",
       "rarity": 7,
       "value": 3600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39038,7 +39038,7 @@
       "description": "A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.",
       "rarity": 8,
       "value": 12000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39096,7 +39096,7 @@
       "description": "Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
       "value": 3300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39154,7 +39154,7 @@
       "description": "Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
       "value": 2200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39226,7 +39226,7 @@
       "description": "Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",
       "rarity": 7,
       "value": 4300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39270,7 +39270,7 @@
       "description": "Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 7,
       "value": 4500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39307,7 +39307,7 @@
       "description": "Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
       "value": 4800,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39337,7 +39337,7 @@
       "description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
       "rarity": 7,
       "value": 4400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39395,7 +39395,7 @@
       "description": "A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.",
       "rarity": 8,
       "value": 12000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39453,7 +39453,7 @@
       "description": "Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.",
       "rarity": 7,
       "value": 3000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39504,7 +39504,7 @@
       "description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
       "rarity": 7,
       "value": 4000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39541,7 +39541,7 @@
       "description": "A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.",
       "rarity": 7,
       "value": 4300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39585,7 +39585,7 @@
       "description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
       "rarity": 7,
       "value": 6000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39608,7 +39608,7 @@
       "description": "A rare Xeno'jiiva horn. During growth, It's theorized that it helps control the beast's power.",
       "rarity": 7,
       "value": 5600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39631,7 +39631,7 @@
       "description": "A rare Xeno'jiiva claw, said to cleave soul from flesh.",
       "rarity": 7,
       "value": 5300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39668,7 +39668,7 @@
       "description": "A rare Xeno'jiiva wing. The wing membrane shines with the divine light of a powerful deity.",
       "rarity": 7,
       "value": 5000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39698,7 +39698,7 @@
       "description": "A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.",
       "rarity": 8,
       "value": 15000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "High Rank",
@@ -39742,7 +39742,7 @@
       "description": "Proof of friendship with the Lynians of the new continent. Show it to the Smithy and see what happens!",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -39758,7 +39758,7 @@
       "description": "Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -39774,7 +39774,7 @@
       "description": "Cloth made from the glossy black hide of a monster. Not obtainable by normal means.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Event",
@@ -39790,7 +39790,7 @@
       "description": "A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.",
       "rarity": 6,
       "value": 400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Event",
@@ -39806,7 +39806,7 @@
       "description": "A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Event",
@@ -39822,7 +39822,7 @@
       "description": "Material obtained from a Machine. Its unusual circuitry can be used to craft special Palico equipment.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -39830,7 +39830,7 @@
       "description": "Proof that you have completed the Proving. Grants you the right to craft special equipment.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -39838,7 +39838,7 @@
       "description": "A ticket for a special Street Fighter tie-in. Wait...does that mean that legendary fighter is going to...!?",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -39846,7 +39846,7 @@
       "description": "Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -39854,7 +39854,7 @@
       "description": "A jewel that conceals faint traces of power within it. (Appraisal Item)",
       "rarity": 4,
       "value": 25,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
         {
           "type": "Optional",
@@ -40311,7 +40311,7 @@
       "description": "A jewel that conceals an unknown power within it. (Appraisal Item)",
       "rarity": 5,
       "value": 25,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": []
     },
     {
@@ -40319,7 +40319,7 @@
       "description": "A jewel that conceals considerable power within it. (Appraisal Item)",
       "rarity": 6,
       "value": 25,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": []
     },
     {
@@ -40327,7 +40327,7 @@
       "description": "A jewel that conceals a mystical power within it. (Appraisal Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40335,7 +40335,7 @@
       "description": "Though dirty, this stone pulses with undeniable power. (Appraisal Item)",
       "rarity": 7,
       "value": 25,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
 		{
           "type": "Arch Tempered",
@@ -40372,7 +40372,7 @@
       "description": "A stone that shines with the brilliance of endless possibility. (Appraisal Item)",
       "rarity": 8,
       "value": 25,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": [
 		{
           "type": "Arch Tempered",
@@ -40409,7 +40409,7 @@
       "description": "A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40417,7 +40417,7 @@
       "description": "A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -40433,7 +40433,7 @@
       "description": "A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -40477,7 +40477,7 @@
       "description": "A material used by champions of old. Used to bring out the hidden power in long swords and great swords.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40485,7 +40485,7 @@
       "description": "A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40493,7 +40493,7 @@
       "description": "A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40501,7 +40501,7 @@
       "description": "A material used by champions of old. Used to bring out the hidden power in lances and gunlances.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40509,7 +40509,7 @@
       "description": "A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40517,7 +40517,7 @@
       "description": "A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40525,7 +40525,7 @@
       "description": "A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40533,7 +40533,7 @@
       "description": "A material used by legendary heroes. Used to bring out the hidden power in long swords and great swords.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40541,7 +40541,7 @@
       "description": "A material used by legendary heroes. Used to bring out the hidden power in swords and shields and dual blades.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40549,7 +40549,7 @@
       "description": "A material used by legendary heroes. Used to bring out the hidden power in hammers and hunting horns.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40557,7 +40557,7 @@
       "description": "A material used by legendary heroes. Used to bring out the hidden power in lances and gunlances.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40565,7 +40565,7 @@
       "description": "A material used by legendary heroes. Used to bring out the hidden power in switch axes and charge blades.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40573,7 +40573,7 @@
       "description": "A material used by legendary heroes. Used to bring out the hidden power in insect glaives and bows.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40581,7 +40581,7 @@
       "description": "A material used by legendary heroes. Used to bring out the hidden power in light bowguns and heavy bowguns.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40589,7 +40589,7 @@
       "description": "Redeem this for a special meal with stronger effects than usual.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40597,7 +40597,7 @@
       "description": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40605,7 +40605,7 @@
       "description": "A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40613,7 +40613,7 @@
       "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40621,7 +40621,7 @@
       "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40629,7 +40629,7 @@
       "description": "A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40637,7 +40637,7 @@
       "description": "A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -40660,7 +40660,7 @@
       "description": "A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Assigned",
@@ -40760,7 +40760,7 @@
       "description": "A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -40776,7 +40776,7 @@
       "description": "A coin given to those who have bested a Pukei-Pukei in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40784,7 +40784,7 @@
       "description": "A coin given to those who have bested a Kulu-Ya-Ku in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40792,7 +40792,7 @@
       "description": "A coin given to those who have bested a Rathian in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40800,7 +40800,7 @@
       "description": "A coin given to those who have bested a Tzitzi-Ya-Ku in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40808,7 +40808,7 @@
       "description": "A coin given to those who have bested a Barroth in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40816,7 +40816,7 @@
       "description": "A coin given to those who have bested a Dodogama in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40824,7 +40824,7 @@
       "description": "A coin given to those who have bested a Rathalos in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40832,7 +40832,7 @@
       "description": "A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40840,7 +40840,7 @@
       "description": "A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40848,7 +40848,7 @@
       "description": "A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40856,7 +40856,7 @@
       "description": "A silver coin given to true hunters. It shines with all the glory of the Hunter King.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40864,7 +40864,7 @@
       "description": "A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40872,7 +40872,7 @@
       "description": "An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": [
         {
           "type": "Optional",
@@ -40902,7 +40902,7 @@
       "description": "An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40910,7 +40910,7 @@
       "description": "An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40918,7 +40918,7 @@
       "description": "Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40926,7 +40926,7 @@
       "description": "Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40934,7 +40934,7 @@
       "description": "Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40942,7 +40942,7 @@
       "description": "Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40950,7 +40950,7 @@
       "description": "Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40958,7 +40958,7 @@
       "description": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40966,7 +40966,7 @@
       "description": "An Old World import. Beautiful, but not suitable for crafting (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40974,7 +40974,7 @@
       "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40982,7 +40982,7 @@
       "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40990,7 +40990,7 @@
       "description": "An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -40998,7 +40998,7 @@
       "description": "The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41006,7 +41006,7 @@
       "description": "The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41014,7 +41014,7 @@
       "description": "The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41022,7 +41022,7 @@
       "description": "The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41030,7 +41030,7 @@
       "description": "The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41038,7 +41038,7 @@
       "description": "The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item)",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41046,7 +41046,7 @@
       "description": "Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 6,
       "value": 1600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41054,7 +41054,7 @@
       "description": "Rare Deviljho material. Mostly obtained as a reward. Supple, used to craft gear.",
       "rarity": 6,
       "value": 2400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41062,7 +41062,7 @@
       "description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 6,
       "value": 3200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41070,7 +41070,7 @@
       "description": "Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.",
       "rarity": 6,
       "value": 3400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41078,7 +41078,7 @@
       "description": "Rare Deviljho material. Obtained by breaking its head. Unusual, used in select gear.",
       "rarity": 6,
       "value": 4000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41086,7 +41086,7 @@
       "description": "Rare Deviljho material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 6,
       "value": 3600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41094,7 +41094,7 @@
       "description": "Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.",
       "rarity": 6,
       "value": 2200,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41102,7 +41102,7 @@
       "description": "A rare gem said to have formed within Deviljho tissue. Used to dramatically improve gear.",
       "rarity": 7,
       "value": 9600,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41110,7 +41110,7 @@
       "description": "",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41118,7 +41118,7 @@
       "description": "",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41126,7 +41126,7 @@
       "description": "",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41134,7 +41134,7 @@
       "description": "",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41142,7 +41142,7 @@
       "description": "",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41150,7 +41150,7 @@
       "description": "Rare Kulve Taroth material. Mostly obtained as a reward. Many have fallen trying to obtain just one of these.",
       "rarity": 7,
       "value": 3000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41158,7 +41158,7 @@
       "description": "Rare Kulve Taroth material. Mostly obtained as a reward. Its value is tied to its brilliant gold shine.",
       "rarity": 7,
       "value": 4000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41166,7 +41166,7 @@
       "description": "Rare Kulve Taroth material. Obtained by collecting rare drops. Emits an exotic light towards those that look at it.",
       "rarity": 7,
       "value": 1000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41174,7 +41174,7 @@
       "description": "Rare Kulve Taroth material. Obtained by breaking its head. It defiantly glows despite its age and weight.",
       "rarity": 7,
       "value": 6000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41182,7 +41182,7 @@
       "description": "Rare Kulve Taroth material. Obtained by breaking its tail. It shimmers a lustrous gold.",
       "rarity": 7,
       "value": 5000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41190,7 +41190,7 @@
       "description": "A rare gem said to have formed within Kulve Taroth tissue. Within it lies unimaginable power.",
       "rarity": 8,
       "value": 15000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41198,7 +41198,7 @@
       "description": "",
       "rarity": 2,
       "value": 45,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": []
     },
     {
@@ -41206,7 +41206,7 @@
       "description": "",
       "rarity": 5,
       "value": 7,
-      "carryLimit": 10,
+      "carrylimit": 10,
       "drop": []
     },
     {
@@ -41214,7 +41214,7 @@
       "description": "",
       "rarity": 3,
       "value": 4,
-      "carryLimit": 8,
+      "carrylimit": 8,
       "drop": []
     },
     {
@@ -41222,7 +41222,7 @@
       "description": "",
       "rarity": 2,
       "value": 3,
-      "carryLimit": 50,
+      "carrylimit": 50,
       "drop": []
     },
     {
@@ -41230,7 +41230,7 @@
       "description": "",
       "rarity": 2,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41238,7 +41238,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": []
     },
     {
@@ -41246,7 +41246,7 @@
       "description": "",
       "rarity": 3,
       "value": 3,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": []
     },
     {
@@ -41254,7 +41254,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": []
     },
     {
@@ -41262,7 +41262,7 @@
       "description": "",
       "rarity": 3,
       "value": 6,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": []
     },
     {
@@ -41270,7 +41270,7 @@
       "description": "",
       "rarity": 1,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41278,7 +41278,7 @@
       "description": "",
       "rarity": 1,
       "value": 1,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41286,7 +41286,7 @@
       "description": "",
       "rarity": 2,
       "value": 2,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41294,7 +41294,7 @@
       "description": "",
       "rarity": 2,
       "value": 1,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": []
     },
     {
@@ -41302,7 +41302,7 @@
       "description": "",
       "rarity": 3,
       "value": 3,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": []
     },
     {
@@ -41310,7 +41310,7 @@
       "description": "",
       "rarity": 2,
       "value": 1,
-      "carryLimit": 80,
+      "carrylimit": 80,
       "drop": []
     },
     {
@@ -41318,7 +41318,7 @@
       "description": "",
       "rarity": 2,
       "value": 2,
-      "carryLimit": 70,
+      "carrylimit": 70,
       "drop": []
     },
     {
@@ -41326,7 +41326,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": []
     },
     {
@@ -41334,7 +41334,7 @@
       "description": "",
       "rarity": 3,
       "value": 4,
-      "carryLimit": 9,
+      "carrylimit": 9,
       "drop": []
     },
     {
@@ -41342,7 +41342,7 @@
       "description": "",
       "rarity": 3,
       "value": 7,
-      "carryLimit": 9,
+      "carrylimit": 9,
       "drop": []
     },
     {
@@ -41350,7 +41350,7 @@
       "description": "",
       "rarity": 3,
       "value": 7,
-      "carryLimit": 9,
+      "carrylimit": 9,
       "drop": []
     },
     {
@@ -41358,7 +41358,7 @@
       "description": "",
       "rarity": 2,
       "value": 4,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": []
     },
     {
@@ -41366,7 +41366,7 @@
       "description": "",
       "rarity": 3,
       "value": 6,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -41374,7 +41374,7 @@
       "description": "",
       "rarity": 3,
       "value": 10,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -41382,7 +41382,7 @@
       "description": "",
       "rarity": 3,
       "value": 3,
-      "carryLimit": 30,
+      "carrylimit": 30,
       "drop": []
     },
     {
@@ -41390,7 +41390,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": []
     },
     {
@@ -41398,7 +41398,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": []
     },
     {
@@ -41406,7 +41406,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": []
     },
     {
@@ -41414,7 +41414,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 60,
+      "carrylimit": 60,
       "drop": []
     },
     {
@@ -41422,7 +41422,7 @@
       "description": "",
       "rarity": 3,
       "value": 10,
-      "carryLimit": 3,
+      "carrylimit": 3,
       "drop": []
     },
     {
@@ -41430,7 +41430,7 @@
       "description": "",
       "rarity": 2,
       "value": 2,
-      "carryLimit": 12,
+      "carrylimit": 12,
       "drop": []
     },
     {
@@ -41438,7 +41438,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 12,
+      "carrylimit": 12,
       "drop": []
     },
     {
@@ -41446,7 +41446,7 @@
       "description": "",
       "rarity": 2,
       "value": 3,
-      "carryLimit": 12,
+      "carrylimit": 12,
       "drop": []
     },
     {
@@ -41454,7 +41454,7 @@
       "description": "",
       "rarity": 3,
       "value": 5,
-      "carryLimit": 8,
+      "carrylimit": 8,
       "drop": []
     },
     {
@@ -41462,7 +41462,7 @@
       "description": "",
       "rarity": 2,
       "value": 2,
-      "carryLimit": 12,
+      "carrylimit": 12,
       "drop": []
     },
     {
@@ -41470,7 +41470,7 @@
       "description": "",
       "rarity": 3,
       "value": 3,
-      "carryLimit": 8,
+      "carrylimit": 8,
       "drop": []
     },
     {
@@ -41478,7 +41478,7 @@
       "description": "",
       "rarity": 2,
       "value": 3,
-      "carryLimit": 12,
+      "carrylimit": 12,
       "drop": []
     },
     {
@@ -41486,7 +41486,7 @@
       "description": "",
       "rarity": 3,
       "value": 5,
-      "carryLimit": 8,
+      "carrylimit": 8,
       "drop": []
     },
     {
@@ -41494,7 +41494,7 @@
       "description": "",
       "rarity": 2,
       "value": 2,
-      "carryLimit": 12,
+      "carrylimit": 12,
       "drop": []
     },
     {
@@ -41502,7 +41502,7 @@
       "description": "",
       "rarity": 3,
       "value": 2,
-      "carryLimit": 12,
+      "carrylimit": 12,
       "drop": []
     },
     {
@@ -41510,7 +41510,7 @@
       "description": "",
       "rarity": 4,
       "value": 9,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -41518,7 +41518,7 @@
       "description": "",
       "rarity": 4,
       "value": 7,
-      "carryLimit": 5,
+      "carrylimit": 5,
       "drop": []
     },
     {
@@ -41526,7 +41526,7 @@
       "description": "",
       "rarity": 3,
       "value": 6,
-      "carryLimit": 15,
+      "carrylimit": 15,
       "drop": []
     },
     {
@@ -41534,7 +41534,7 @@
       "description": "",
       "rarity": 2,
       "value": 1,
-      "carryLimit": 80,
+      "carrylimit": 80,
       "drop": []
     },
     {
@@ -41542,7 +41542,7 @@
       "description": "",
       "rarity": 6,
       "value": 300,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41550,7 +41550,7 @@
       "description": "",
       "rarity": 6,
       "value": 400,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41558,7 +41558,7 @@
       "description": "",
       "rarity": 8,
       "value": 800,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41566,7 +41566,7 @@
       "description": "",
       "rarity": 7,
       "value": 5000,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41574,7 +41574,7 @@
       "description": "",
       "rarity": 0,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41582,7 +41582,7 @@
       "description": "",
       "rarity": 4,
       "value": 122,
-      "carryLimit": 20,
+      "carrylimit": 20,
       "drop": []
     },
     {
@@ -41590,7 +41590,7 @@
       "description": "",
       "rarity": 4,
       "value": 400,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41598,7 +41598,7 @@
       "description": "",
       "rarity": 8,
       "value": 800,
-      "carryLimit": 99,
+      "carrylimit": 99,
       "drop": []
     },
     {
@@ -41606,7 +41606,7 @@
       "description": "Rare Behemoth material. Tinged with magical power that can summon meteors from the heavens.",
       "rarity": 7,
       "value": 8000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41614,7 +41614,7 @@
       "description": "Rare Behemoth material. Bone so absurdly strong that it can even knock out legendary heroes.",
       "rarity": 7,
       "value": 7000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41622,7 +41622,7 @@
       "description": "Rare Behemoth material. The ominous light that this horn emits leaves even the Warriors of Light shaken.",
       "rarity": 8,
       "value": 15000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41630,7 +41630,7 @@
       "description": "Rare Behemoth material. These claws cut down weaker prey in a single blow.",
       "rarity": 8,
       "value": 10000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41638,7 +41638,7 @@
       "description": "Rare Behemoth material. A thick, muscular tail that sweeps away all teats.",
       "rarity": 8,
       "value": 12000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41646,7 +41646,7 @@
       "description": "Rare Lunastra material. Mostly obtained by carving. Broadly used for many purposes.",
       "rarity": 7,
       "value": 2300,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41654,7 +41654,7 @@
       "description": "Rare Lunastra material. Mostly obtained as a reward. Solid, used to craft gear.",
       "rarity": 7,
       "value": 3400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41662,7 +41662,7 @@
       "description": "Rare Lunastra material. Obtained by collecting rare drops. Valuable, fire resistant material.",
       "rarity": 7,
       "value": 3400,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41670,7 +41670,7 @@
       "description": "Rare Lunastra material. Obtained by breaking its wings. Supple, used to craft gear.",
       "rarity": 7,
       "value": 4500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41678,7 +41678,7 @@
       "description": "Rare Lunastra material. Obtained by carving its severed tail. Stiff, used to craft gear.",
       "rarity": 7,
       "value": 4900,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41686,7 +41686,7 @@
       "description": "Rare Lunastra material. Obtained by breaking its head. Stout, used in many weapons.",
       "rarity": 7,
       "value": 5500,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41694,7 +41694,7 @@
       "description": "A rare gem said to have formed within Lunastra tissue. Within it lies unimaginable power.",
       "rarity": 8,
       "value": 12000,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41702,7 +41702,7 @@
       "description": "Bitter tears wept by wyverns on certain occasions. (Account Item)",
       "rarity": 3,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41710,7 +41710,7 @@
       "description": "Large, bitter tears wept by wyverns on certain occasions. (Account Item)",
       "rarity": 5,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41718,7 +41718,7 @@
       "description": "A shiny rock that elder dragons like to collect. (Account Item)",
       "rarity": 3,
       "value": 0,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     },
     {
@@ -41726,7 +41726,7 @@
       "description": "A ticket bearing Vaal Hazak, engulfed in eternal darkness. Redeem at the Smithy to make novel equipment.",
       "rarity": 8,
       "value": 800,
-      "carryLimit": 0,
+      "carrylimit": 0,
       "drop": []
     }
   ]

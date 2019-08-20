@@ -686,14 +686,14 @@
                 "description": "",
                 "rarity": 4,
                 "value": 58,
-                "carryLimit": 5
+                "carrylimit": 5
               },
               {
                 "name": "Mega Armorskin",
                 "description": "",
                 "rarity": 5,
                 "value": 269,
-                "carryLimit": 5
+                "carrylimit": 5
               }
             ]
           },
@@ -1007,14 +1007,14 @@
                 "description": "A cure for poison.",
                 "rarity": 1,
                 "value": 6,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Herbal Medicine",
                 "description": "Removes all traces of poison and restores a slight amount of health.",
                 "rarity": 2,
                 "value": 25,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -1203,7 +1203,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -1383,7 +1383,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -1570,7 +1570,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -1742,7 +1742,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -1923,7 +1923,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -1943,14 +1943,14 @@
                 "description": "A cure for poison.",
                 "rarity": 1,
                 "value": 6,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Herbal Medicine",
                 "description": "Removes all traces of poison and restores a slight amount of health.",
                 "rarity": 2,
                 "value": 25,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -2090,7 +2090,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -2253,21 +2253,21 @@
                 "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
                 "rarity": 2,
                 "value": 48,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Astera Jerky",
                 "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
                 "rarity": 2,
                 "value": 20,
-                "carryLimit": 5
+                "carrylimit": 5
               },
               {
                 "name": "Sushifish Scale",
                 "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
                 "rarity": 2,
                 "value": 45,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           }
@@ -2285,7 +2285,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -2307,7 +2307,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -2432,7 +2432,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -2452,14 +2452,14 @@
                 "description": "",
                 "rarity": 4,
                 "value": 58,
-                "carryLimit": 5
+                "carrylimit": 5
               },
               {
                 "name": "Mega Armorskin",
                 "description": "",
                 "rarity": 5,
                 "value": 269,
-                "carryLimit": 5
+                "carrylimit": 5
               }
             ]
           },
@@ -3220,7 +3220,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -3371,7 +3371,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -3689,7 +3689,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -3837,7 +3837,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -4018,7 +4018,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -4298,21 +4298,21 @@
                 "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
                 "rarity": 2,
                 "value": 48,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Astera Jerky",
                 "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
                 "rarity": 2,
                 "value": 20,
-                "carryLimit": 5
+                "carrylimit": 5
               },
               {
                 "name": "Sushifish Scale",
                 "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
                 "rarity": 2,
                 "value": 45,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           }
@@ -4648,7 +4648,7 @@
                 "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
                 "rarity": 2,
                 "value": 6,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           }
@@ -4801,7 +4801,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -4821,14 +4821,14 @@
                 "description": "A cure for poison.",
                 "rarity": 1,
                 "value": 6,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Herbal Medicine",
                 "description": "Removes all traces of poison and restores a slight amount of health.",
                 "rarity": 2,
                 "value": 25,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -5032,7 +5032,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -5052,14 +5052,14 @@
                 "description": "A cure for poison.",
                 "rarity": 1,
                 "value": 6,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Herbal Medicine",
                 "description": "Removes all traces of poison and restores a slight amount of health.",
                 "rarity": 2,
                 "value": 25,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -5240,7 +5240,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -5260,14 +5260,14 @@
                 "description": "A cure for poison.",
                 "rarity": 1,
                 "value": 6,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Herbal Medicine",
                 "description": "Removes all traces of poison and restores a slight amount of health.",
                 "rarity": 2,
                 "value": 25,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -5437,7 +5437,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -5743,7 +5743,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -5772,7 +5772,7 @@
                 "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
                 "rarity": 2,
                 "value": 6,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           }
@@ -5906,7 +5906,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -6060,7 +6060,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -6082,7 +6082,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -6224,7 +6224,7 @@
                 "description": "A mysterious berry that cures various blights.",
                 "rarity": 2,
                 "value": 120,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           },
@@ -6353,21 +6353,21 @@
                 "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
                 "rarity": 2,
                 "value": 48,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Astera Jerky",
                 "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
                 "rarity": 2,
                 "value": 20,
-                "carryLimit": 5
+                "carrylimit": 5
               },
               {
                 "name": "Sushifish Scale",
                 "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
                 "rarity": 2,
                 "value": 45,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           }
@@ -6491,21 +6491,21 @@
                 "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
                 "rarity": 2,
                 "value": 48,
-                "carryLimit": 10
+                "carrylimit": 10
               },
               {
                 "name": "Astera Jerky",
                 "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
                 "rarity": 2,
                 "value": 20,
-                "carryLimit": 5
+                "carrylimit": 5
               },
               {
                 "name": "Sushifish Scale",
                 "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
                 "rarity": 2,
                 "value": 45,
-                "carryLimit": 10
+                "carrylimit": 10
               }
             ]
           }

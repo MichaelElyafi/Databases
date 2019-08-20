@@ -1,0 +1,346 @@
+﻿{
+  "Ailment": [
+    {
+      "name": "Blastblight",
+      "description": "Blastblight will cause a damaging explosion after a certain amount of time has passed, or upon sustaining a heavy impact.",
+      "recovery": {
+        "actions": [
+          "dodge"
+        ],
+        "items": []
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Blast Resistance",
+            "description": "Grants protection against blastblight."
+          }
+        ],
+        "items": []
+      }
+    },
+    {
+      "name": "Bleeding",
+      "description": "Bleeding causes damage when performing certain actions, such as running, dodging, or attacking.",
+      "recovery": {
+        "actions": [],
+        "items": []
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Bleeding Resistance",
+            "description": "Grants protection against bleeding."
+          }
+        ],
+        "items": [
+          {
+            "name": "Well-done Steak",
+            "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
+            "rarity": 2,
+            "value": 48,
+            "carrylimit": 10
+          },
+          {
+            "name": "Astera Jerky",
+            "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
+            "rarity": 2,
+            "value": 20,
+            "carrylimit": 5
+          },
+          {
+            "name": "Sushifish Scale",
+            "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
+            "rarity": 2,
+            "value": 45,
+            "carrylimit": 10
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dragonblight",
+      "description": "Dragonblight causes your weapon's elemental properties are nullified.",
+      "recovery": {
+        "actions": [],
+        "items": [
+          {
+            "name": "Nulberry",
+            "description": "A mysterious berry that cures various blights.",
+            "rarity": 2,
+            "value": 120,
+            "carrylimit": 10
+          }
+        ]
+      },
+      "protection": {
+        "skills": [],
+        "items": []
+      }
+    },
+    {
+      "name": "Effluvial Buildup",
+      "description": "Effluvial buildup causes damage over time, and eventually cuts your maximum health in half if ignored for too long.",
+      "recovery": {
+        "actions": [],
+        "items": [
+          {
+            "name": "Nulberry",
+            "description": "A mysterious berry that cures various blights.",
+            "rarity": 2,
+            "value": 120,
+            "carrylimit": 10
+          }
+        ]
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Effluvial Expert",
+            "description": "Nullifies or reduces environmental damage in the Rotten Vale."
+          },
+          {
+            "name": "Effluvia Resistance",
+            "description": "Gain a resistance to effluvial buildup."
+          }
+        ],
+        "items": []
+      }
+    },
+    {
+      "name": "Fireblight",
+      "description": "Fireblight causes damage over time, and negates regular health recovery.",
+      "recovery": {
+        "actions": [
+          "dodge"
+        ],
+        "items": [
+          {
+            "name": "Nulberry",
+            "description": "A mysterious berry that cures various blights.",
+            "rarity": 2,
+            "value": 120,
+            "carrylimit": 10
+          }
+        ]
+      },
+      "protection": {
+        "skills": [],
+        "items": []
+      }
+    },
+    {
+      "name": "Iceblight",
+      "description": "Iceblight causes stamina usage to increase when performing actions.",
+      "recovery": {
+        "actions": [],
+        "items": [
+          {
+            "name": "Nulberry",
+            "description": "A mysterious berry that cures various blights.",
+            "rarity": 2,
+            "value": 120,
+            "carrylimit": 10
+          }
+        ]
+      },
+      "protection": {
+        "skills": [],
+        "items": []
+      }
+    },
+    {
+      "name": "Paralysis",
+      "description": "Paralysis renders the hunter or monster immobilized and susceptible to increased damage for the duration. Hunters can unparalyzed if they are hit.",
+      "recovery": {
+        "actions": [],
+        "items": []
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Paralysis Resistance",
+            "description": "Reduces the duration of paralysis."
+          }
+        ],
+        "items": []
+      }
+    },
+    {
+      "name": "Poison",
+      "description": "Poison slowly drains the target's health.",
+      "recovery": {
+        "actions": [],
+        "items": [
+          {
+            "name": "Antidote",
+            "description": "A cure for poison.",
+            "rarity": 1,
+            "value": 6,
+            "carrylimit": 10
+          },
+          {
+            "name": "Herbal Medicine",
+            "description": "Removes all traces of poison and restores a slight amount of health.",
+            "rarity": 2,
+            "value": 25,
+            "carrylimit": 10
+          }
+        ]
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Poison Resistance",
+            "description": "Grants protection against the effects of poison."
+          }
+        ],
+        "items": []
+      }
+    },
+    {
+      "name": "Sleep",
+      "description": "Sleep renders the hunter or monster inactive and susceptible to increased damage, but only for the first hit, as it will then wake them up.",
+      "recovery": {
+        "actions": [],
+        "items": []
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Sleep Resistance",
+            "description": "Reduces the duration of sleep."
+          }
+        ],
+        "items": [
+          {
+            "name": "Energy Drink",
+            "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
+            "rarity": 2,
+            "value": 6,
+            "carrylimit": 10
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stun",
+      "description": "Stun renders the target inactive, and sometimes causes them to fall over.",
+      "recovery": {
+        "actions": [],
+        "items": []
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Stun Resistance",
+            "description": "Reduces stun duration."
+          }
+        ],
+        "items": []
+      }
+    },
+    {
+      "name": "Thunderblight",
+      "description": "Thunderblight increases the chance of being stunned.",
+      "recovery": {
+        "actions": [
+          "dodge"
+        ],
+        "items": [
+          {
+            "name": "Nulberry",
+            "description": "A mysterious berry that cures various blights.",
+            "rarity": 2,
+            "value": 120,
+            "carrylimit": 10
+          }
+        ]
+      },
+      "protection": {
+        "skills": [],
+        "items": []
+      }
+    },
+    {
+      "name": "Waterblight",
+      "description": "Waterblight slows down stamina recovery rate.",
+      "recovery": {
+        "actions": [],
+        "items": [
+          {
+            "name": "Nulberry",
+            "description": "A mysterious berry that cures various blights.",
+            "rarity": 2,
+            "value": 120,
+            "carrylimit": 10
+          }
+        ]
+      },
+      "protection": {
+        "skills": [],
+        "items": []
+      }
+    },
+    {
+      "name": "Wind Pressure",
+      "description": "Wind pressure causes the hunter to brace against powerful winds, causing temporarily imobility.",
+      "recovery": {
+        "actions": [],
+        "items": []
+      },
+      "protection": {
+        "skills": [
+          {
+            "name": "Windproof",
+            "description": "Grants protection against wind pressure."
+          },
+          {
+            "name": "Nullify Wind Pressure",
+            "description": "Negates all wind pressure."
+          }
+        ],
+        "items": []
+      }
+    },
+    {
+      "name": "Defense Down",
+      "description": "Some monsters may inflict a status that lowers a hunter's defense. Lasts for a certain period of time but can also be cured with defense-increasing items.",
+      "recovery": {
+        "actions": [],
+        "items": [
+          {
+            "name": "Armorskin",
+            "description": "",
+            "rarity": 4,
+            "value": 58,
+            "carrylimit": 5
+          },
+          {
+            "name": "Mega Armorskin",
+            "description": "",
+            "rarity": 5,
+            "value": 269,
+            "carrylimit": 5
+          }
+        ]
+      },
+      "protection": {
+        "skills": [],
+        "items": []
+      }
+    },
+    {
+      "name": "Muddy",
+      "description": "A status effect inflicted when mud thrown by a monster covers the Hunter and makes movement more difficult. Slows all actions until the hunter leaves the mud.",
+      "recovery": {
+        "actions": [],
+        "items": []
+      },
+      "protection": {
+        "skills": [],
+        "items": []
+      }
+    }
+  ]
+}

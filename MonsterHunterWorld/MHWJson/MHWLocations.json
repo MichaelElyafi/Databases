@@ -1,0 +1,134 @@
+﻿{
+  "Location": [
+    {
+      "name": "Ancient Forest",
+      "zonecount": 17,
+      "camps": [
+        {
+          "name": "Southwest Camp",
+          "zone": 1
+        },
+        {
+          "name": "Northwest Camp",
+          "zone": 8
+        },
+        {
+          "name": "Northeast Camp",
+          "zone": 11
+        },
+        {
+          "name": "Ancient Forest Camp",
+          "zone": 17
+        }
+      ]
+    },
+    {
+      "name": "Coral Highlands",
+      "zonecount": 15,
+      "camps": [
+        {
+          "name": "Southern Camp",
+          "zone": 1
+        },
+        {
+          "name": "Northeast Camp",
+          "zone": 12
+        }
+      ]
+    },
+    {
+      "name": "Wildspire Waste",
+      "zonecount": 15,
+      "camps": [
+        {
+          "name": "Southwest Camp",
+          "zone": 1
+        },
+        {
+          "name": "Central Camp",
+          "zone": 6
+        },
+        {
+          "name": "Eastern Camp",
+          "zone": 11
+        },
+        {
+          "name": "Northeast Camp",
+          "zone": 15
+        }
+      ]
+    },
+    {
+      "name": "Rotten Vale",
+      "zonecount": 16,
+      "camps": [
+        {
+          "name": "Southeast Camp",
+          "zone": 1
+        },
+        {
+          "name": "Central Camp",
+          "zone": 11
+        }
+      ]
+    },
+    {
+      "name": "Elder's Recess",
+      "zonecount": 16,
+      "camps": [
+        {
+          "name": "Southern Camp",
+          "zone": 1
+        },
+        {
+          "name": "Eastern Camp",
+          "zone": 8
+        },
+        {
+          "name": "Northwest Camp",
+          "zone": 16
+        }
+      ]
+    },
+    {
+      "name": "Great Ravine",
+      "zonecount": 1,
+      "camps": []
+    },
+    {
+      "name": "Confluence of Fates",
+      "zonecount": 3,
+      "camps": [
+        {
+          "name": "Camp",
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "name": "Everstream",
+      "zonecount": 1,
+      "camps": []
+    },
+    {
+      "name": "Caverns of El Dorado",
+      "zonecount": 4,
+      "camps": [
+        {
+          "name": "Camp",
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "name": "Special Arena",
+      "zonecount": 1,
+      "camps": []
+    },
+    {
+      "name": "Arena",
+      "zonecount": 1,
+      "camps": []
+    }
+  ]
+}
