@@ -12,8 +12,7 @@
       "protection": {
         "skills": [
           {
-            "name": "Blast Resistance",
-            "description": "Grants protection against blastblight."
+            "name": "Blast Resistance"
           }
         ],
         "items": []
@@ -29,31 +28,18 @@
       "protection": {
         "skills": [
           {
-            "name": "Bleeding Resistance",
-            "description": "Grants protection against bleeding."
+            "name": "Bleeding Resistance"
           }
         ],
         "items": [
           {
-            "name": "Well-done Steak",
-            "description": "Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!",
-            "rarity": 2,
-            "value": 48,
-            "carrylimit": 10
+            "name": "Well-done Steak"
           },
           {
-            "name": "Astera Jerky",
-            "description": "Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding.",
-            "rarity": 2,
-            "value": 20,
-            "carrylimit": 5
+            "name": "Astera Jerky"
           },
           {
-            "name": "Sushifish Scale",
-            "description": "A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.",
-            "rarity": 2,
-            "value": 45,
-            "carrylimit": 10
+            "name": "Sushifish Scale"
           }
         ]
       }
@@ -65,11 +51,7 @@
         "actions": [],
         "items": [
           {
-            "name": "Nulberry",
-            "description": "A mysterious berry that cures various blights.",
-            "rarity": 2,
-            "value": 120,
-            "carrylimit": 10
+            "name": "Nulberry"
           }
         ]
       },
@@ -85,23 +67,17 @@
         "actions": [],
         "items": [
           {
-            "name": "Nulberry",
-            "description": "A mysterious berry that cures various blights.",
-            "rarity": 2,
-            "value": 120,
-            "carrylimit": 10
+            "name": "Nulberry"
           }
         ]
       },
       "protection": {
         "skills": [
           {
-            "name": "Effluvial Expert",
-            "description": "Nullifies or reduces environmental damage in the Rotten Vale."
+            "name": "Effluvial Expert"
           },
           {
-            "name": "Effluvia Resistance",
-            "description": "Gain a resistance to effluvial buildup."
+            "name": "Effluvia Resistance"
           }
         ],
         "items": []
@@ -116,11 +92,7 @@
         ],
         "items": [
           {
-            "name": "Nulberry",
-            "description": "A mysterious berry that cures various blights.",
-            "rarity": 2,
-            "value": 120,
-            "carrylimit": 10
+            "name": "Nulberry"
           }
         ]
       },
@@ -136,11 +108,7 @@
         "actions": [],
         "items": [
           {
-            "name": "Nulberry",
-            "description": "A mysterious berry that cures various blights.",
-            "rarity": 2,
-            "value": 120,
-            "carrylimit": 10
+            "name": "Nulberry"
           }
         ]
       },
@@ -159,8 +127,7 @@
       "protection": {
         "skills": [
           {
-            "name": "Paralysis Resistance",
-            "description": "Reduces the duration of paralysis."
+            "name": "Paralysis Resistance"
           }
         ],
         "items": []
@@ -173,26 +140,17 @@
         "actions": [],
         "items": [
           {
-            "name": "Antidote",
-            "description": "A cure for poison.",
-            "rarity": 1,
-            "value": 6,
-            "carrylimit": 10
+            "name": "Antidote"
           },
           {
-            "name": "Herbal Medicine",
-            "description": "Removes all traces of poison and restores a slight amount of health.",
-            "rarity": 2,
-            "value": 25,
-            "carrylimit": 10
+            "name": "Herbal Medicine"
           }
         ]
       },
       "protection": {
         "skills": [
           {
-            "name": "Poison Resistance",
-            "description": "Grants protection against the effects of poison."
+            "name": "Poison Resistance"
           }
         ],
         "items": []
@@ -208,17 +166,12 @@
       "protection": {
         "skills": [
           {
-            "name": "Sleep Resistance",
-            "description": "Reduces the duration of sleep."
+            "name": "Sleep Resistance"
           }
         ],
         "items": [
           {
-            "name": "Energy Drink",
-            "description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
-            "rarity": 2,
-            "value": 6,
-            "carrylimit": 10
+            "name": "Energy Drink"
           }
         ]
       }
@@ -233,8 +186,7 @@
       "protection": {
         "skills": [
           {
-            "name": "Stun Resistance",
-            "description": "Reduces stun duration."
+            "name": "Stun Resistance"
           }
         ],
         "items": []
@@ -249,11 +201,7 @@
         ],
         "items": [
           {
-            "name": "Nulberry",
-            "description": "A mysterious berry that cures various blights.",
-            "rarity": 2,
-            "value": 120,
-            "carrylimit": 10
+            "name": "Nulberry"
           }
         ]
       },
@@ -269,11 +217,7 @@
         "actions": [],
         "items": [
           {
-            "name": "Nulberry",
-            "description": "A mysterious berry that cures various blights.",
-            "rarity": 2,
-            "value": 120,
-            "carrylimit": 10
+            "name": "Nulberry"
           }
         ]
       },
@@ -292,12 +236,10 @@
       "protection": {
         "skills": [
           {
-            "name": "Windproof",
-            "description": "Grants protection against wind pressure."
+            "name": "Windproof"
           },
           {
-            "name": "Nullify Wind Pressure",
-            "description": "Negates all wind pressure."
+            "name": "Nullify Wind Pressure"
           }
         ],
         "items": []
@@ -310,18 +252,10 @@
         "actions": [],
         "items": [
           {
-            "name": "Armorskin",
-            "description": "",
-            "rarity": 4,
-            "value": 58,
-            "carrylimit": 5
+            "name": "Armorskin"
           },
           {
-            "name": "Mega Armorskin",
-            "description": "",
-            "rarity": 5,
-            "value": 269,
-            "carrylimit": 5
+            "name": "Mega Armorskin"
           }
         ]
       },
